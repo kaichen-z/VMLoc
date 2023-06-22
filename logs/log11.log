@@ -1,0 +1,1052 @@
+nohup: ignoring input
+============= 1 0
+Logging to /mnt/nas/kaichen/eng/LOC/vmloc_git/record/7Scenes_redkitchen_concatenate_False_2019_2/runs/log.txt
+Not Using ColorJitter
+c_nvmlMemory_t(total: 24146608128 B, free: 14555742208 B, used: 9590865920 B)
+/home/kaichen/.conda/envs/rigid/lib/python3.8/site-packages/torch/nn/functional.py:1628: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 0, val_loss 1.998698
+------------0.000000-----------------3.000000--------------
+Error in translation: median 2.62 m,  mean 2.70 m 
+ Error in rotation: median 135.11 degrees, mean 134.11 degree
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 0, kl_loss 0.000000, dis_loss15.846772
+-------------0.000354-----------------2.994745--------------
+------------Time consuming: 1.309226---Storaging: 6697521822.254545---------
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 1, kl_loss 0.000000, dis_loss9.887876
+-------------0.008236-----------------2.990668--------------
+------------Time consuming: 1.015028---Storaging: 6698303488.000000---------
+---------------------1---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 2, kl_loss 0.000000, dis_loss3.832681
+-------------0.017301-----------------2.988301--------------
+------------Time consuming: 1.014246---Storaging: 6698303488.000000---------
+---------------------2---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 3, kl_loss 0.000000, dis_loss1.016673
+-------------0.025516-----------------2.986969--------------
+------------Time consuming: 1.122324---Storaging: 6698303488.000000---------
+---------------------3---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 4, kl_loss 0.000000, dis_loss0.110704
+-------------0.032946-----------------2.985981--------------
+------------Time consuming: 1.109828---Storaging: 6698303488.000000---------
+---------------------4---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 5, val_loss 0.663801
+-------------0.032946-----------------2.985981--------------
+Error in translation: median 1.19 m,  mean 1.15 m 
+ Error in rotation: median 18.73 degrees, mean 31.10 degree
+---------------------5---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 5, kl_loss 0.000000, dis_loss-0.184171
+-------------0.039836-----------------2.985042--------------
+------------Time consuming: 1.186364---Storaging: 6700400640.000000---------
+---------------------5---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 6, kl_loss 0.000000, dis_loss-0.477251
+-------------0.046574-----------------2.984205--------------
+------------Time consuming: 1.082645---Storaging: 6700400640.000000---------
+---------------------6---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 7, kl_loss 0.000000, dis_loss-0.584778
+-------------0.053157-----------------2.983358--------------
+------------Time consuming: 0.965143---Storaging: 6700400640.000000---------
+---------------------7---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 8, kl_loss 0.000000, dis_loss-0.788825
+-------------0.059690-----------------2.982617--------------
+------------Time consuming: 1.126727---Storaging: 6700400640.000000---------
+---------------------8---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 9, kl_loss 0.000000, dis_loss-0.744816
+-------------0.066238-----------------2.981718--------------
+------------Time consuming: 1.113810---Storaging: 6700400640.000000---------
+---------------------9---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 10, val_loss 0.546661
+-------------0.066238-----------------2.981718--------------
+Error in translation: median 1.03 m,  mean 0.99 m 
+ Error in rotation: median 11.26 degrees, mean 22.47 degree
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 10, kl_loss 0.000000, dis_loss-0.810809
+-------------0.072817-----------------2.980807--------------
+------------Time consuming: 1.133766---Storaging: 6700400640.000000---------
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 11, kl_loss 0.000000, dis_loss-0.955466
+-------------0.079468-----------------2.979901--------------
+------------Time consuming: 1.181199---Storaging: 6700400640.000000---------
+---------------------11---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 12, kl_loss 0.000000, dis_loss-1.007666
+-------------0.086135-----------------2.978986--------------
+------------Time consuming: 0.977225---Storaging: 6700400640.000000---------
+---------------------12---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 13, kl_loss 0.000000, dis_loss-1.138000
+-------------0.092749-----------------2.978122--------------
+------------Time consuming: 0.960997---Storaging: 6700400640.000000---------
+---------------------13---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 14, kl_loss 0.000000, dis_loss-1.144678
+-------------0.099335-----------------2.977180--------------
+------------Time consuming: 1.078067---Storaging: 6700400640.000000---------
+---------------------14---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 15, val_loss 0.466172
+-------------0.099335-----------------2.977180--------------
+Error in translation: median 0.74 m,  mean 0.77 m 
+ Error in rotation: median 10.79 degrees, mean 24.94 degree
+---------------------15---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 15, kl_loss 0.000000, dis_loss-1.353829
+-------------0.105884-----------------2.976493--------------
+------------Time consuming: 1.150830---Storaging: 6700400640.000000---------
+---------------------15---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 16, kl_loss 0.000000, dis_loss-1.389167
+-------------0.112378-----------------2.975753--------------
+------------Time consuming: 1.182585---Storaging: 6700400640.000000---------
+---------------------16---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 17, kl_loss 0.000000, dis_loss-1.335678
+-------------0.118802-----------------2.974889--------------
+------------Time consuming: 1.144747---Storaging: 6700400640.000000---------
+---------------------17---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 18, kl_loss 0.000000, dis_loss-1.446978
+-------------0.125202-----------------2.974070--------------
+------------Time consuming: 0.970520---Storaging: 6700400640.000000---------
+---------------------18---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 19, kl_loss 0.000000, dis_loss-1.477100
+-------------0.131559-----------------2.973250--------------
+------------Time consuming: 1.035985---Storaging: 6700400640.000000---------
+---------------------19---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 20, val_loss 0.375475
+-------------0.131559-----------------2.973250--------------
+Error in translation: median 0.47 m,  mean 0.60 m 
+ Error in rotation: median 10.56 degrees, mean 21.14 degree
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 20, kl_loss 0.000000, dis_loss-1.387700
+-------------0.137678-----------------2.972272--------------
+------------Time consuming: 1.184885---Storaging: 6700400640.000000---------
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 21, kl_loss 0.000000, dis_loss-1.349060
+-------------0.143718-----------------2.971080--------------
+------------Time consuming: 1.131350---Storaging: 6700400640.000000---------
+---------------------21---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 22, kl_loss 0.000000, dis_loss-1.570340
+-------------0.149782-----------------2.970271--------------
+------------Time consuming: 1.136016---Storaging: 6700400640.000000---------
+---------------------22---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 23, kl_loss 0.000000, dis_loss-1.453959
+-------------0.155830-----------------2.969166--------------
+------------Time consuming: 1.004502---Storaging: 6700400640.000000---------
+---------------------23---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 24, kl_loss 0.000000, dis_loss-1.632148
+-------------0.161815-----------------2.968348--------------
+------------Time consuming: 0.944417---Storaging: 6700400640.000000---------
+---------------------24---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 25, val_loss 0.332973
+-------------0.161815-----------------2.968348--------------
+Error in translation: median 0.38 m,  mean 0.55 m 
+ Error in rotation: median 7.49 degrees, mean 17.81 degree
+---------------------25---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 25, kl_loss 0.000000, dis_loss-1.596769
+-------------0.167835-----------------2.967399--------------
+------------Time consuming: 1.074258---Storaging: 6700400640.000000---------
+---------------------25---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 26, kl_loss 0.000000, dis_loss-1.624590
+-------------0.173775-----------------2.966493--------------
+------------Time consuming: 1.189371---Storaging: 6700400640.000000---------
+---------------------26---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 27, kl_loss 0.000000, dis_loss-1.743335
+-------------0.179703-----------------2.965793--------------
+------------Time consuming: 1.193923---Storaging: 6700400640.000000---------
+---------------------27---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 28, kl_loss 0.000000, dis_loss-1.754545
+-------------0.185535-----------------2.965123--------------
+------------Time consuming: 1.130482---Storaging: 6700400640.000000---------
+---------------------28---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 29, kl_loss 0.000000, dis_loss-1.691674
+-------------0.191326-----------------2.964243--------------
+------------Time consuming: 0.975358---Storaging: 6700400640.000000---------
+---------------------29---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 30, val_loss 0.329401
+-------------0.191326-----------------2.964243--------------
+Error in translation: median 0.28 m,  mean 0.50 m 
+ Error in rotation: median 12.88 degrees, mean 21.41 degree
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 30, kl_loss 0.000000, dis_loss-1.704532
+-------------0.197089-----------------2.963299--------------
+------------Time consuming: 1.142786---Storaging: 6700400640.000000---------
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 31, kl_loss 0.000000, dis_loss-1.817599
+-------------0.202847-----------------2.962660--------------
+------------Time consuming: 1.133531---Storaging: 6700400640.000000---------
+---------------------31---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 32, kl_loss 0.000000, dis_loss-1.841969
+-------------0.208624-----------------2.962056--------------
+------------Time consuming: 1.171318---Storaging: 6700400640.000000---------
+---------------------32---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 33, kl_loss 0.000000, dis_loss-1.861508
+-------------0.214351-----------------2.961529--------------
+------------Time consuming: 1.150234---Storaging: 6700400640.000000---------
+---------------------33---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 34, kl_loss 0.000000, dis_loss-1.886242
+-------------0.220027-----------------2.961045--------------
+------------Time consuming: 1.010050---Storaging: 6700400640.000000---------
+---------------------34---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 35, val_loss 0.318040
+-------------0.220027-----------------2.961045--------------
+Error in translation: median 0.34 m,  mean 0.50 m 
+ Error in rotation: median 7.65 degrees, mean 18.71 degree
+---------------------35---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 35, kl_loss 0.000000, dis_loss-1.945136
+-------------0.225710-----------------2.960840--------------
+------------Time consuming: 1.011825---Storaging: 6700400640.000000---------
+---------------------35---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 36, kl_loss 0.000000, dis_loss-1.776755
+-------------0.231225-----------------2.959823--------------
+------------Time consuming: 1.102347---Storaging: 6700400640.000000---------
+---------------------36---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 37, kl_loss 0.000000, dis_loss-1.901768
+-------------0.236810-----------------2.959266--------------
+------------Time consuming: 1.113089---Storaging: 6700400640.000000---------
+---------------------37---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 38, kl_loss 0.000000, dis_loss-1.917926
+-------------0.242393-----------------2.958804--------------
+------------Time consuming: 1.172188---Storaging: 6700400640.000000---------
+---------------------38---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 39, kl_loss 0.000000, dis_loss-1.969915
+-------------0.248012-----------------2.958472--------------
+------------Time consuming: 1.175913---Storaging: 6700400640.000000---------
+---------------------39---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 40, val_loss 0.296582
+-------------0.248012-----------------2.958472--------------
+Error in translation: median 0.32 m,  mean 0.46 m 
+ Error in rotation: median 6.58 degrees, mean 17.23 degree
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 40, kl_loss 0.000000, dis_loss-1.985913
+-------------0.253614-----------------2.958265--------------
+------------Time consuming: 0.970391---Storaging: 6700400640.000000---------
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 41, kl_loss 0.000000, dis_loss-1.964026
+-------------0.259175-----------------2.957975--------------
+------------Time consuming: 1.097830---Storaging: 6700400640.000000---------
+---------------------41---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 42, kl_loss 0.000000, dis_loss-2.011777
+-------------0.264733-----------------2.957786--------------
+------------Time consuming: 1.135944---Storaging: 6700400640.000000---------
+---------------------42---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 43, kl_loss 0.000000, dis_loss-1.837052
+-------------0.270180-----------------2.956713--------------
+------------Time consuming: 1.147315---Storaging: 6700400640.000000---------
+---------------------43---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 44, kl_loss 0.000000, dis_loss-1.796826
+-------------0.275571-----------------2.954975--------------
+------------Time consuming: 1.133536---Storaging: 6700400640.000000---------
+---------------------44---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 45, val_loss 0.349794
+-------------0.275571-----------------2.954975--------------
+Error in translation: median 0.34 m,  mean 0.53 m 
+ Error in rotation: median 10.51 degrees, mean 22.07 degree
+---------------------45---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 45, kl_loss 0.000000, dis_loss-2.002332
+-------------0.281083-----------------2.954592--------------
+------------Time consuming: 0.965913---Storaging: 6700400640.000000---------
+---------------------45---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 46, kl_loss 0.000000, dis_loss-2.074836
+-------------0.286649-----------------2.954828--------------
+------------Time consuming: 0.989907---Storaging: 6700400640.000000---------
+---------------------46---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 47, kl_loss 0.000000, dis_loss-2.021992
+-------------0.292167-----------------2.954621--------------
+------------Time consuming: 1.093606---Storaging: 6700400640.000000---------
+---------------------47---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 48, kl_loss 0.000000, dis_loss-2.041570
+-------------0.297683-----------------2.954614--------------
+------------Time consuming: 1.148853---Storaging: 6700400640.000000---------
+---------------------48---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 49, kl_loss 0.000000, dis_loss-2.101940
+-------------0.303225-----------------2.955040--------------
+------------Time consuming: 1.181374---Storaging: 6700400640.000000---------
+---------------------49---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 50, val_loss 0.290894
+-------------0.303225-----------------2.955040--------------
+Error in translation: median 0.27 m,  mean 0.45 m 
+ Error in rotation: median 8.45 degrees, mean 17.30 degree
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 50, kl_loss 0.000000, dis_loss-2.137211
+-------------0.308720-----------------2.955670--------------
+------------Time consuming: 1.089078---Storaging: 6700400640.000000---------
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 51, kl_loss 0.000000, dis_loss-2.134250
+-------------0.314255-----------------2.956313--------------
+------------Time consuming: 0.981400---Storaging: 6700400640.000000---------
+---------------------51---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 52, kl_loss 0.000000, dis_loss-2.194813
+-------------0.319832-----------------2.957572--------------
+------------Time consuming: 1.137170---Storaging: 6700400640.000000---------
+---------------------52---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 53, kl_loss 0.000000, dis_loss-2.223088
+-------------0.325386-----------------2.959051--------------
+------------Time consuming: 1.105481---Storaging: 6700400640.000000---------
+---------------------53---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 54, kl_loss 0.000000, dis_loss-2.287573
+-------------0.330947-----------------2.961223--------------
+------------Time consuming: 1.185206---Storaging: 6700400640.000000---------
+---------------------54---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 55, val_loss 0.273334
+-------------0.330947-----------------2.961223--------------
+Error in translation: median 0.28 m,  mean 0.43 m 
+ Error in rotation: median 6.57 degrees, mean 16.47 degree
+---------------------55---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 55, kl_loss 0.000000, dis_loss-2.230213
+-------------0.336444-----------------2.962864--------------
+------------Time consuming: 1.164818---Storaging: 6700400640.000000---------
+---------------------55---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 56, kl_loss 0.000000, dis_loss-2.252474
+-------------0.341985-----------------2.964820--------------
+------------Time consuming: 1.020069---Storaging: 6700400640.000000---------
+---------------------56---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 57, kl_loss 0.000000, dis_loss-2.228733
+-------------0.347481-----------------2.966392--------------
+------------Time consuming: 0.988652---Storaging: 6700400640.000000---------
+---------------------57---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 58, kl_loss 0.000000, dis_loss-2.348408
+-------------0.353062-----------------2.969346--------------
+------------Time consuming: 1.151162---Storaging: 6700400640.000000---------
+---------------------58---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 59, kl_loss 0.000000, dis_loss-2.278796
+-------------0.358593-----------------2.971527--------------
+------------Time consuming: 1.121556---Storaging: 6700400640.000000---------
+---------------------59---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 60, val_loss 0.280155
+-------------0.358593-----------------2.971527--------------
+Error in translation: median 0.26 m,  mean 0.41 m 
+ Error in rotation: median 8.63 degrees, mean 19.41 degree
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 60, kl_loss 0.000000, dis_loss-2.332780
+-------------0.364130-----------------2.974286--------------
+------------Time consuming: 1.121867---Storaging: 6700400640.000000---------
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 61, kl_loss 0.000000, dis_loss-2.393052
+-------------0.369645-----------------2.977905--------------
+------------Time consuming: 1.118438---Storaging: 6700400640.000000---------
+---------------------61---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 62, kl_loss 0.000000, dis_loss-2.402433
+-------------0.375193-----------------2.981668--------------
+------------Time consuming: 0.978502---Storaging: 6700400640.000000---------
+---------------------62---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 63, kl_loss 0.000000, dis_loss-2.364015
+-------------0.380671-----------------2.985008--------------
+------------Time consuming: 1.099127---Storaging: 6700400640.000000---------
+---------------------63---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 64, kl_loss 0.000000, dis_loss-2.426345
+-------------0.386186-----------------2.988966--------------
+------------Time consuming: 1.122064---Storaging: 6700400640.000000---------
+---------------------64---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 65, val_loss 0.274867
+-------------0.386186-----------------2.988966--------------
+Error in translation: median 0.29 m,  mean 0.42 m 
+ Error in rotation: median 11.51 degrees, mean 18.48 degree
+---------------------65---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 65, kl_loss 0.000000, dis_loss-2.448278
+-------------0.391748-----------------2.993078--------------
+------------Time consuming: 1.147162---Storaging: 6700400640.000000---------
+---------------------65---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 66, kl_loss 0.000000, dis_loss-2.465880
+-------------0.397287-----------------2.997553--------------
+------------Time consuming: 1.155194---Storaging: 6700400640.000000---------
+---------------------66---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 67, kl_loss 0.000000, dis_loss-2.469742
+-------------0.402782-----------------3.002061--------------
+------------Time consuming: 1.013517---Storaging: 6700400640.000000---------
+---------------------67---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 68, kl_loss 0.000000, dis_loss-2.504939
+-------------0.408282-----------------3.006743--------------
+------------Time consuming: 0.955664---Storaging: 6700400640.000000---------
+---------------------68---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 69, kl_loss 0.000000, dis_loss-2.486170
+-------------0.413795-----------------3.011281--------------
+------------Time consuming: 1.070028---Storaging: 6700400640.000000---------
+---------------------69---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 70, val_loss 0.287226
+-------------0.413795-----------------3.011281--------------
+Error in translation: median 0.32 m,  mean 0.44 m 
+ Error in rotation: median 8.45 degrees, mean 17.11 degree
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 70, kl_loss 0.000000, dis_loss-2.432203
+-------------0.419216-----------------3.014766--------------
+------------Time consuming: 1.186817---Storaging: 6700400640.000000---------
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 71, kl_loss 0.000000, dis_loss-2.483783
+-------------0.424709-----------------3.019070--------------
+------------Time consuming: 1.145136---Storaging: 6700400640.000000---------
+---------------------71---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 72, kl_loss 0.000000, dis_loss-2.548603
+-------------0.430215-----------------3.024085--------------
+------------Time consuming: 1.095846---Storaging: 6700400640.000000---------
+---------------------72---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 73, kl_loss 0.000000, dis_loss-2.549185
+-------------0.435659-----------------3.029270--------------
+------------Time consuming: 0.980963---Storaging: 6700400640.000000---------
+---------------------73---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 74, kl_loss 0.000000, dis_loss-2.614441
+-------------0.441176-----------------3.035047--------------
+------------Time consuming: 1.138672---Storaging: 6700400640.000000---------
+---------------------74---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 75, val_loss 0.259480
+-------------0.441176-----------------3.035047--------------
+Error in translation: median 0.27 m,  mean 0.40 m 
+ Error in rotation: median 8.24 degrees, mean 17.06 degree
+---------------------75---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 75, kl_loss 0.000000, dis_loss-2.610308
+-------------0.446659-----------------3.040763--------------
+------------Time consuming: 1.114228---Storaging: 6700400640.000000---------
+---------------------75---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 76, kl_loss 0.000000, dis_loss-2.641989
+-------------0.452165-----------------3.046605--------------
+------------Time consuming: 1.126245---Storaging: 6700400640.000000---------
+---------------------76---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 77, kl_loss 0.000000, dis_loss-2.609723
+-------------0.457646-----------------3.051793--------------
+------------Time consuming: 1.139989---Storaging: 6700400640.000000---------
+---------------------77---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 78, kl_loss 0.000000, dis_loss-2.688894
+-------------0.463177-----------------3.057829--------------
+------------Time consuming: 1.013020---Storaging: 6700400640.000000---------
+---------------------78---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 79, kl_loss 0.000000, dis_loss-2.688192
+-------------0.468670-----------------3.063715--------------
+------------Time consuming: 0.958554---Storaging: 6700400640.000000---------
+---------------------79---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 80, val_loss 0.259375
+-------------0.468670-----------------3.063715--------------
+Error in translation: median 0.25 m,  mean 0.38 m 
+ Error in rotation: median 9.91 degrees, mean 17.87 degree
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 80, kl_loss 0.000000, dis_loss-2.686911
+-------------0.474205-----------------3.069300--------------
+------------Time consuming: 1.103001---Storaging: 6700400640.000000---------
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 81, kl_loss 0.000000, dis_loss-2.732426
+-------------0.479755-----------------3.075251--------------
+------------Time consuming: 1.150197---Storaging: 6700400640.000000---------
+---------------------81---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 82, kl_loss 0.000000, dis_loss-2.742388
+-------------0.485262-----------------3.081213--------------
+------------Time consuming: 1.238721---Storaging: 6700400640.000000---------
+---------------------82---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 83, kl_loss 0.000000, dis_loss-2.717358
+-------------0.490690-----------------3.086817--------------
+------------Time consuming: 1.084375---Storaging: 6700400640.000000---------
+---------------------83---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 84, kl_loss 0.000000, dis_loss-2.728677
+-------------0.496136-----------------3.092227--------------
+------------Time consuming: 0.975653---Storaging: 6700400640.000000---------
+---------------------84---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 85, val_loss 0.265620
+-------------0.496136-----------------3.092227--------------
+Error in translation: median 0.27 m,  mean 0.42 m 
+ Error in rotation: median 6.66 degrees, mean 15.74 degree
+---------------------85---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 85, kl_loss 0.000000, dis_loss-2.749481
+-------------0.501570-----------------3.097848--------------
+------------Time consuming: 1.162310---Storaging: 6700400640.000000---------
+---------------------85---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 86, kl_loss 0.000000, dis_loss-2.787502
+-------------0.507035-----------------3.103788--------------
+------------Time consuming: 1.138622---Storaging: 6700400640.000000---------
+---------------------86---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 87, kl_loss 0.000000, dis_loss-2.780545
+-------------0.512522-----------------3.109341--------------
+------------Time consuming: 1.163787---Storaging: 6700400640.000000---------
+---------------------87---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 88, kl_loss 0.000000, dis_loss-2.804317
+-------------0.517969-----------------3.115090--------------
+------------Time consuming: 1.092983---Storaging: 6700400640.000000---------
+---------------------88---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 89, kl_loss 0.000000, dis_loss-2.813596
+-------------0.523389-----------------3.120964--------------
+------------Time consuming: 1.055809---Storaging: 6700400640.000000---------
+---------------------89---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 90, val_loss 0.255732
+-------------0.523389-----------------3.120964--------------
+Error in translation: median 0.25 m,  mean 0.40 m 
+ Error in rotation: median 7.00 degrees, mean 15.67 degree
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 90, kl_loss 0.000000, dis_loss-2.821141
+-------------0.528872-----------------3.126481--------------
+------------Time consuming: 1.014895---Storaging: 6700400640.000000---------
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 91, kl_loss 0.000000, dis_loss-2.809659
+-------------0.534260-----------------3.131857--------------
+------------Time consuming: 1.078120---Storaging: 6700400640.000000---------
+---------------------91---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 92, kl_loss 0.000000, dis_loss-2.896791
+-------------0.539802-----------------3.137996--------------
+------------Time consuming: 1.189334---Storaging: 6700400640.000000---------
+---------------------92---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 93, kl_loss 0.000000, dis_loss-2.891850
+-------------0.545331-----------------3.143848--------------
+------------Time consuming: 1.175651---Storaging: 6700400640.000000---------
+---------------------93---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 94, kl_loss 0.000000, dis_loss-2.888110
+-------------0.550809-----------------3.149588--------------
+------------Time consuming: 1.087106---Storaging: 6700400640.000000---------
+---------------------94---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 95, val_loss 0.259307
+-------------0.550809-----------------3.149588--------------
+Error in translation: median 0.28 m,  mean 0.41 m 
+ Error in rotation: median 7.08 degrees, mean 15.89 degree
+---------------------95---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 95, kl_loss 0.000000, dis_loss-2.810953
+-------------0.556249-----------------3.154123--------------
+------------Time consuming: 0.965974---Storaging: 6700400640.000000---------
+---------------------95---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 96, kl_loss 0.000000, dis_loss-2.899067
+-------------0.561693-----------------3.159799--------------
+------------Time consuming: 1.166146---Storaging: 6700400640.000000---------
+---------------------96---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 97, kl_loss 0.000000, dis_loss-2.893265
+-------------0.567156-----------------3.165175--------------
+------------Time consuming: 1.122615---Storaging: 6700400640.000000---------
+---------------------97---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 98, kl_loss 0.000000, dis_loss-2.907521
+-------------0.572574-----------------3.170830--------------
+------------Time consuming: 1.188491---Storaging: 6700400640.000000---------
+---------------------98---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 99, kl_loss 0.000000, dis_loss-2.907511
+-------------0.577936-----------------3.176185--------------
+------------Time consuming: 1.114359---Storaging: 6700400640.000000---------
+---------------------99---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 100, val_loss 0.247382
+-------------0.577936-----------------3.176185--------------
+Error in translation: median 0.26 m,  mean 0.38 m 
+ Error in rotation: median 6.84 degrees, mean 15.62 degree
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 100, kl_loss 0.000000, dis_loss-2.932444
+-------------0.583378-----------------3.181727--------------
+------------Time consuming: 1.009955---Storaging: 6700400640.000000---------
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 101, kl_loss 0.000000, dis_loss-2.930241
+-------------0.588791-----------------3.187218--------------
+------------Time consuming: 1.078268---Storaging: 6700400640.000000---------
+---------------------101---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 102, kl_loss 0.000000, dis_loss-2.948756
+-------------0.594260-----------------3.192515--------------
+------------Time consuming: 1.119472---Storaging: 6700400640.000000---------
+---------------------102---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 103, kl_loss 0.000000, dis_loss-2.981060
+-------------0.599758-----------------3.198116--------------
+------------Time consuming: 1.146178---Storaging: 6700400640.000000---------
+---------------------103---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 104, kl_loss 0.000000, dis_loss-2.965056
+-------------0.605205-----------------3.203492--------------
+------------Time consuming: 1.115695---Storaging: 6700400640.000000---------
+---------------------104---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 105, val_loss 0.257587
+-------------0.605205-----------------3.203492--------------
+Error in translation: median 0.28 m,  mean 0.40 m 
+ Error in rotation: median 7.53 degrees, mean 15.85 degree
+---------------------105---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 105, kl_loss 0.000000, dis_loss-3.022869
+-------------0.610729-----------------3.209157--------------
+------------Time consuming: 1.021635---Storaging: 6700400640.000000---------
+---------------------105---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 106, kl_loss 0.000000, dis_loss-3.034836
+-------------0.616197-----------------3.215014--------------
+------------Time consuming: 0.965189---Storaging: 6700400640.000000---------
+---------------------106---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 107, kl_loss 0.000000, dis_loss-3.056538
+-------------0.621679-----------------3.220968--------------
+------------Time consuming: 1.148012---Storaging: 6700400640.000000---------
+---------------------107---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 108, kl_loss 0.000000, dis_loss-3.058889
+-------------0.627121-----------------3.226815--------------
+------------Time consuming: 1.199522---Storaging: 6700400640.000000---------
+---------------------108---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 109, kl_loss 0.000000, dis_loss-3.088633
+-------------0.632639-----------------3.232568--------------
+------------Time consuming: 1.136258---Storaging: 6700400640.000000---------
+---------------------109---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 110, val_loss 0.271012
+-------------0.632639-----------------3.232568--------------
+Error in translation: median 0.26 m,  mean 0.44 m 
+ Error in rotation: median 5.48 degrees, mean 14.94 degree
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 110, kl_loss 0.000000, dis_loss-3.113073
+-------------0.638129-----------------3.238618--------------
+------------Time consuming: 1.149517---Storaging: 6700400640.000000---------
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 111, kl_loss 0.000000, dis_loss-3.101956
+-------------0.643600-----------------3.244353--------------
+------------Time consuming: 0.977227---Storaging: 6700400640.000000---------
+---------------------111---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 112, kl_loss 0.000000, dis_loss-3.141100
+-------------0.649123-----------------3.250239--------------
+------------Time consuming: 1.048816---Storaging: 6700400640.000000---------
+---------------------112---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 113, kl_loss 0.000000, dis_loss-3.138290
+-------------0.654580-----------------3.256049--------------
+------------Time consuming: 1.114056---Storaging: 6700400640.000000---------
+---------------------113---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 114, kl_loss 0.000000, dis_loss-3.138227
+-------------0.660047-----------------3.261678--------------
+------------Time consuming: 1.114655---Storaging: 6700400640.000000---------
+---------------------114---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 115, val_loss 0.249082
+-------------0.660047-----------------3.261678--------------
+Error in translation: median 0.23 m,  mean 0.39 m 
+ Error in rotation: median 5.51 degrees, mean 14.81 degree
+---------------------115---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 115, kl_loss 0.000000, dis_loss-3.173594
+-------------0.665493-----------------3.267586--------------
+------------Time consuming: 1.190098---Storaging: 6700400640.000000---------
+---------------------115---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 116, kl_loss 0.000000, dis_loss-3.161051
+-------------0.670931-----------------3.273189--------------
+------------Time consuming: 1.051687---Storaging: 6700400640.000000---------
+---------------------116---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 117, kl_loss 0.000000, dis_loss-3.214453
+-------------0.676445-----------------3.279164--------------
+------------Time consuming: 0.977201---Storaging: 6700400640.000000---------
+---------------------117---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 118, kl_loss 0.000000, dis_loss-3.228793
+-------------0.681958-----------------3.285068--------------
+------------Time consuming: 1.125665---Storaging: 6700400640.000000---------
+---------------------118---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 119, kl_loss 0.000000, dis_loss-3.224405
+-------------0.687457-----------------3.290837--------------
+------------Time consuming: 1.173232---Storaging: 6700400640.000000---------
+---------------------119---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 120, val_loss 0.274549
+-------------0.687457-----------------3.290837--------------
+Error in translation: median 0.29 m,  mean 0.42 m 
+ Error in rotation: median 9.82 degrees, mean 17.18 degree
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 120, kl_loss 0.000000, dis_loss-3.229169
+-------------0.692956-----------------3.296441--------------
+------------Time consuming: 1.106211---Storaging: 6700400640.000000---------
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 121, kl_loss 0.000000, dis_loss-3.250438
+-------------0.698432-----------------3.302168--------------
+------------Time consuming: 1.150061---Storaging: 6700400640.000000---------
+---------------------121---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 122, kl_loss 0.000000, dis_loss-3.275299
+-------------0.703936-----------------3.308022--------------
+------------Time consuming: 1.011347---Storaging: 6700400640.000000---------
+---------------------122---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 123, kl_loss 0.000000, dis_loss-3.272486
+-------------0.709402-----------------3.313671--------------
+------------Time consuming: 1.028704---Storaging: 6700400640.000000---------
+---------------------123---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 124, kl_loss 0.000000, dis_loss-3.302998
+-------------0.714901-----------------3.319468--------------
+------------Time consuming: 1.061481---Storaging: 6700400640.000000---------
+---------------------124---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 125, val_loss 0.262871
+-------------0.714901-----------------3.319468--------------
+Error in translation: median 0.26 m,  mean 0.41 m 
+ Error in rotation: median 6.34 degrees, mean 14.97 degree
+---------------------125---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 125, kl_loss 0.000000, dis_loss-3.323718
+-------------0.720363-----------------3.325429--------------
+------------Time consuming: 1.121216---Storaging: 6700400640.000000---------
+---------------------125---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 126, kl_loss 0.000000, dis_loss-3.293207
+-------------0.725826-----------------3.330866--------------
+------------Time consuming: 1.189814---Storaging: 6700400640.000000---------
+---------------------126---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 127, kl_loss 0.000000, dis_loss-3.269647
+-------------0.731252-----------------3.336007--------------
+------------Time consuming: 1.061998---Storaging: 6700400640.000000---------
+---------------------127---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 128, kl_loss 0.000000, dis_loss-3.306587
+-------------0.736697-----------------3.341377--------------
+------------Time consuming: 0.974183---Storaging: 6700400640.000000---------
+---------------------128---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 129, kl_loss 0.000000, dis_loss-3.309984
+-------------0.742147-----------------3.346705--------------
+------------Time consuming: 1.134884---Storaging: 6700400640.000000---------
+---------------------129---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 130, val_loss 0.246043
+-------------0.742147-----------------3.346705--------------
+Error in translation: median 0.27 m,  mean 0.38 m 
+ Error in rotation: median 5.34 degrees, mean 15.58 degree
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 130, kl_loss 0.000000, dis_loss-3.304296
+-------------0.747588-----------------3.351869--------------
+------------Time consuming: 1.179745---Storaging: 6700400640.000000---------
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 131, kl_loss 0.000000, dis_loss-3.329865
+-------------0.753068-----------------3.357179--------------
+------------Time consuming: 1.159137---Storaging: 6700400640.000000---------
+---------------------131---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 132, kl_loss 0.000000, dis_loss-3.370116
+-------------0.758505-----------------3.362919--------------
+------------Time consuming: 1.103359---Storaging: 6700400640.000000---------
+---------------------132---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 133, kl_loss 0.000000, dis_loss-3.371295
+-------------0.763880-----------------3.368572--------------
+------------Time consuming: 0.992467---Storaging: 6700400640.000000---------
+---------------------133---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 134, kl_loss 0.000000, dis_loss-3.407894
+-------------0.769399-----------------3.374375--------------
+------------Time consuming: 1.036013---Storaging: 6700400640.000000---------
+---------------------134---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 135, val_loss 0.241809
+-------------0.769399-----------------3.374375--------------
+Error in translation: median 0.23 m,  mean 0.37 m 
+ Error in rotation: median 6.49 degrees, mean 15.70 degree
+---------------------135---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 135, kl_loss 0.000000, dis_loss-3.394013
+-------------0.774874-----------------3.379840--------------
+------------Time consuming: 1.192033---Storaging: 6700400640.000000---------
+---------------------135---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 136, kl_loss 0.000000, dis_loss-3.378912
+-------------0.780352-----------------3.385056--------------
+------------Time consuming: 1.140536---Storaging: 6700400640.000000---------
+---------------------136---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 137, kl_loss 0.000000, dis_loss-3.414355
+-------------0.785814-----------------3.390561--------------
+------------Time consuming: 1.133943---Storaging: 6700400640.000000---------
+---------------------137---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 138, kl_loss 0.000000, dis_loss-3.415538
+-------------0.791268-----------------3.396016--------------
+------------Time consuming: 1.056689---Storaging: 6700400640.000000---------
+---------------------138---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 139, kl_loss 0.000000, dis_loss-3.428298
+-------------0.796709-----------------3.401466--------------
+------------Time consuming: 0.989052---Storaging: 6700400640.000000---------
+---------------------139---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 140, val_loss 0.239489
+-------------0.796709-----------------3.401466--------------
+Error in translation: median 0.24 m,  mean 0.37 m 
+ Error in rotation: median 6.48 degrees, mean 15.22 degree
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 140, kl_loss 0.000000, dis_loss-3.457800
+-------------0.802203-----------------3.407042--------------
+------------Time consuming: 1.124602---Storaging: 6700400640.000000---------
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 141, kl_loss 0.000000, dis_loss-3.469698
+-------------0.807662-----------------3.412648--------------
+------------Time consuming: 1.157792---Storaging: 6700400640.000000---------
+---------------------141---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 142, kl_loss 0.000000, dis_loss-3.455921
+-------------0.813097-----------------3.418138--------------
+------------Time consuming: 1.115552---Storaging: 6700400640.000000---------
+---------------------142---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 143, kl_loss 0.000000, dis_loss-3.472579
+-------------0.818554-----------------3.423509--------------
+------------Time consuming: 1.155133---Storaging: 6700400640.000000---------
+---------------------143---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 144, kl_loss 0.000000, dis_loss-3.499331
+-------------0.824016-----------------3.429088--------------
+------------Time consuming: 0.993305---Storaging: 6700400640.000000---------
+---------------------144---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 145, val_loss 0.241805
+-------------0.824016-----------------3.429088--------------
+Error in translation: median 0.27 m,  mean 0.38 m 
+ Error in rotation: median 6.57 degrees, mean 15.20 degree
+---------------------145---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 145, kl_loss 0.000000, dis_loss-3.501904
+-------------0.829508-----------------3.434618--------------
+------------Time consuming: 1.128562---Storaging: 6700400640.000000---------
+---------------------145---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 146, kl_loss 0.000000, dis_loss-3.449514
+-------------0.834840-----------------3.439552--------------
+------------Time consuming: 1.139192---Storaging: 6700400640.000000---------
+---------------------146---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 147, kl_loss 0.000000, dis_loss-3.493870
+-------------0.840264-----------------3.444902--------------
+------------Time consuming: 1.122271---Storaging: 6700400640.000000---------
+---------------------147---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 148, kl_loss 0.000000, dis_loss-3.509109
+-------------0.845736-----------------3.450167--------------
+------------Time consuming: 1.124418---Storaging: 6700400640.000000---------
+---------------------148---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 149, kl_loss 0.000000, dis_loss-3.513838
+-------------0.851097-----------------3.455663--------------
+------------Time consuming: 1.049560---Storaging: 6700400640.000000---------
+---------------------149---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 150, val_loss 0.245963
+-------------0.851097-----------------3.455663--------------
+Error in translation: median 0.25 m,  mean 0.38 m 
+ Error in rotation: median 6.02 degrees, mean 14.87 degree
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 150, kl_loss 0.000000, dis_loss-3.517332
+-------------0.856541-----------------3.460855--------------
+------------Time consuming: 1.057900---Storaging: 6700400640.000000---------
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 151, kl_loss 0.000000, dis_loss-3.576792
+-------------0.862060-----------------3.466462--------------
+------------Time consuming: 1.157590---Storaging: 6700400640.000000---------
+---------------------151---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 152, kl_loss 0.000000, dis_loss-3.567865
+-------------0.867565-----------------3.471923--------------
+------------Time consuming: 1.149079---Storaging: 6700400640.000000---------
+---------------------152---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 153, kl_loss 0.000000, dis_loss-3.568526
+-------------0.872960-----------------3.477452--------------
+------------Time consuming: 1.160124---Storaging: 6700400640.000000---------
+---------------------153---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 154, kl_loss 0.000000, dis_loss-3.598082
+-------------0.878414-----------------3.483062--------------
+------------Time consuming: 1.088591---Storaging: 6700400640.000000---------
+---------------------154---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 155, val_loss 0.230448
+-------------0.878414-----------------3.483062--------------
+Error in translation: median 0.24 m,  mean 0.36 m 
+ Error in rotation: median 6.19 degrees, mean 14.60 degree
+---------------------155---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 155, kl_loss 0.000000, dis_loss-3.614619
+-------------0.883898-----------------3.488706--------------
+------------Time consuming: 0.959809---Storaging: 6700400640.000000---------
+---------------------155---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 156, kl_loss 0.000000, dis_loss-3.623740
+-------------0.889382-----------------3.494355--------------
+------------Time consuming: 1.181600---Storaging: 6700400640.000000---------
+---------------------156---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 157, kl_loss 0.000000, dis_loss-3.604137
+-------------0.894859-----------------3.499561--------------
+------------Time consuming: 1.169876---Storaging: 6700400640.000000---------
+---------------------157---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 158, kl_loss 0.000000, dis_loss-3.594993
+-------------0.900297-----------------3.504680--------------
+------------Time consuming: 1.128436---Storaging: 6700400640.000000---------
+---------------------158---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 159, kl_loss 0.000000, dis_loss-3.644947
+-------------0.905770-----------------3.510219--------------
+------------Time consuming: 1.175666---Storaging: 6700400640.000000---------
+---------------------159---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 160, val_loss 0.245443
+-------------0.905770-----------------3.510219--------------
+Error in translation: median 0.27 m,  mean 0.39 m 
+ Error in rotation: median 6.58 degrees, mean 15.19 degree
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 160, kl_loss 0.000000, dis_loss-3.621173
+-------------0.911197-----------------3.515433--------------
+------------Time consuming: 0.994756---Storaging: 6700400640.000000---------
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 161, kl_loss 0.000000, dis_loss-3.661532
+-------------0.916674-----------------3.520897--------------
+------------Time consuming: 1.131424---Storaging: 6700400640.000000---------
+---------------------161---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 162, kl_loss 0.000000, dis_loss-3.644886
+-------------0.922101-----------------3.526188--------------
+------------Time consuming: 1.131807---Storaging: 6700400640.000000---------
+---------------------162---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 163, kl_loss 0.000000, dis_loss-3.676297
+-------------0.927575-----------------3.531624--------------
+------------Time consuming: 1.138843---Storaging: 6700400640.000000---------
+---------------------163---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 164, kl_loss 0.000000, dis_loss-3.702659
+-------------0.933091-----------------3.537127--------------
+------------Time consuming: 1.169995---Storaging: 6700400640.000000---------
+---------------------164---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 165, val_loss 0.247402
+-------------0.933091-----------------3.537127--------------
+Error in translation: median 0.27 m,  mean 0.39 m 
+ Error in rotation: median 6.14 degrees, mean 15.47 degree
+---------------------165---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 165, kl_loss 0.000000, dis_loss-3.694731
+-------------0.938557-----------------3.542592--------------
+------------Time consuming: 1.013222---Storaging: 6700400640.000000---------
+---------------------165---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 166, kl_loss 0.000000, dis_loss-3.726266
+-------------0.944040-----------------3.548158--------------
+------------Time consuming: 0.986679---Storaging: 6700400640.000000---------
+---------------------166---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 167, kl_loss 0.000000, dis_loss-3.743149
+-------------0.949566-----------------3.553815--------------
+------------Time consuming: 1.153037---Storaging: 6700400640.000000---------
+---------------------167---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 168, kl_loss 0.000000, dis_loss-3.716093
+-------------0.955004-----------------3.559059--------------
+------------Time consuming: 1.144671---Storaging: 6700400640.000000---------
+---------------------168---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 169, kl_loss 0.000000, dis_loss-3.733744
+-------------0.960463-----------------3.564422--------------
+------------Time consuming: 1.128574---Storaging: 6700400640.000000---------
+---------------------169---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 170, val_loss 0.239851
+-------------0.960463-----------------3.564422--------------
+Error in translation: median 0.23 m,  mean 0.38 m 
+ Error in rotation: median 5.70 degrees, mean 14.82 degree
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 170, kl_loss 0.000000, dis_loss-3.761340
+-------------0.965942-----------------3.569915--------------
+------------Time consuming: 1.097073---Storaging: 6700400640.000000---------
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 171, kl_loss 0.000000, dis_loss-3.778446
+-------------0.971459-----------------3.575442--------------
+------------Time consuming: 0.989777---Storaging: 6700400640.000000---------
+---------------------171---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 172, kl_loss 0.000000, dis_loss-3.746598
+-------------0.976940-----------------3.580624--------------
+------------Time consuming: 1.120753---Storaging: 6700400640.000000---------
+---------------------172---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 173, kl_loss 0.000000, dis_loss-3.719097
+-------------0.982414-----------------3.585331--------------
+------------Time consuming: 1.181455---Storaging: 6700400640.000000---------
+---------------------173---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 174, kl_loss 0.000000, dis_loss-3.758244
+-------------0.987874-----------------3.590381--------------
+------------Time consuming: 1.133837---Storaging: 6700400640.000000---------
+---------------------174---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 175, val_loss 0.238039
+-------------0.987874-----------------3.590381--------------
+Error in translation: median 0.23 m,  mean 0.37 m 
+ Error in rotation: median 6.19 degrees, mean 15.05 degree
+---------------------175---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 175, kl_loss 0.000000, dis_loss-3.803132
+-------------0.993330-----------------3.595957--------------
+------------Time consuming: 1.125707---Storaging: 6700400640.000000---------
+---------------------175---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 176, kl_loss 0.000000, dis_loss-3.777339
+-------------0.998800-----------------3.601067--------------
+------------Time consuming: 1.001140---Storaging: 6700400640.000000---------
+---------------------176---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 177, kl_loss 0.000000, dis_loss-3.805345
+-------------1.004280-----------------3.606381--------------
+------------Time consuming: 0.990664---Storaging: 6700400640.000000---------
+---------------------177---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 178, kl_loss 0.000000, dis_loss-3.814916
+-------------1.009730-----------------3.611764--------------
+------------Time consuming: 1.146234---Storaging: 6700400640.000000---------
+---------------------178---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 179, kl_loss 0.000000, dis_loss-3.833704
+-------------1.015162-----------------3.617251--------------
+------------Time consuming: 1.181468---Storaging: 6700400640.000000---------
+---------------------179---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 180, val_loss 0.237364
+-------------1.015162-----------------3.617251--------------
+Error in translation: median 0.24 m,  mean 0.38 m 
+ Error in rotation: median 6.54 degrees, mean 15.67 degree
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 180, kl_loss 0.000000, dis_loss-3.834238
+-------------1.020593-----------------3.622632--------------
+------------Time consuming: 1.190695---Storaging: 6700400640.000000---------
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 181, kl_loss 0.000000, dis_loss-3.819255
+-------------1.026043-----------------3.627730--------------
+------------Time consuming: 1.080609---Storaging: 6700400640.000000---------
+---------------------181---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 182, kl_loss 0.000000, dis_loss-3.852338
+-------------1.031490-----------------3.633136--------------
+------------Time consuming: 1.000645---Storaging: 6700400640.000000---------
+---------------------182---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 183, kl_loss 0.000000, dis_loss-3.832413
+-------------1.036924-----------------3.638225--------------
+------------Time consuming: 1.166396---Storaging: 6700400640.000000---------
+---------------------183---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 184, kl_loss 0.000000, dis_loss-3.847862
+-------------1.042334-----------------3.643435--------------
+------------Time consuming: 1.143409---Storaging: 6700400640.000000---------
+---------------------184---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 185, val_loss 0.256978
+-------------1.042334-----------------3.643435--------------
+Error in translation: median 0.25 m,  mean 0.42 m 
+ Error in rotation: median 4.88 degrees, mean 15.48 degree
+---------------------185---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 185, kl_loss 0.000000, dis_loss-3.873267
+-------------1.047802-----------------3.648733--------------
+------------Time consuming: 1.200573---Storaging: 6700400640.000000---------
+---------------------185---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 186, kl_loss 0.000000, dis_loss-3.828805
+-------------1.053261-----------------3.653440--------------
+------------Time consuming: 1.199550---Storaging: 6700400640.000000---------
+---------------------186---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 187, kl_loss 0.000000, dis_loss-3.885633
+-------------1.058772-----------------3.658660--------------
+------------Time consuming: 0.991693---Storaging: 6700400640.000000---------
+---------------------187---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 188, kl_loss 0.000000, dis_loss-3.883600
+-------------1.064233-----------------3.663799--------------
+------------Time consuming: 0.987122---Storaging: 6700400640.000000---------
+---------------------188---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 189, kl_loss 0.000000, dis_loss-3.901608
+-------------1.069692-----------------3.669088--------------
+------------Time consuming: 1.099459---Storaging: 6700400640.000000---------
+---------------------189---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 190, val_loss 0.245675
+-------------1.069692-----------------3.669088--------------
+Error in translation: median 0.24 m,  mean 0.38 m 
+ Error in rotation: median 6.95 degrees, mean 15.82 degree
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 190, kl_loss 0.000000, dis_loss-3.919152
+-------------1.075125-----------------3.674505--------------
+------------Time consuming: 1.214329---Storaging: 6700400640.000000---------
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_redkitchen_concatenate_False_2019_2
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 191, kl_loss 0.000000, dis_loss-3.942562
+-------------1.080570-----------------3.679998--------------
+------------Time consuming: 1.204045---Storaging: 6700400640.000000---------
+---------------------191---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 192, kl_loss 0.000000, dis_loss-3.953367
+-------------1.086053-----------------3.685502--------------
+------------Time consuming: 1.070207---Storaging: 6700400640.000000---------
+---------------------192---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 193, kl_loss 0.000000, dis_loss-3.959134
+-------------1.091559-----------------3.690884--------------
+------------Time consuming: 0.998257---Storaging: 6700400640.000000---------
+---------------------193---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 194, kl_loss 0.000000, dis_loss-3.985680
+-------------1.097034-----------------3.696505--------------
+------------Time consuming: 1.174944---Storaging: 6700400640.000000---------
+---------------------194---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 195, val_loss 0.240078
+-------------1.097034-----------------3.696505--------------
+Error in translation: median 0.23 m,  mean 0.39 m 
+ Error in rotation: median 6.50 degrees, mean 15.34 degree
+---------------------195---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 195, kl_loss 0.000000, dis_loss-3.970541
+-------------1.102525-----------------3.701802--------------
+------------Time consuming: 1.166027---Storaging: 6700400640.000000---------
+---------------------195---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 196, kl_loss 0.000000, dis_loss-3.975237
+-------------1.107966-----------------3.707152--------------
+------------Time consuming: 1.177236---Storaging: 6700400640.000000---------
+---------------------196---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 197, kl_loss 0.000000, dis_loss-3.988257
+-------------1.113381-----------------3.712538--------------
+------------Time consuming: 1.170769---Storaging: 6700400640.000000---------
+---------------------197---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 198, kl_loss 0.000000, dis_loss-3.985386
+-------------1.118818-----------------3.717755--------------
+------------Time consuming: 0.999582---Storaging: 6700400640.000000---------
+---------------------198---------------------
+Val 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 199, val_loss 0.237035
+-------------1.118818-----------------3.717755--------------
+Error in translation: median 0.24 m,  mean 0.38 m 
+ Error in rotation: median 5.94 degrees, mean 15.29 degree
+---------------------199---------------------
+Training 7Scenes_redkitchen_concatenate_False_2019_2: Epoch 199, kl_loss 0.000000, dis_loss-4.016404
+-------------1.124249-----------------3.723216--------------
+------------Time consuming: 1.122575---Storaging: 6700400640.000000---------
+---------------------199---------------------

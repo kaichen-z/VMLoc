@@ -1,0 +1,1052 @@
+nohup: ignoring input
+============= 1 0
+Logging to /mnt/nas/kaichen/eng/LOC/vmloc_git/record/7Scenes_office_vmloc_False_2019_2/runs/log.txt
+Not Using ColorJitter
+c_nvmlMemory_t(total: 24146608128 B, free: 20966670336 B, used: 3179937792 B)
+/home/kaichen/.conda/envs/rigid/lib/python3.8/site-packages/torch/nn/functional.py:1628: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 0, val_loss 1.954283
+------------0.000000-----------------3.000000--------------
+Error in translation: median 2.64 m,  mean 2.67 m 
+ Error in rotation: median 123.97 degrees, mean 121.04 degree
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 0, kl_loss 0.008754, dis_loss13.375581
+-------------0.002413-----------------2.995476--------------
+------------Time consuming: 1.067140---Storaging: 13249538614.468084---------
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 1, kl_loss 0.008585, dis_loss10.900074
+-------------0.007911-----------------2.991318--------------
+------------Time consuming: 1.086447---Storaging: 13249806336.000000---------
+---------------------1---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 2, kl_loss 0.008341, dis_loss7.579186
+-------------0.014270-----------------2.987862--------------
+------------Time consuming: 1.027474---Storaging: 13249806336.000000---------
+---------------------2---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 3, kl_loss 0.008130, dis_loss3.772673
+-------------0.020918-----------------2.985507--------------
+------------Time consuming: 1.067874---Storaging: 13249806336.000000---------
+---------------------3---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 4, kl_loss 0.008043, dis_loss1.694714
+-------------0.027296-----------------2.983810--------------
+------------Time consuming: 0.998129---Storaging: 13249806336.000000---------
+---------------------4---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 5, val_loss 0.490936
+-------------0.027296-----------------2.983810--------------
+Error in translation: median 0.79 m,  mean 0.79 m 
+ Error in rotation: median 21.06 degrees, mean 24.94 degree
+---------------------5---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 5, kl_loss 0.008005, dis_loss0.809418
+-------------0.033328-----------------2.982371--------------
+------------Time consuming: 0.978006---Storaging: 13249806336.000000---------
+---------------------5---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 6, kl_loss 0.007987, dis_loss0.363231
+-------------0.039117-----------------2.980997--------------
+------------Time consuming: 1.074720---Storaging: 13249806336.000000---------
+---------------------6---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 7, kl_loss 0.007974, dis_loss-0.033616
+-------------0.044746-----------------2.979748--------------
+------------Time consuming: 1.081787---Storaging: 13249806336.000000---------
+---------------------7---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 8, kl_loss 0.007967, dis_loss-0.185106
+-------------0.050245-----------------2.978502--------------
+------------Time consuming: 0.975461---Storaging: 13249806336.000000---------
+---------------------8---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 9, kl_loss 0.007959, dis_loss-0.277257
+-------------0.055631-----------------2.977157--------------
+------------Time consuming: 1.074339---Storaging: 13249806336.000000---------
+---------------------9---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 10, val_loss 0.477820
+-------------0.055631-----------------2.977157--------------
+Error in translation: median 0.73 m,  mean 0.75 m 
+ Error in rotation: median 20.16 degrees, mean 25.58 degree
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 10, kl_loss 0.007954, dis_loss-0.548049
+-------------0.060958-----------------2.976024--------------
+------------Time consuming: 1.071316---Storaging: 13249806336.000000---------
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 11, kl_loss 0.007950, dis_loss-0.668136
+-------------0.066266-----------------2.974905--------------
+------------Time consuming: 1.039294---Storaging: 13249806336.000000---------
+---------------------11---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 12, kl_loss 0.007945, dis_loss-0.564747
+-------------0.071572-----------------2.973535--------------
+------------Time consuming: 1.067337---Storaging: 13249806336.000000---------
+---------------------12---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 13, kl_loss 0.007941, dis_loss-0.799020
+-------------0.076855-----------------2.972394--------------
+------------Time consuming: 0.995346---Storaging: 13249806336.000000---------
+---------------------13---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 14, kl_loss 0.007938, dis_loss-0.890515
+-------------0.082134-----------------2.971328--------------
+------------Time consuming: 1.024208---Storaging: 13249806336.000000---------
+---------------------14---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 15, val_loss 0.418209
+-------------0.082134-----------------2.971328--------------
+Error in translation: median 0.62 m,  mean 0.65 m 
+ Error in rotation: median 20.48 degrees, mean 24.94 degree
+---------------------15---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 15, kl_loss 0.007935, dis_loss-0.909906
+-------------0.087452-----------------2.970111--------------
+------------Time consuming: 1.054084---Storaging: 13249806336.000000---------
+---------------------15---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 16, kl_loss 0.007932, dis_loss-0.904863
+-------------0.092742-----------------2.968861--------------
+------------Time consuming: 1.092397---Storaging: 13249806336.000000---------
+---------------------16---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 17, kl_loss 0.007929, dis_loss-0.931704
+-------------0.098047-----------------2.967574--------------
+------------Time consuming: 0.985863---Storaging: 13249806336.000000---------
+---------------------17---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 18, kl_loss 0.007926, dis_loss-1.060795
+-------------0.103335-----------------2.966340--------------
+------------Time consuming: 1.110767---Storaging: 13249806336.000000---------
+---------------------18---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 19, kl_loss 0.007923, dis_loss-1.014718
+-------------0.108600-----------------2.965004--------------
+------------Time consuming: 1.044007---Storaging: 13249806336.000000---------
+---------------------19---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 20, val_loss 0.361858
+-------------0.108600-----------------2.965004--------------
+Error in translation: median 0.51 m,  mean 0.55 m 
+ Error in rotation: median 17.36 degrees, mean 22.41 degree
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 20, kl_loss 0.007920, dis_loss-1.105688
+-------------0.113825-----------------2.963753--------------
+------------Time consuming: 1.030872---Storaging: 13249806336.000000---------
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 21, kl_loss 0.007917, dis_loss-1.049759
+-------------0.119029-----------------2.962261--------------
+------------Time consuming: 1.103729---Storaging: 13249806336.000000---------
+---------------------21---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 22, kl_loss 0.007914, dis_loss-1.235511
+-------------0.124195-----------------2.961093--------------
+------------Time consuming: 1.085574---Storaging: 13249806336.000000---------
+---------------------22---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 23, kl_loss 0.007912, dis_loss-1.151161
+-------------0.129332-----------------2.959670--------------
+------------Time consuming: 1.020950---Storaging: 13249806336.000000---------
+---------------------23---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 24, kl_loss 0.007910, dis_loss-1.288190
+-------------0.134451-----------------2.958565--------------
+------------Time consuming: 1.074650---Storaging: 13249806336.000000---------
+---------------------24---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 25, val_loss 0.348983
+-------------0.134451-----------------2.958565--------------
+Error in translation: median 0.49 m,  mean 0.54 m 
+ Error in rotation: median 14.95 degrees, mean 20.22 degree
+---------------------25---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 25, kl_loss 0.007908, dis_loss-1.353222
+-------------0.139542-----------------2.957501--------------
+------------Time consuming: 1.113898---Storaging: 13249806336.000000---------
+---------------------25---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 26, kl_loss 0.007906, dis_loss-1.349502
+-------------0.144609-----------------2.956406--------------
+------------Time consuming: 0.966545---Storaging: 13249806336.000000---------
+---------------------26---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 27, kl_loss 0.007905, dis_loss-1.346472
+-------------0.149661-----------------2.955187--------------
+------------Time consuming: 1.085634---Storaging: 13249806336.000000---------
+---------------------27---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 28, kl_loss 0.007903, dis_loss-1.191550
+-------------0.154599-----------------2.953609--------------
+------------Time consuming: 1.097733---Storaging: 13249806336.000000---------
+---------------------28---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 29, kl_loss 0.007899, dis_loss-1.325617
+-------------0.159577-----------------2.952155--------------
+------------Time consuming: 0.973096---Storaging: 13249806336.000000---------
+---------------------29---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 30, val_loss 0.340948
+-------------0.159577-----------------2.952155--------------
+Error in translation: median 0.47 m,  mean 0.52 m 
+ Error in rotation: median 16.23 degrees, mean 20.47 degree
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 30, kl_loss 0.007897, dis_loss-1.359692
+-------------0.164525-----------------2.950831--------------
+------------Time consuming: 1.036607---Storaging: 13249806336.000000---------
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 31, kl_loss 0.007896, dis_loss-1.393757
+-------------0.169459-----------------2.949541--------------
+------------Time consuming: 1.088409---Storaging: 13249806336.000000---------
+---------------------31---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 32, kl_loss 0.007895, dis_loss-1.460262
+-------------0.174386-----------------2.948478--------------
+------------Time consuming: 1.036612---Storaging: 13249806336.000000---------
+---------------------32---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 33, kl_loss 0.007893, dis_loss-1.503203
+-------------0.179300-----------------2.947449--------------
+------------Time consuming: 1.072060---Storaging: 13249806336.000000---------
+---------------------33---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 34, kl_loss 0.007891, dis_loss-1.560531
+-------------0.184169-----------------2.946601--------------
+------------Time consuming: 0.983222---Storaging: 13249806336.000000---------
+---------------------34---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 35, val_loss 0.332898
+-------------0.184169-----------------2.946601--------------
+Error in translation: median 0.46 m,  mean 0.51 m 
+ Error in rotation: median 16.72 degrees, mean 20.43 degree
+---------------------35---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 35, kl_loss 0.007888, dis_loss-1.596272
+-------------0.189022-----------------2.945820--------------
+------------Time consuming: 0.977097---Storaging: 13249806336.000000---------
+---------------------35---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 36, kl_loss 0.007887, dis_loss-1.659211
+-------------0.193881-----------------2.945275--------------
+------------Time consuming: 1.070146---Storaging: 13249806336.000000---------
+---------------------36---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 37, kl_loss 0.007885, dis_loss-1.766600
+-------------0.198725-----------------2.945163--------------
+------------Time consuming: 1.060097---Storaging: 13249806336.000000---------
+---------------------37---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 38, kl_loss 0.007883, dis_loss-1.706255
+-------------0.203560-----------------2.944701--------------
+------------Time consuming: 1.013122---Storaging: 13249806336.000000---------
+---------------------38---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 39, kl_loss 0.007880, dis_loss-1.707653
+-------------0.208382-----------------2.944167--------------
+------------Time consuming: 1.107039---Storaging: 13249806336.000000---------
+---------------------39---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 40, val_loss 0.320158
+-------------0.208382-----------------2.944167--------------
+Error in translation: median 0.46 m,  mean 0.50 m 
+ Error in rotation: median 14.66 degrees, mean 18.97 degree
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 40, kl_loss 0.007877, dis_loss-1.849217
+-------------0.213200-----------------2.944235--------------
+------------Time consuming: 1.102630---Storaging: 13249806336.000000---------
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 41, kl_loss 0.007876, dis_loss-1.890118
+-------------0.217990-----------------2.944516--------------
+------------Time consuming: 1.036849---Storaging: 13249806336.000000---------
+---------------------41---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 42, kl_loss 0.007874, dis_loss-1.859958
+-------------0.222771-----------------2.944640--------------
+------------Time consuming: 1.069915---Storaging: 13249806336.000000---------
+---------------------42---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 43, kl_loss 0.007871, dis_loss-1.818873
+-------------0.227542-----------------2.944525--------------
+------------Time consuming: 0.992587---Storaging: 13249806336.000000---------
+---------------------43---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 44, kl_loss 0.007869, dis_loss-1.823556
+-------------0.232299-----------------2.944340--------------
+------------Time consuming: 1.034276---Storaging: 13249806336.000000---------
+---------------------44---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 45, val_loss 0.325982
+-------------0.232299-----------------2.944340--------------
+Error in translation: median 0.45 m,  mean 0.51 m 
+ Error in rotation: median 14.33 degrees, mean 18.87 degree
+---------------------45---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 45, kl_loss 0.007866, dis_loss-1.885833
+-------------0.237065-----------------2.944335--------------
+------------Time consuming: 0.691645---Storaging: 5276434432.000000---------
+---------------------45---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 46, kl_loss 0.007864, dis_loss-1.972918
+-------------0.241828-----------------2.944956--------------
+------------Time consuming: 0.698845---Storaging: 5276434432.000000---------
+---------------------46---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 47, kl_loss 0.007862, dis_loss-1.984031
+-------------0.246587-----------------2.945548--------------
+------------Time consuming: 0.681626---Storaging: 5276434432.000000---------
+---------------------47---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 48, kl_loss 0.007860, dis_loss-2.054910
+-------------0.251345-----------------2.946677--------------
+------------Time consuming: 0.713927---Storaging: 5276434432.000000---------
+---------------------48---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 49, kl_loss 0.007859, dis_loss-2.092943
+-------------0.256095-----------------2.948047--------------
+------------Time consuming: 0.705500---Storaging: 5276434432.000000---------
+---------------------49---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 50, val_loss 0.315655
+-------------0.256095-----------------2.948047--------------
+Error in translation: median 0.45 m,  mean 0.50 m 
+ Error in rotation: median 14.79 degrees, mean 19.28 degree
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 50, kl_loss 0.007858, dis_loss-2.316929
+-------------0.261138-----------------2.950444--------------
+------------Time consuming: 0.689595---Storaging: 5276434432.000000---------
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 51, kl_loss 0.007857, dis_loss-2.297621
+-------------0.266183-----------------2.952669--------------
+------------Time consuming: 0.684014---Storaging: 5276434432.000000---------
+---------------------51---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 52, kl_loss 0.007855, dis_loss-2.361436
+-------------0.271180-----------------2.955444--------------
+------------Time consuming: 0.681269---Storaging: 5276434432.000000---------
+---------------------52---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 53, kl_loss 0.007852, dis_loss-2.306199
+-------------0.276151-----------------2.957881--------------
+------------Time consuming: 0.705788---Storaging: 5276434432.000000---------
+---------------------53---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 54, kl_loss 0.007851, dis_loss-2.439398
+-------------0.281100-----------------2.961257--------------
+------------Time consuming: 0.706647---Storaging: 5276434432.000000---------
+---------------------54---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 55, val_loss 0.223679
+-------------0.281100-----------------2.961257--------------
+Error in translation: median 0.28 m,  mean 0.35 m 
+ Error in rotation: median 9.01 degrees, mean 12.75 degree
+---------------------55---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 55, kl_loss 0.007850, dis_loss-2.461989
+-------------0.286008-----------------2.964940--------------
+------------Time consuming: 0.697913---Storaging: 5276434432.000000---------
+---------------------55---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 56, kl_loss 0.007849, dis_loss-2.497123
+-------------0.290962-----------------2.968757--------------
+------------Time consuming: 0.671776---Storaging: 5276434432.000000---------
+---------------------56---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 57, kl_loss 0.007848, dis_loss-2.531008
+-------------0.295867-----------------2.972877--------------
+------------Time consuming: 0.684368---Storaging: 5276434432.000000---------
+---------------------57---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 58, kl_loss 0.007848, dis_loss-2.552553
+-------------0.300739-----------------2.977237--------------
+------------Time consuming: 0.718500---Storaging: 5276434432.000000---------
+---------------------58---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 59, kl_loss 0.007847, dis_loss-2.513007
+-------------0.305594-----------------2.981148--------------
+------------Time consuming: 0.716196---Storaging: 5276434432.000000---------
+---------------------59---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 60, val_loss 0.222452
+-------------0.305594-----------------2.981148--------------
+Error in translation: median 0.27 m,  mean 0.34 m 
+ Error in rotation: median 10.00 degrees, mean 13.54 degree
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 60, kl_loss 0.007845, dis_loss-2.518187
+-------------0.310444-----------------2.985059--------------
+------------Time consuming: 0.686017---Storaging: 5276434432.000000---------
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 61, kl_loss 0.007844, dis_loss-2.520652
+-------------0.315286-----------------2.988973--------------
+------------Time consuming: 0.695934---Storaging: 5276434432.000000---------
+---------------------61---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 62, kl_loss 0.007843, dis_loss-2.627665
+-------------0.320106-----------------2.993690--------------
+------------Time consuming: 0.693404---Storaging: 5276434432.000000---------
+---------------------62---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 63, kl_loss 0.007842, dis_loss-2.568560
+-------------0.324936-----------------2.997857--------------
+------------Time consuming: 0.688730---Storaging: 5276434432.000000---------
+---------------------63---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 64, kl_loss 0.007840, dis_loss-2.619669
+-------------0.329762-----------------3.002392--------------
+------------Time consuming: 0.690696---Storaging: 5276434432.000000---------
+---------------------64---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 65, val_loss 0.201010
+-------------0.329762-----------------3.002392--------------
+Error in translation: median 0.25 m,  mean 0.32 m 
+ Error in rotation: median 8.00 degrees, mean 10.98 degree
+---------------------65---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 65, kl_loss 0.007839, dis_loss-2.669585
+-------------0.334556-----------------3.007321--------------
+------------Time consuming: 0.688456---Storaging: 5276434432.000000---------
+---------------------65---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 66, kl_loss 0.007839, dis_loss-2.683004
+-------------0.339345-----------------3.012305--------------
+------------Time consuming: 0.722544---Storaging: 5276434432.000000---------
+---------------------66---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 67, kl_loss 0.007838, dis_loss-2.719332
+-------------0.344115-----------------3.017425--------------
+------------Time consuming: 0.710353---Storaging: 5276434432.000000---------
+---------------------67---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 68, kl_loss 0.007837, dis_loss-2.699772
+-------------0.348892-----------------3.022294--------------
+------------Time consuming: 0.711902---Storaging: 5276434432.000000---------
+---------------------68---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 69, kl_loss 0.007836, dis_loss-2.740423
+-------------0.353640-----------------3.027383--------------
+------------Time consuming: 0.683958---Storaging: 5276434432.000000---------
+---------------------69---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 70, val_loss 0.206638
+-------------0.353640-----------------3.027383--------------
+Error in translation: median 0.27 m,  mean 0.32 m 
+ Error in rotation: median 8.29 degrees, mean 11.55 degree
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 70, kl_loss 0.007835, dis_loss-2.755378
+-------------0.358400-----------------3.032439--------------
+------------Time consuming: 0.689461---Storaging: 5276434432.000000---------
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 71, kl_loss 0.007834, dis_loss-2.734557
+-------------0.363147-----------------3.037255--------------
+------------Time consuming: 0.713287---Storaging: 5276434432.000000---------
+---------------------71---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 72, kl_loss 0.007833, dis_loss-2.763161
+-------------0.367903-----------------3.042143--------------
+------------Time consuming: 0.679333---Storaging: 5276434432.000000---------
+---------------------72---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 73, kl_loss 0.007832, dis_loss-2.784591
+-------------0.372623-----------------3.047236--------------
+------------Time consuming: 0.728839---Storaging: 5276434432.000000---------
+---------------------73---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 74, kl_loss 0.007831, dis_loss-2.791893
+-------------0.377341-----------------3.052227--------------
+------------Time consuming: 0.703591---Storaging: 5276434432.000000---------
+---------------------74---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 75, val_loss 0.203025
+-------------0.377341-----------------3.052227--------------
+Error in translation: median 0.25 m,  mean 0.31 m 
+ Error in rotation: median 8.60 degrees, mean 11.89 degree
+---------------------75---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 75, kl_loss 0.007830, dis_loss-2.815631
+-------------0.382068-----------------3.057209--------------
+------------Time consuming: 0.707383---Storaging: 5276434432.000000---------
+---------------------75---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 76, kl_loss 0.007829, dis_loss-2.834816
+-------------0.386812-----------------3.062282--------------
+------------Time consuming: 0.696764---Storaging: 5276434432.000000---------
+---------------------76---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 77, kl_loss 0.007828, dis_loss-2.848942
+-------------0.391530-----------------3.067321--------------
+------------Time consuming: 0.700566---Storaging: 5276434432.000000---------
+---------------------77---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 78, kl_loss 0.007827, dis_loss-2.858940
+-------------0.396252-----------------3.072412--------------
+------------Time consuming: 0.688206---Storaging: 5276434432.000000---------
+---------------------78---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 79, kl_loss 0.007825, dis_loss-2.874227
+-------------0.400960-----------------3.077438--------------
+------------Time consuming: 0.713587---Storaging: 5276434432.000000---------
+---------------------79---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 80, val_loss 0.198489
+-------------0.400960-----------------3.077438--------------
+Error in translation: median 0.26 m,  mean 0.31 m 
+ Error in rotation: median 7.37 degrees, mean 10.56 degree
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 80, kl_loss 0.007825, dis_loss-2.853929
+-------------0.405657-----------------3.082299--------------
+------------Time consuming: 0.751428---Storaging: 5276434432.000000---------
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 81, kl_loss 0.007824, dis_loss-2.896008
+-------------0.410374-----------------3.087245--------------
+------------Time consuming: 0.700746---Storaging: 5276434432.000000---------
+---------------------81---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 82, kl_loss 0.007822, dis_loss-2.896440
+-------------0.415080-----------------3.092189--------------
+------------Time consuming: 0.696917---Storaging: 5276434432.000000---------
+---------------------82---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 83, kl_loss 0.007821, dis_loss-2.932526
+-------------0.419766-----------------3.097289--------------
+------------Time consuming: 0.707575---Storaging: 5276434432.000000---------
+---------------------83---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 84, kl_loss 0.007820, dis_loss-2.941248
+-------------0.424476-----------------3.102354--------------
+------------Time consuming: 0.704053---Storaging: 5276434432.000000---------
+---------------------84---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 85, val_loss 0.207276
+-------------0.424476-----------------3.102354--------------
+Error in translation: median 0.27 m,  mean 0.32 m 
+ Error in rotation: median 9.05 degrees, mean 11.87 degree
+---------------------85---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 85, kl_loss 0.007819, dis_loss-2.897252
+-------------0.429160-----------------3.107007--------------
+------------Time consuming: 0.728208---Storaging: 5276434432.000000---------
+---------------------85---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 86, kl_loss 0.007817, dis_loss-2.968848
+-------------0.433867-----------------3.112019--------------
+------------Time consuming: 0.703366---Storaging: 5276434432.000000---------
+---------------------86---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 87, kl_loss 0.007816, dis_loss-2.950474
+-------------0.438575-----------------3.116884--------------
+------------Time consuming: 0.703252---Storaging: 5276434432.000000---------
+---------------------87---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 88, kl_loss 0.007815, dis_loss-2.966030
+-------------0.443242-----------------3.121786--------------
+------------Time consuming: 0.687452---Storaging: 5276434432.000000---------
+---------------------88---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 89, kl_loss 0.007813, dis_loss-2.955994
+-------------0.447901-----------------3.126536--------------
+------------Time consuming: 0.711804---Storaging: 5276434432.000000---------
+---------------------89---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 90, val_loss 0.193783
+-------------0.447901-----------------3.126536--------------
+Error in translation: median 0.24 m,  mean 0.31 m 
+ Error in rotation: median 7.32 degrees, mean 10.55 degree
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 90, kl_loss 0.007812, dis_loss-2.961047
+-------------0.452576-----------------3.131268--------------
+------------Time consuming: 0.726630---Storaging: 5276434432.000000---------
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 91, kl_loss 0.007810, dis_loss-3.012410
+-------------0.457282-----------------3.136219--------------
+------------Time consuming: 0.733172---Storaging: 5276434432.000000---------
+---------------------91---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 92, kl_loss 0.007809, dis_loss-3.001314
+-------------0.461979-----------------3.141011--------------
+------------Time consuming: 0.740512---Storaging: 5276434432.000000---------
+---------------------92---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 93, kl_loss 0.007807, dis_loss-3.030243
+-------------0.466685-----------------3.145933--------------
+------------Time consuming: 0.712919---Storaging: 5276434432.000000---------
+---------------------93---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 94, kl_loss 0.007806, dis_loss-3.017096
+-------------0.471385-----------------3.150670--------------
+------------Time consuming: 0.692745---Storaging: 5276434432.000000---------
+---------------------94---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 95, val_loss 0.195372
+-------------0.471385-----------------3.150670--------------
+Error in translation: median 0.25 m,  mean 0.30 m 
+ Error in rotation: median 7.63 degrees, mean 10.77 degree
+---------------------95---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 95, kl_loss 0.007805, dis_loss-3.057114
+-------------0.476087-----------------3.155586--------------
+------------Time consuming: 0.671641---Storaging: 5276434432.000000---------
+---------------------95---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 96, kl_loss 0.007803, dis_loss-3.034590
+-------------0.480782-----------------3.160336--------------
+------------Time consuming: 0.674999---Storaging: 5276434432.000000---------
+---------------------96---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 97, kl_loss 0.007801, dis_loss-3.055634
+-------------0.485454-----------------3.165129--------------
+------------Time consuming: 0.697445---Storaging: 5276434432.000000---------
+---------------------97---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 98, kl_loss 0.007800, dis_loss-3.077752
+-------------0.490136-----------------3.169988--------------
+------------Time consuming: 0.712616---Storaging: 5276434432.000000---------
+---------------------98---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 99, kl_loss 0.007799, dis_loss-3.112774
+-------------0.494822-----------------3.175034--------------
+------------Time consuming: 0.715230---Storaging: 5276434432.000000---------
+---------------------99---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 100, val_loss 0.186364
+-------------0.494822-----------------3.175034--------------
+Error in translation: median 0.23 m,  mean 0.29 m 
+ Error in rotation: median 7.20 degrees, mean 10.25 degree
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 100, kl_loss 0.007798, dis_loss-3.122574
+-------------0.499531-----------------3.180021--------------
+------------Time consuming: 0.699912---Storaging: 5276434432.000000---------
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 101, kl_loss 0.007797, dis_loss-3.098484
+-------------0.504209-----------------3.184792--------------
+------------Time consuming: 0.711351---Storaging: 5276434432.000000---------
+---------------------101---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 102, kl_loss 0.007796, dis_loss-3.124636
+-------------0.508888-----------------3.189639--------------
+------------Time consuming: 0.682081---Storaging: 5276434432.000000---------
+---------------------102---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 103, kl_loss 0.007794, dis_loss-3.127521
+-------------0.513571-----------------3.194441--------------
+------------Time consuming: 0.684268---Storaging: 5276434432.000000---------
+---------------------103---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 104, kl_loss 0.007793, dis_loss-3.153212
+-------------0.518254-----------------3.199336--------------
+------------Time consuming: 0.684637---Storaging: 5276434432.000000---------
+---------------------104---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 105, val_loss 0.184038
+-------------0.518254-----------------3.199336--------------
+Error in translation: median 0.22 m,  mean 0.28 m 
+ Error in rotation: median 7.50 degrees, mean 10.19 degree
+---------------------105---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 105, kl_loss 0.007791, dis_loss-3.139514
+-------------0.522932-----------------3.204071--------------
+------------Time consuming: 0.669584---Storaging: 5276434432.000000---------
+---------------------105---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 106, kl_loss 0.007790, dis_loss-3.178447
+-------------0.527639-----------------3.208930--------------
+------------Time consuming: 0.676666---Storaging: 5276434432.000000---------
+---------------------106---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 107, kl_loss 0.007789, dis_loss-3.174429
+-------------0.532327-----------------3.213751--------------
+------------Time consuming: 0.706619---Storaging: 5276434432.000000---------
+---------------------107---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 108, kl_loss 0.007788, dis_loss-3.197015
+-------------0.537008-----------------3.218655--------------
+------------Time consuming: 0.685974---Storaging: 5276434432.000000---------
+---------------------108---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 109, kl_loss 0.007787, dis_loss-3.192257
+-------------0.541705-----------------3.223432--------------
+------------Time consuming: 0.682060---Storaging: 5276434432.000000---------
+---------------------109---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 110, val_loss 0.197728
+-------------0.541705-----------------3.223432--------------
+Error in translation: median 0.25 m,  mean 0.30 m 
+ Error in rotation: median 8.36 degrees, mean 11.23 degree
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 110, kl_loss 0.007785, dis_loss-3.195451
+-------------0.546381-----------------3.228157--------------
+------------Time consuming: 0.679732---Storaging: 5276434432.000000---------
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 111, kl_loss 0.007784, dis_loss-3.203823
+-------------0.551044-----------------3.232920--------------
+------------Time consuming: 0.670166---Storaging: 5276434432.000000---------
+---------------------111---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 112, kl_loss 0.007782, dis_loss-3.246531
+-------------0.555718-----------------3.237832--------------
+------------Time consuming: 0.683130---Storaging: 5276434432.000000---------
+---------------------112---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 113, kl_loss 0.007781, dis_loss-3.214189
+-------------0.560392-----------------3.242512--------------
+------------Time consuming: 0.687657---Storaging: 5276434432.000000---------
+---------------------113---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 114, kl_loss 0.007779, dis_loss-3.231993
+-------------0.565080-----------------3.247211--------------
+------------Time consuming: 0.695645---Storaging: 5276434432.000000---------
+---------------------114---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 115, val_loss 0.193857
+-------------0.565080-----------------3.247211--------------
+Error in translation: median 0.25 m,  mean 0.30 m 
+ Error in rotation: median 7.58 degrees, mean 10.41 degree
+---------------------115---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 115, kl_loss 0.007778, dis_loss-3.249036
+-------------0.569752-----------------3.251972--------------
+------------Time consuming: 0.669206---Storaging: 5276434432.000000---------
+---------------------115---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 116, kl_loss 0.007776, dis_loss-3.246212
+-------------0.574423-----------------3.256683--------------
+------------Time consuming: 0.673733---Storaging: 5276434432.000000---------
+---------------------116---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 117, kl_loss 0.007775, dis_loss-3.249991
+-------------0.579126-----------------3.261309--------------
+------------Time consuming: 0.680039---Storaging: 5276434432.000000---------
+---------------------117---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 118, kl_loss 0.007773, dis_loss-3.293504
+-------------0.583799-----------------3.266145--------------
+------------Time consuming: 0.684004---Storaging: 5276434432.000000---------
+---------------------118---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 119, kl_loss 0.007771, dis_loss-3.268536
+-------------0.588459-----------------3.270810--------------
+------------Time consuming: 0.667344---Storaging: 5276434432.000000---------
+---------------------119---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 120, val_loss 0.190158
+-------------0.588459-----------------3.270810--------------
+Error in translation: median 0.25 m,  mean 0.30 m 
+ Error in rotation: median 8.05 degrees, mean 10.57 degree
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 120, kl_loss 0.007770, dis_loss-3.290900
+-------------0.593148-----------------3.275547--------------
+------------Time consuming: 0.672822---Storaging: 5276434432.000000---------
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 121, kl_loss 0.007768, dis_loss-3.300805
+-------------0.597815-----------------3.280274--------------
+------------Time consuming: 0.678864---Storaging: 5276434432.000000---------
+---------------------121---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 122, kl_loss 0.007766, dis_loss-3.305964
+-------------0.602473-----------------3.285004--------------
+------------Time consuming: 0.670562---Storaging: 5276434432.000000---------
+---------------------122---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 123, kl_loss 0.007765, dis_loss-3.331556
+-------------0.607161-----------------3.289775--------------
+------------Time consuming: 0.683178---Storaging: 5276434432.000000---------
+---------------------123---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 124, kl_loss 0.007764, dis_loss-3.334434
+-------------0.611818-----------------3.294579--------------
+------------Time consuming: 0.677659---Storaging: 5276434432.000000---------
+---------------------124---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 125, val_loss 0.187642
+-------------0.611818-----------------3.294579--------------
+Error in translation: median 0.24 m,  mean 0.29 m 
+ Error in rotation: median 7.25 degrees, mean 10.21 degree
+---------------------125---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 125, kl_loss 0.007763, dis_loss-3.332625
+-------------0.616470-----------------3.299310--------------
+------------Time consuming: 0.674263---Storaging: 5276434432.000000---------
+---------------------125---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 126, kl_loss 0.007761, dis_loss-3.330141
+-------------0.621130-----------------3.303906--------------
+------------Time consuming: 0.680673---Storaging: 5276434432.000000---------
+---------------------126---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 127, kl_loss 0.007759, dis_loss-3.356439
+-------------0.625827-----------------3.308600--------------
+------------Time consuming: 0.680183---Storaging: 5276434432.000000---------
+---------------------127---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 128, kl_loss 0.007758, dis_loss-3.375024
+-------------0.630516-----------------3.313387--------------
+------------Time consuming: 0.715684---Storaging: 5276434432.000000---------
+---------------------128---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 129, kl_loss 0.007756, dis_loss-3.380905
+-------------0.635213-----------------3.318116--------------
+------------Time consuming: 0.687001---Storaging: 5276434432.000000---------
+---------------------129---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 130, val_loss 0.188853
+-------------0.635213-----------------3.318116--------------
+Error in translation: median 0.23 m,  mean 0.29 m 
+ Error in rotation: median 9.29 degrees, mean 11.55 degree
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 130, kl_loss 0.007755, dis_loss-3.372913
+-------------0.639910-----------------3.322745--------------
+------------Time consuming: 0.671305---Storaging: 5276434432.000000---------
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 131, kl_loss 0.007753, dis_loss-3.415274
+-------------0.644596-----------------3.327571--------------
+------------Time consuming: 0.682392---Storaging: 5276434432.000000---------
+---------------------131---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 132, kl_loss 0.007752, dis_loss-3.405905
+-------------0.649270-----------------3.332314--------------
+------------Time consuming: 0.706024---Storaging: 5276434432.000000---------
+---------------------132---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 133, kl_loss 0.007751, dis_loss-3.408111
+-------------0.653949-----------------3.336983--------------
+------------Time consuming: 0.678571---Storaging: 5276434432.000000---------
+---------------------133---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 134, kl_loss 0.007750, dis_loss-3.435309
+-------------0.658622-----------------3.341797--------------
+------------Time consuming: 0.687182---Storaging: 5276434432.000000---------
+---------------------134---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 135, val_loss 0.186614
+-------------0.658622-----------------3.341797--------------
+Error in translation: median 0.24 m,  mean 0.29 m 
+ Error in rotation: median 7.59 degrees, mean 10.29 degree
+---------------------135---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 135, kl_loss 0.007749, dis_loss-3.432994
+-------------0.663276-----------------3.346550--------------
+------------Time consuming: 0.672965---Storaging: 5276434432.000000---------
+---------------------135---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 136, kl_loss 0.007747, dis_loss-3.439853
+-------------0.667970-----------------3.351274--------------
+------------Time consuming: 0.677195---Storaging: 5276434432.000000---------
+---------------------136---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 137, kl_loss 0.007746, dis_loss-3.440357
+-------------0.672643-----------------3.355919--------------
+------------Time consuming: 0.673091---Storaging: 5276434432.000000---------
+---------------------137---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 138, kl_loss 0.007743, dis_loss-3.443363
+-------------0.677301-----------------3.360536--------------
+------------Time consuming: 0.682164---Storaging: 5276434432.000000---------
+---------------------138---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 139, kl_loss 0.007741, dis_loss-3.474427
+-------------0.681965-----------------3.365287--------------
+------------Time consuming: 0.701936---Storaging: 5276434432.000000---------
+---------------------139---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 140, val_loss 0.182833
+-------------0.681965-----------------3.365287--------------
+Error in translation: median 0.23 m,  mean 0.29 m 
+ Error in rotation: median 7.11 degrees, mean 9.73 degree
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 140, kl_loss 0.007740, dis_loss-3.489547
+-------------0.686648-----------------3.370065--------------
+------------Time consuming: 0.680694---Storaging: 5276434432.000000---------
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 141, kl_loss 0.007739, dis_loss-3.486003
+-------------0.691341-----------------3.374766--------------
+------------Time consuming: 0.689104---Storaging: 5276434432.000000---------
+---------------------141---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 142, kl_loss 0.007738, dis_loss-3.498696
+-------------0.696041-----------------3.379498--------------
+------------Time consuming: 0.686937---Storaging: 5276434432.000000---------
+---------------------142---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 143, kl_loss 0.007737, dis_loss-3.511478
+-------------0.700719-----------------3.384216--------------
+------------Time consuming: 0.683697---Storaging: 5276434432.000000---------
+---------------------143---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 144, kl_loss 0.007736, dis_loss-3.494813
+-------------0.705371-----------------3.388839--------------
+------------Time consuming: 0.689927---Storaging: 5276434432.000000---------
+---------------------144---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 145, val_loss 0.181682
+-------------0.705371-----------------3.388839--------------
+Error in translation: median 0.23 m,  mean 0.28 m 
+ Error in rotation: median 7.22 degrees, mean 9.96 degree
+---------------------145---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 145, kl_loss 0.007735, dis_loss-3.525971
+-------------0.710041-----------------3.393571--------------
+------------Time consuming: 0.681360---Storaging: 5276434432.000000---------
+---------------------145---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 146, kl_loss 0.007734, dis_loss-3.539463
+-------------0.714715-----------------3.398334--------------
+------------Time consuming: 0.692225---Storaging: 5276434432.000000---------
+---------------------146---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 147, kl_loss 0.007733, dis_loss-3.538177
+-------------0.719404-----------------3.402996--------------
+------------Time consuming: 0.679943---Storaging: 5276434432.000000---------
+---------------------147---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 148, kl_loss 0.007731, dis_loss-3.552943
+-------------0.724105-----------------3.407723--------------
+------------Time consuming: 0.679367---Storaging: 5276434432.000000---------
+---------------------148---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 149, kl_loss 0.007729, dis_loss-3.558132
+-------------0.728786-----------------3.412408--------------
+------------Time consuming: 0.679340---Storaging: 5276434432.000000---------
+---------------------149---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 150, val_loss 0.181098
+-------------0.728786-----------------3.412408--------------
+Error in translation: median 0.23 m,  mean 0.28 m 
+ Error in rotation: median 7.55 degrees, mean 10.07 degree
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 150, kl_loss 0.007728, dis_loss-3.578484
+-------------0.733494-----------------3.417135--------------
+------------Time consuming: 0.672005---Storaging: 5276434432.000000---------
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 151, kl_loss 0.007727, dis_loss-3.562348
+-------------0.738166-----------------3.421744--------------
+------------Time consuming: 0.680804---Storaging: 5276434432.000000---------
+---------------------151---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 152, kl_loss 0.007726, dis_loss-3.582318
+-------------0.742822-----------------3.426465--------------
+------------Time consuming: 0.675270---Storaging: 5276434432.000000---------
+---------------------152---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 153, kl_loss 0.007724, dis_loss-3.598606
+-------------0.747509-----------------3.431170--------------
+------------Time consuming: 0.677189---Storaging: 5276434432.000000---------
+---------------------153---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 154, kl_loss 0.007723, dis_loss-3.613085
+-------------0.752186-----------------3.435930--------------
+------------Time consuming: 0.695686---Storaging: 5276434432.000000---------
+---------------------154---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 155, val_loss 0.184891
+-------------0.752186-----------------3.435930--------------
+Error in translation: median 0.24 m,  mean 0.29 m 
+ Error in rotation: median 7.17 degrees, mean 9.97 degree
+---------------------155---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 155, kl_loss 0.007722, dis_loss-3.620703
+-------------0.756855-----------------3.440696--------------
+------------Time consuming: 0.671139---Storaging: 5276434432.000000---------
+---------------------155---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 156, kl_loss 0.007721, dis_loss-3.595800
+-------------0.761488-----------------3.445305--------------
+------------Time consuming: 0.690063---Storaging: 5276434432.000000---------
+---------------------156---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 157, kl_loss 0.007719, dis_loss-3.601757
+-------------0.766123-----------------3.449864--------------
+------------Time consuming: 0.694919---Storaging: 5276434432.000000---------
+---------------------157---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 158, kl_loss 0.007718, dis_loss-3.617243
+-------------0.770788-----------------3.454466--------------
+------------Time consuming: 0.683717---Storaging: 5276434432.000000---------
+---------------------158---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 159, kl_loss 0.007714, dis_loss-3.606176
+-------------0.775449-----------------3.458964--------------
+------------Time consuming: 0.682928---Storaging: 5276434432.000000---------
+---------------------159---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 160, val_loss 0.193281
+-------------0.775449-----------------3.458964--------------
+Error in translation: median 0.23 m,  mean 0.30 m 
+ Error in rotation: median 7.85 degrees, mean 10.43 degree
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 160, kl_loss 0.007713, dis_loss-3.640162
+-------------0.780109-----------------3.463607--------------
+------------Time consuming: 0.679259---Storaging: 5276434432.000000---------
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 161, kl_loss 0.007712, dis_loss-3.662618
+-------------0.784777-----------------3.468343--------------
+------------Time consuming: 0.694799---Storaging: 5276434432.000000---------
+---------------------161---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 162, kl_loss 0.007712, dis_loss-3.664333
+-------------0.789454-----------------3.473028--------------
+------------Time consuming: 0.687671---Storaging: 5276434432.000000---------
+---------------------162---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 163, kl_loss 0.007711, dis_loss-3.659667
+-------------0.794124-----------------3.477658--------------
+------------Time consuming: 0.668285---Storaging: 5276434432.000000---------
+---------------------163---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 164, kl_loss 0.007709, dis_loss-3.656835
+-------------0.798811-----------------3.482149--------------
+------------Time consuming: 0.669167---Storaging: 5276434432.000000---------
+---------------------164---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 165, val_loss 0.177006
+-------------0.798811-----------------3.482149--------------
+Error in translation: median 0.23 m,  mean 0.28 m 
+ Error in rotation: median 7.24 degrees, mean 9.83 degree
+---------------------165---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 165, kl_loss 0.007708, dis_loss-3.696087
+-------------0.803479-----------------3.486919--------------
+------------Time consuming: 0.676093---Storaging: 5276434432.000000---------
+---------------------165---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 166, kl_loss 0.007706, dis_loss-3.699627
+-------------0.808133-----------------3.491650--------------
+------------Time consuming: 0.678857---Storaging: 5276434432.000000---------
+---------------------166---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 167, kl_loss 0.007705, dis_loss-3.704318
+-------------0.812822-----------------3.496305--------------
+------------Time consuming: 0.684076---Storaging: 5276434432.000000---------
+---------------------167---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 168, kl_loss 0.007704, dis_loss-3.715962
+-------------0.817513-----------------3.500981--------------
+------------Time consuming: 0.683319---Storaging: 5276434432.000000---------
+---------------------168---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 169, kl_loss 0.007703, dis_loss-3.709247
+-------------0.822192-----------------3.505566--------------
+------------Time consuming: 0.679491---Storaging: 5276434432.000000---------
+---------------------169---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 170, val_loss 0.180679
+-------------0.822192-----------------3.505566--------------
+Error in translation: median 0.23 m,  mean 0.28 m 
+ Error in rotation: median 7.07 degrees, mean 9.94 degree
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 170, kl_loss 0.007701, dis_loss-3.725460
+-------------0.826862-----------------3.510205--------------
+------------Time consuming: 0.679503---Storaging: 5276434432.000000---------
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 171, kl_loss 0.007700, dis_loss-3.742856
+-------------0.831551-----------------3.514905--------------
+------------Time consuming: 0.684234---Storaging: 5276434432.000000---------
+---------------------171---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 172, kl_loss 0.007699, dis_loss-3.754800
+-------------0.836239-----------------3.519625--------------
+------------Time consuming: 0.667150---Storaging: 5276434432.000000---------
+---------------------172---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 173, kl_loss 0.007698, dis_loss-3.752504
+-------------0.840912-----------------3.524279--------------
+------------Time consuming: 0.686893---Storaging: 5276434432.000000---------
+---------------------173---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 174, kl_loss 0.007695, dis_loss-3.750047
+-------------0.845583-----------------3.528894--------------
+------------Time consuming: 0.681745---Storaging: 5276434432.000000---------
+---------------------174---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 175, val_loss 0.179898
+-------------0.845583-----------------3.528894--------------
+Error in translation: median 0.22 m,  mean 0.28 m 
+ Error in rotation: median 7.36 degrees, mean 10.04 degree
+---------------------175---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 175, kl_loss 0.007694, dis_loss-3.769810
+-------------0.850250-----------------3.533552--------------
+------------Time consuming: 0.672554---Storaging: 5276434432.000000---------
+---------------------175---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 176, kl_loss 0.007693, dis_loss-3.761198
+-------------0.854913-----------------3.538142--------------
+------------Time consuming: 0.684033---Storaging: 5276434432.000000---------
+---------------------176---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 177, kl_loss 0.007691, dis_loss-3.759882
+-------------0.859592-----------------3.542641--------------
+------------Time consuming: 0.689217---Storaging: 5276434432.000000---------
+---------------------177---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 178, kl_loss 0.007689, dis_loss-3.776332
+-------------0.864248-----------------3.547211--------------
+------------Time consuming: 0.679435---Storaging: 5276434432.000000---------
+---------------------178---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 179, kl_loss 0.007688, dis_loss-3.776914
+-------------0.868925-----------------3.551737--------------
+------------Time consuming: 0.681377---Storaging: 5276434432.000000---------
+---------------------179---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 180, val_loss 0.177217
+-------------0.868925-----------------3.551737--------------
+Error in translation: median 0.22 m,  mean 0.27 m 
+ Error in rotation: median 7.58 degrees, mean 10.18 degree
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 180, kl_loss 0.007687, dis_loss-3.774147
+-------------0.873600-----------------3.556213--------------
+------------Time consuming: 0.687472---Storaging: 5276434432.000000---------
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 181, kl_loss 0.007685, dis_loss-3.802161
+-------------0.878282-----------------3.560809--------------
+------------Time consuming: 0.710344---Storaging: 5276434432.000000---------
+---------------------181---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 182, kl_loss 0.007685, dis_loss-3.817407
+-------------0.882969-----------------3.565469--------------
+------------Time consuming: 0.684838---Storaging: 5276434432.000000---------
+---------------------182---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 183, kl_loss 0.007683, dis_loss-3.836194
+-------------0.887662-----------------3.570175--------------
+------------Time consuming: 0.674042---Storaging: 5276434432.000000---------
+---------------------183---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 184, kl_loss 0.007682, dis_loss-3.836266
+-------------0.892328-----------------3.574852--------------
+------------Time consuming: 0.673358---Storaging: 5276434432.000000---------
+---------------------184---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 185, val_loss 0.178716
+-------------0.892328-----------------3.574852--------------
+Error in translation: median 0.22 m,  mean 0.28 m 
+ Error in rotation: median 7.28 degrees, mean 9.72 degree
+---------------------185---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 185, kl_loss 0.007682, dis_loss-3.840825
+-------------0.897007-----------------3.579488--------------
+------------Time consuming: 0.669025---Storaging: 5276434432.000000---------
+---------------------185---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 186, kl_loss 0.007681, dis_loss-3.853454
+-------------0.901695-----------------3.584164--------------
+------------Time consuming: 0.681355---Storaging: 5276434432.000000---------
+---------------------186---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 187, kl_loss 0.007679, dis_loss-3.838088
+-------------0.906365-----------------3.588658--------------
+------------Time consuming: 0.695000---Storaging: 5276434432.000000---------
+---------------------187---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 188, kl_loss 0.007678, dis_loss-3.853630
+-------------0.911031-----------------3.593270--------------
+------------Time consuming: 0.691170---Storaging: 5276434432.000000---------
+---------------------188---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 189, kl_loss 0.007677, dis_loss-3.856012
+-------------0.915691-----------------3.597827--------------
+------------Time consuming: 0.682031---Storaging: 5276434432.000000---------
+---------------------189---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 190, val_loss 0.176696
+-------------0.915691-----------------3.597827--------------
+Error in translation: median 0.22 m,  mean 0.27 m 
+ Error in rotation: median 7.46 degrees, mean 10.09 degree
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 190, kl_loss 0.007676, dis_loss-3.881753
+-------------0.920351-----------------3.602500--------------
+------------Time consuming: 0.687283---Storaging: 5276434432.000000---------
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_office_vmloc_False_2019_2
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 191, kl_loss 0.007674, dis_loss-3.881418
+-------------0.925013-----------------3.607138--------------
+------------Time consuming: 0.692719---Storaging: 5276434432.000000---------
+---------------------191---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 192, kl_loss 0.007673, dis_loss-3.880523
+-------------0.929679-----------------3.611703--------------
+------------Time consuming: 0.689565---Storaging: 5276434432.000000---------
+---------------------192---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 193, kl_loss 0.007672, dis_loss-3.894605
+-------------0.934355-----------------3.616301--------------
+------------Time consuming: 0.697833---Storaging: 5276434432.000000---------
+---------------------193---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 194, kl_loss 0.007670, dis_loss-3.854573
+-------------0.939026-----------------3.620581--------------
+------------Time consuming: 0.689446---Storaging: 5276434432.000000---------
+---------------------194---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 195, val_loss 0.179549
+-------------0.939026-----------------3.620581--------------
+Error in translation: median 0.22 m,  mean 0.28 m 
+ Error in rotation: median 7.80 degrees, mean 10.47 degree
+---------------------195---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 195, kl_loss 0.007667, dis_loss-3.884471
+-------------0.943675-----------------3.625061--------------
+------------Time consuming: 0.678366---Storaging: 5276434432.000000---------
+---------------------195---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 196, kl_loss 0.007666, dis_loss-3.908016
+-------------0.948338-----------------3.629670--------------
+------------Time consuming: 0.688835---Storaging: 5276434432.000000---------
+---------------------196---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 197, kl_loss 0.007665, dis_loss-3.886338
+-------------0.952976-----------------3.634089--------------
+------------Time consuming: 0.685748---Storaging: 5276434432.000000---------
+---------------------197---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 198, kl_loss 0.007664, dis_loss-3.919885
+-------------0.957655-----------------3.638663--------------
+------------Time consuming: 0.690403---Storaging: 5276434432.000000---------
+---------------------198---------------------
+Val 7Scenes_office_vmloc_False_2019_2: Epoch 199, val_loss 0.184939
+-------------0.957655-----------------3.638663--------------
+Error in translation: median 0.23 m,  mean 0.29 m 
+ Error in rotation: median 7.26 degrees, mean 9.70 degree
+---------------------199---------------------
+Training 7Scenes_office_vmloc_False_2019_2: Epoch 199, kl_loss 0.007663, dis_loss-3.923593
+-------------0.962321-----------------3.643241--------------
+------------Time consuming: 0.685335---Storaging: 5276434432.000000---------
+---------------------199---------------------

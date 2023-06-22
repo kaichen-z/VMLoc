@@ -1,0 +1,1052 @@
+nohup: ignoring input
+============= 1 0
+Logging to /mnt/nas/kaichen/eng/LOC/vmloc_git/record/7Scenes_stairs_concatenate_False_2019_2/runs/log.txt
+Not Using ColorJitter
+c_nvmlMemory_t(total: 24146608128 B, free: 14551547904 B, used: 9595060224 B)
+/home/kaichen/.conda/envs/rigid/lib/python3.8/site-packages/torch/nn/functional.py:1628: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 0, val_loss 1.443831
+------------0.000000-----------------3.000000--------------
+Error in translation: median 1.31 m,  mean 1.40 m 
+ Error in rotation: median 152.34 degrees, mean 144.92 degree
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 0, kl_loss 0.000000, dis_loss17.243454
+------------0.000222-----------------2.998435--------------
+------------Time consuming: 1.420055---Storaging: 6694174720.000000---------
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 1, kl_loss 0.000000, dis_loss15.937593
+-------------0.001244-----------------2.996895--------------
+------------Time consuming: 1.367977---Storaging: 6696206336.000000---------
+---------------------1---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 2, kl_loss 0.000000, dis_loss14.764513
+-------------0.003211-----------------2.995409--------------
+------------Time consuming: 1.136242---Storaging: 6696206336.000000---------
+---------------------2---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 3, kl_loss 0.000000, dis_loss13.762571
+-------------0.005307-----------------2.993966--------------
+------------Time consuming: 1.049285---Storaging: 6696206336.000000---------
+---------------------3---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 4, kl_loss 0.000000, dis_loss12.447186
+-------------0.007674-----------------2.992586--------------
+------------Time consuming: 1.035477---Storaging: 6696206336.000000---------
+---------------------4---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 5, val_loss 0.689662
+-------------0.007674-----------------2.992586--------------
+Error in translation: median 0.71 m,  mean 0.74 m 
+ Error in rotation: median 67.34 degrees, mean 72.37 degree
+---------------------5---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 5, kl_loss 0.000000, dis_loss10.793535
+-------------0.010159-----------------2.991310--------------
+------------Time consuming: 1.288106---Storaging: 6696206336.000000---------
+---------------------5---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 6, kl_loss 0.000000, dis_loss9.120616
+-------------0.012755-----------------2.990150--------------
+------------Time consuming: 1.013116---Storaging: 6696206336.000000---------
+---------------------6---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 7, kl_loss 0.000000, dis_loss7.518526
+-------------0.015473-----------------2.989106--------------
+------------Time consuming: 1.253934---Storaging: 6696206336.000000---------
+---------------------7---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 8, kl_loss 0.000000, dis_loss5.902970
+-------------0.018210-----------------2.988197--------------
+------------Time consuming: 1.204511---Storaging: 6696206336.000000---------
+---------------------8---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 9, kl_loss 0.000000, dis_loss4.345826
+-------------0.020826-----------------2.987427--------------
+------------Time consuming: 1.268561---Storaging: 6696206336.000000---------
+---------------------9---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 10, val_loss 0.420968
+-------------0.020826-----------------2.987427--------------
+Error in translation: median 0.49 m,  mean 0.64 m 
+ Error in rotation: median 26.08 degrees, mean 26.27 degree
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 10, kl_loss 0.000000, dis_loss3.075811
+-------------0.023451-----------------2.986790--------------
+------------Time consuming: 1.267620---Storaging: 6696206336.000000---------
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 11, kl_loss 0.000000, dis_loss2.208417
+-------------0.026013-----------------2.986243--------------
+------------Time consuming: 1.217319---Storaging: 6696206336.000000---------
+---------------------11---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 12, kl_loss 0.000000, dis_loss1.312566
+-------------0.028501-----------------2.985783--------------
+------------Time consuming: 1.053186---Storaging: 6696206336.000000---------
+---------------------12---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 13, kl_loss 0.000000, dis_loss1.100102
+-------------0.030924-----------------2.985379--------------
+------------Time consuming: 1.047689---Storaging: 6696206336.000000---------
+---------------------13---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 14, kl_loss 0.000000, dis_loss0.642511
+-------------0.033277-----------------2.984993--------------
+------------Time consuming: 1.153533---Storaging: 6696206336.000000---------
+---------------------14---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 15, val_loss 0.471267
+-------------0.033277-----------------2.984993--------------
+Error in translation: median 0.50 m,  mean 0.66 m 
+ Error in rotation: median 34.78 degrees, mean 35.71 degree
+---------------------15---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 15, kl_loss 0.000000, dis_loss0.516565
+-------------0.035539-----------------2.984624--------------
+------------Time consuming: 1.225664---Storaging: 6696206336.000000---------
+---------------------15---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 16, kl_loss 0.000000, dis_loss0.119937
+-------------0.037716-----------------2.984306--------------
+------------Time consuming: 1.154317---Storaging: 6696206336.000000---------
+---------------------16---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 17, kl_loss 0.000000, dis_loss-0.138870
+-------------0.039908-----------------2.984014--------------
+------------Time consuming: 1.209759---Storaging: 6696206336.000000---------
+---------------------17---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 18, kl_loss 0.000000, dis_loss-0.331505
+-------------0.042021-----------------2.983745--------------
+------------Time consuming: 1.147480---Storaging: 6696206336.000000---------
+---------------------18---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 19, kl_loss 0.000000, dis_loss-0.391239
+-------------0.044110-----------------2.983500--------------
+------------Time consuming: 1.215622---Storaging: 6696206336.000000---------
+---------------------19---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 20, val_loss 0.380143
+-------------0.044110-----------------2.983500--------------
+Error in translation: median 0.44 m,  mean 0.61 m 
+ Error in rotation: median 17.84 degrees, mean 18.96 degree
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 20, kl_loss 0.000000, dis_loss-0.526880
+-------------0.046179-----------------2.983245--------------
+------------Time consuming: 1.146530---Storaging: 6696206336.000000---------
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 21, kl_loss 0.000000, dis_loss-0.608918
+-------------0.048210-----------------2.983032--------------
+------------Time consuming: 1.046236---Storaging: 6696206336.000000---------
+---------------------21---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 22, kl_loss 0.000000, dis_loss-0.651941
+-------------0.050198-----------------2.982790--------------
+------------Time consuming: 1.010448---Storaging: 6696206336.000000---------
+---------------------22---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 23, kl_loss 0.000000, dis_loss-0.610228
+-------------0.052145-----------------2.982539--------------
+------------Time consuming: 1.282435---Storaging: 6696206336.000000---------
+---------------------23---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 24, kl_loss 0.000000, dis_loss-0.756727
+-------------0.054078-----------------2.982322--------------
+------------Time consuming: 1.264930---Storaging: 6696206336.000000---------
+---------------------24---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 25, val_loss 0.403632
+-------------0.054078-----------------2.982322--------------
+Error in translation: median 0.43 m,  mean 0.61 m 
+ Error in rotation: median 25.35 degrees, mean 26.84 degree
+---------------------25---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 25, kl_loss 0.000000, dis_loss-0.820725
+-------------0.056004-----------------2.982099--------------
+------------Time consuming: 1.231127---Storaging: 6696206336.000000---------
+---------------------25---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 26, kl_loss 0.000000, dis_loss-0.775498
+-------------0.057928-----------------2.981872--------------
+------------Time consuming: 1.202116---Storaging: 6696206336.000000---------
+---------------------26---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 27, kl_loss 0.000000, dis_loss-1.043588
+-------------0.059835-----------------2.981669--------------
+------------Time consuming: 1.247957---Storaging: 6696206336.000000---------
+---------------------27---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 28, kl_loss 0.000000, dis_loss-1.070347
+-------------0.061734-----------------2.981504--------------
+------------Time consuming: 1.267259---Storaging: 6696206336.000000---------
+---------------------28---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 29, kl_loss 0.000000, dis_loss-1.224058
+-------------0.063612-----------------2.981346--------------
+------------Time consuming: 1.178772---Storaging: 6696206336.000000---------
+---------------------29---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 30, val_loss 0.374604
+-------------0.063612-----------------2.981346--------------
+Error in translation: median 0.44 m,  mean 0.60 m 
+ Error in rotation: median 18.84 degrees, mean 19.89 degree
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 30, kl_loss 0.000000, dis_loss-0.880461
+-------------0.065473-----------------2.981134--------------
+------------Time consuming: 1.064820---Storaging: 6696206336.000000---------
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 31, kl_loss 0.000000, dis_loss-1.124556
+-------------0.067333-----------------2.980935--------------
+------------Time consuming: 1.041898---Storaging: 6696206336.000000---------
+---------------------31---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 32, kl_loss 0.000000, dis_loss-1.186983
+-------------0.069183-----------------2.980758--------------
+------------Time consuming: 1.186440---Storaging: 6696206336.000000---------
+---------------------32---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 33, kl_loss 0.000000, dis_loss-1.139638
+-------------0.070999-----------------2.980576--------------
+------------Time consuming: 1.136242---Storaging: 6696206336.000000---------
+---------------------33---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 34, kl_loss 0.000000, dis_loss-1.233717
+-------------0.072807-----------------2.980405--------------
+------------Time consuming: 1.271023---Storaging: 6696206336.000000---------
+---------------------34---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 35, val_loss 0.338457
+-------------0.072807-----------------2.980405--------------
+Error in translation: median 0.44 m,  mean 0.60 m 
+ Error in rotation: median 12.06 degrees, mean 12.56 degree
+---------------------35---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 35, kl_loss 0.000000, dis_loss-1.182139
+-------------0.074613-----------------2.980226--------------
+------------Time consuming: 1.292487---Storaging: 6696206336.000000---------
+---------------------35---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 36, kl_loss 0.000000, dis_loss-1.039216
+-------------0.076408-----------------2.979997--------------
+------------Time consuming: 1.148532---Storaging: 6696206336.000000---------
+---------------------36---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 37, kl_loss 0.000000, dis_loss-1.308189
+-------------0.078200-----------------2.979824--------------
+------------Time consuming: 1.207333---Storaging: 6696206336.000000---------
+---------------------37---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 38, kl_loss 0.000000, dis_loss-1.302432
+-------------0.080005-----------------2.979667--------------
+------------Time consuming: 1.140674---Storaging: 6696206336.000000---------
+---------------------38---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 39, kl_loss 0.000000, dis_loss-1.292738
+-------------0.081818-----------------2.979486--------------
+------------Time consuming: 1.280546---Storaging: 6696206336.000000---------
+---------------------39---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 40, val_loss 0.351044
+-------------0.081818-----------------2.979486--------------
+Error in translation: median 0.43 m,  mean 0.56 m 
+ Error in rotation: median 16.02 degrees, mean 17.66 degree
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 40, kl_loss 0.000000, dis_loss-1.400214
+-------------0.083632-----------------2.979321--------------
+------------Time consuming: 1.047650---Storaging: 6696206336.000000---------
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 41, kl_loss 0.000000, dis_loss-1.351464
+-------------0.085436-----------------2.979172--------------
+------------Time consuming: 1.249929---Storaging: 6696206336.000000---------
+---------------------41---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 42, kl_loss 0.000000, dis_loss-1.282100
+-------------0.087235-----------------2.978998--------------
+------------Time consuming: 1.175745---Storaging: 6696206336.000000---------
+---------------------42---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 43, kl_loss 0.000000, dis_loss-1.445778
+-------------0.088989-----------------2.978813--------------
+------------Time consuming: 1.291213---Storaging: 6696206336.000000---------
+---------------------43---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 44, kl_loss 0.000000, dis_loss-1.461175
+-------------0.090767-----------------2.978665--------------
+------------Time consuming: 1.249070---Storaging: 6696206336.000000---------
+---------------------44---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 45, val_loss 0.331200
+-------------0.090767-----------------2.978665--------------
+Error in translation: median 0.42 m,  mean 0.54 m 
+ Error in rotation: median 14.26 degrees, mean 14.93 degree
+---------------------45---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 45, kl_loss 0.000000, dis_loss-1.507950
+-------------0.092560-----------------2.978528--------------
+------------Time consuming: 1.150751---Storaging: 6696206336.000000---------
+---------------------45---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 46, kl_loss 0.000000, dis_loss-1.481477
+-------------0.094344-----------------2.978380--------------
+------------Time consuming: 1.221825---Storaging: 6696206336.000000---------
+---------------------46---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 47, kl_loss 0.000000, dis_loss-1.605252
+-------------0.096126-----------------2.978275--------------
+------------Time consuming: 1.126419---Storaging: 6696206336.000000---------
+---------------------47---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 48, kl_loss 0.000000, dis_loss-1.625372
+-------------0.097898-----------------2.978179--------------
+------------Time consuming: 1.201621---Storaging: 6696206336.000000---------
+---------------------48---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 49, kl_loss 0.000000, dis_loss-1.525266
+-------------0.099664-----------------2.978046--------------
+------------Time consuming: 1.063127---Storaging: 6696206336.000000---------
+---------------------49---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 50, val_loss 0.338192
+-------------0.099664-----------------2.978046--------------
+Error in translation: median 0.42 m,  mean 0.54 m 
+ Error in rotation: median 18.37 degrees, mean 18.43 degree
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 50, kl_loss 0.000000, dis_loss-1.489339
+-------------0.101436-----------------2.977877--------------
+------------Time consuming: 1.183392---Storaging: 6696206336.000000---------
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 51, kl_loss 0.000000, dis_loss-1.633774
+-------------0.103205-----------------2.977759--------------
+------------Time consuming: 1.231961---Storaging: 6696206336.000000---------
+---------------------51---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 52, kl_loss 0.000000, dis_loss-1.733138
+-------------0.104960-----------------2.977674--------------
+------------Time consuming: 1.305642---Storaging: 6696206336.000000---------
+---------------------52---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 53, kl_loss 0.000000, dis_loss-1.650120
+-------------0.106718-----------------2.977590--------------
+------------Time consuming: 1.134221---Storaging: 6696206336.000000---------
+---------------------53---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 54, kl_loss 0.000000, dis_loss-1.712699
+-------------0.108477-----------------2.977491--------------
+------------Time consuming: 1.251904---Storaging: 6696206336.000000---------
+---------------------54---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 55, val_loss 0.309577
+-------------0.108477-----------------2.977491--------------
+Error in translation: median 0.44 m,  mean 0.52 m 
+ Error in rotation: median 14.40 degrees, mean 13.91 degree
+---------------------55---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 55, kl_loss 0.000000, dis_loss-1.690719
+-------------0.110225-----------------2.977392--------------
+------------Time consuming: 1.289927---Storaging: 6696206336.000000---------
+---------------------55---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 56, kl_loss 0.000000, dis_loss-1.499724
+-------------0.111957-----------------2.977233--------------
+------------Time consuming: 1.123047---Storaging: 6696206336.000000---------
+---------------------56---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 57, kl_loss 0.000000, dis_loss-1.588107
+-------------0.113684-----------------2.977074--------------
+------------Time consuming: 1.212099---Storaging: 6696206336.000000---------
+---------------------57---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 58, kl_loss 0.000000, dis_loss-1.672641
+-------------0.115418-----------------2.976950--------------
+------------Time consuming: 1.043289---Storaging: 6696206336.000000---------
+---------------------58---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 59, kl_loss 0.000000, dis_loss-1.705260
+-------------0.117155-----------------2.976834--------------
+------------Time consuming: 1.055611---Storaging: 6696206336.000000---------
+---------------------59---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 60, val_loss 0.305401
+-------------0.117155-----------------2.976834--------------
+Error in translation: median 0.41 m,  mean 0.49 m 
+ Error in rotation: median 15.37 degrees, mean 15.64 degree
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 60, kl_loss 0.000000, dis_loss-1.738923
+-------------0.118898-----------------2.976748--------------
+------------Time consuming: 1.252809---Storaging: 6696206336.000000---------
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 61, kl_loss 0.000000, dis_loss-1.691092
+-------------0.120627-----------------2.976634--------------
+------------Time consuming: 1.212009---Storaging: 6696206336.000000---------
+---------------------61---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 62, kl_loss 0.000000, dis_loss-1.842356
+-------------0.122360-----------------2.976568--------------
+------------Time consuming: 1.158886---Storaging: 6696206336.000000---------
+---------------------62---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 63, kl_loss 0.000000, dis_loss-1.719804
+-------------0.124091-----------------2.976471--------------
+------------Time consuming: 1.241150---Storaging: 6696206336.000000---------
+---------------------63---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 64, kl_loss 0.000000, dis_loss-1.829932
+-------------0.125819-----------------2.976381--------------
+------------Time consuming: 1.183938---Storaging: 6696206336.000000---------
+---------------------64---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 65, val_loss 0.302766
+-------------0.125819-----------------2.976381--------------
+Error in translation: median 0.41 m,  mean 0.49 m 
+ Error in rotation: median 13.90 degrees, mean 14.55 degree
+---------------------65---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 65, kl_loss 0.000000, dis_loss-1.846954
+-------------0.127547-----------------2.976321--------------
+------------Time consuming: 1.207842---Storaging: 6696206336.000000---------
+---------------------65---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 66, kl_loss 0.000000, dis_loss-1.929929
+-------------0.129269-----------------2.976317--------------
+------------Time consuming: 1.250488---Storaging: 6696206336.000000---------
+---------------------66---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 67, kl_loss 0.000000, dis_loss-1.885063
+-------------0.130985-----------------2.976290--------------
+------------Time consuming: 1.034638---Storaging: 6696206336.000000---------
+---------------------67---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 68, kl_loss 0.000000, dis_loss-1.774902
+-------------0.132689-----------------2.976190--------------
+------------Time consuming: 1.058126---Storaging: 6696206336.000000---------
+---------------------68---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 69, kl_loss 0.000000, dis_loss-1.876004
+-------------0.134399-----------------2.976141--------------
+------------Time consuming: 0.993233---Storaging: 6696206336.000000---------
+---------------------69---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 70, val_loss 0.301528
+-------------0.134399-----------------2.976141--------------
+Error in translation: median 0.41 m,  mean 0.49 m 
+ Error in rotation: median 14.00 degrees, mean 14.51 degree
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 70, kl_loss 0.000000, dis_loss-1.876718
+-------------0.136104-----------------2.976104--------------
+------------Time consuming: 1.249391---Storaging: 6696206336.000000---------
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 71, kl_loss 0.000000, dis_loss-1.854740
+-------------0.137812-----------------2.976029--------------
+------------Time consuming: 1.186766---Storaging: 6696206336.000000---------
+---------------------71---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 72, kl_loss 0.000000, dis_loss-1.824637
+-------------0.139515-----------------2.975953--------------
+------------Time consuming: 1.293387---Storaging: 6696206336.000000---------
+---------------------72---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 73, kl_loss 0.000000, dis_loss-1.921422
+-------------0.141215-----------------2.975924--------------
+------------Time consuming: 1.128627---Storaging: 6696206336.000000---------
+---------------------73---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 74, kl_loss 0.000000, dis_loss-1.828059
+-------------0.142907-----------------2.975826--------------
+------------Time consuming: 1.212581---Storaging: 6696206336.000000---------
+---------------------74---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 75, val_loss 0.289047
+-------------0.142907-----------------2.975826--------------
+Error in translation: median 0.40 m,  mean 0.48 m 
+ Error in rotation: median 12.20 degrees, mean 13.15 degree
+---------------------75---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 75, kl_loss 0.000000, dis_loss-1.680397
+-------------0.144588-----------------2.975708--------------
+------------Time consuming: 1.212931---Storaging: 6696206336.000000---------
+---------------------75---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 76, kl_loss 0.000000, dis_loss-1.717226
+-------------0.146248-----------------2.975543--------------
+------------Time consuming: 1.058082---Storaging: 6696206336.000000---------
+---------------------76---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 77, kl_loss 0.000000, dis_loss-1.731642
+-------------0.147918-----------------2.975375--------------
+------------Time consuming: 1.035628---Storaging: 6696206336.000000---------
+---------------------77---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 78, kl_loss 0.000000, dis_loss-1.870083
+-------------0.149581-----------------2.975316--------------
+------------Time consuming: 0.915450---Storaging: 6696206336.000000---------
+---------------------78---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 79, kl_loss 0.000000, dis_loss-1.897745
+-------------0.151251-----------------2.975230--------------
+------------Time consuming: 1.252250---Storaging: 6696206336.000000---------
+---------------------79---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 80, val_loss 0.316656
+-------------0.151251-----------------2.975230--------------
+Error in translation: median 0.46 m,  mean 0.53 m 
+ Error in rotation: median 12.19 degrees, mean 12.28 degree
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 80, kl_loss 0.000000, dis_loss-1.905610
+-------------0.152925-----------------2.975199--------------
+------------Time consuming: 1.320932---Storaging: 6696206336.000000---------
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 81, kl_loss 0.000000, dis_loss-1.813510
+-------------0.154600-----------------2.975088--------------
+------------Time consuming: 1.235603---Storaging: 6696206336.000000---------
+---------------------81---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 82, kl_loss 0.000000, dis_loss-1.943020
+-------------0.156277-----------------2.975044--------------
+------------Time consuming: 1.241771---Storaging: 6696206336.000000---------
+---------------------82---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 83, kl_loss 0.000000, dis_loss-1.825754
+-------------0.157953-----------------2.974951--------------
+------------Time consuming: 1.214852---Storaging: 6696206336.000000---------
+---------------------83---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 84, kl_loss 0.000000, dis_loss-1.924137
+-------------0.159620-----------------2.974883--------------
+------------Time consuming: 1.130854---Storaging: 6696206336.000000---------
+---------------------84---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 85, val_loss 0.314135
+-------------0.159620-----------------2.974883--------------
+Error in translation: median 0.42 m,  mean 0.50 m 
+ Error in rotation: median 13.41 degrees, mean 14.79 degree
+---------------------85---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 85, kl_loss 0.000000, dis_loss-1.847152
+-------------0.161297-----------------2.974780--------------
+------------Time consuming: 1.081430---Storaging: 6696206336.000000---------
+---------------------85---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 86, kl_loss 0.000000, dis_loss-1.778265
+-------------0.162961-----------------2.974639--------------
+------------Time consuming: 1.044506---Storaging: 6696206336.000000---------
+---------------------86---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 87, kl_loss 0.000000, dis_loss-1.633482
+-------------0.164620-----------------2.974381--------------
+------------Time consuming: 1.047387---Storaging: 6696206336.000000---------
+---------------------87---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 88, kl_loss 0.000000, dis_loss-1.793667
+-------------0.166283-----------------2.974235--------------
+------------Time consuming: 1.279171---Storaging: 6696206336.000000---------
+---------------------88---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 89, kl_loss 0.000000, dis_loss-1.987101
+-------------0.167947-----------------2.974181--------------
+------------Time consuming: 1.128763---Storaging: 6696206336.000000---------
+---------------------89---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 90, val_loss 0.295113
+-------------0.167947-----------------2.974181--------------
+Error in translation: median 0.39 m,  mean 0.48 m 
+ Error in rotation: median 12.12 degrees, mean 14.35 degree
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 90, kl_loss 0.000000, dis_loss-1.969067
+-------------0.169606-----------------2.974154--------------
+------------Time consuming: 1.236034---Storaging: 6696206336.000000---------
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 91, kl_loss 0.000000, dis_loss-2.021327
+-------------0.171258-----------------2.974158--------------
+------------Time consuming: 1.302747---Storaging: 6696206336.000000---------
+---------------------91---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 92, kl_loss 0.000000, dis_loss-1.953288
+-------------0.172928-----------------2.974121--------------
+------------Time consuming: 1.252550---Storaging: 6696206336.000000---------
+---------------------92---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 93, kl_loss 0.000000, dis_loss-2.037750
+-------------0.174589-----------------2.974128--------------
+------------Time consuming: 1.149938---Storaging: 6696206336.000000---------
+---------------------93---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 94, kl_loss 0.000000, dis_loss-2.096871
+-------------0.176254-----------------2.974194--------------
+------------Time consuming: 1.215734---Storaging: 6696206336.000000---------
+---------------------94---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 95, val_loss 0.306432
+-------------0.176254-----------------2.974194--------------
+Error in translation: median 0.45 m,  mean 0.51 m 
+ Error in rotation: median 13.14 degrees, mean 13.01 degree
+---------------------95---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 95, kl_loss 0.000000, dis_loss-2.046698
+-------------0.177910-----------------2.974243--------------
+------------Time consuming: 1.038899---Storaging: 6696206336.000000---------
+---------------------95---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 96, kl_loss 0.000000, dis_loss-2.093365
+-------------0.179572-----------------2.974312--------------
+------------Time consuming: 0.938436---Storaging: 6696206336.000000---------
+---------------------96---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 97, kl_loss 0.000000, dis_loss-2.005655
+-------------0.181238-----------------2.974306--------------
+------------Time consuming: 1.220708---Storaging: 6696206336.000000---------
+---------------------97---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 98, kl_loss 0.000000, dis_loss-1.799738
+-------------0.182882-----------------2.974165--------------
+------------Time consuming: 1.011053---Storaging: 6696206336.000000---------
+---------------------98---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 99, kl_loss 0.000000, dis_loss-2.012491
+-------------0.184539-----------------2.974084--------------
+------------Time consuming: 1.335290---Storaging: 6696206336.000000---------
+---------------------99---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 100, val_loss 0.283090
+-------------0.184539-----------------2.974084--------------
+Error in translation: median 0.37 m,  mean 0.45 m 
+ Error in rotation: median 13.07 degrees, mean 14.27 degree
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 100, kl_loss 0.000000, dis_loss-2.140189
+-------------0.186188-----------------2.974192--------------
+------------Time consuming: 1.203949---Storaging: 6696206336.000000---------
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 101, kl_loss 0.000000, dis_loss-2.014170
+-------------0.187836-----------------2.974215--------------
+------------Time consuming: 1.292714---Storaging: 6696206336.000000---------
+---------------------101---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 102, kl_loss 0.000000, dis_loss-2.009490
+-------------0.189474-----------------2.974208--------------
+------------Time consuming: 1.213180---Storaging: 6696206336.000000---------
+---------------------102---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 103, kl_loss 0.000000, dis_loss-2.140421
+-------------0.191124-----------------2.974280--------------
+------------Time consuming: 1.215566---Storaging: 6696206336.000000---------
+---------------------103---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 104, kl_loss 0.000000, dis_loss-2.142187
+-------------0.192781-----------------2.974377--------------
+------------Time consuming: 1.033095---Storaging: 6696206336.000000---------
+---------------------104---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 105, val_loss 0.288193
+-------------0.192781-----------------2.974377--------------
+Error in translation: median 0.38 m,  mean 0.46 m 
+ Error in rotation: median 14.28 degrees, mean 14.88 degree
+---------------------105---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 105, kl_loss 0.000000, dis_loss-2.015003
+-------------0.194434-----------------2.974392--------------
+------------Time consuming: 1.086784---Storaging: 6696206336.000000---------
+---------------------105---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 106, kl_loss 0.000000, dis_loss-2.167288
+-------------0.196075-----------------2.974526--------------
+------------Time consuming: 1.221278---Storaging: 6696206336.000000---------
+---------------------106---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 107, kl_loss 0.000000, dis_loss-2.036198
+-------------0.197711-----------------2.974528--------------
+------------Time consuming: 1.195232---Storaging: 6696206336.000000---------
+---------------------107---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 108, kl_loss 0.000000, dis_loss-2.152292
+-------------0.199361-----------------2.974638--------------
+------------Time consuming: 1.251085---Storaging: 6696206336.000000---------
+---------------------108---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 109, kl_loss 0.000000, dis_loss-2.094989
+-------------0.201007-----------------2.974720--------------
+------------Time consuming: 1.231537---Storaging: 6696206336.000000---------
+---------------------109---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 110, val_loss 0.294913
+-------------0.201007-----------------2.974720--------------
+Error in translation: median 0.41 m,  mean 0.47 m 
+ Error in rotation: median 12.93 degrees, mean 14.35 degree
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 110, kl_loss 0.000000, dis_loss-2.147014
+-------------0.202649-----------------2.974806--------------
+------------Time consuming: 1.301898---Storaging: 6696206336.000000---------
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 111, kl_loss 0.000000, dis_loss-2.205052
+-------------0.204295-----------------2.974997--------------
+------------Time consuming: 1.254717---Storaging: 6696206336.000000---------
+---------------------111---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 112, kl_loss 0.000000, dis_loss-2.100294
+-------------0.205935-----------------2.975067--------------
+------------Time consuming: 1.176006---Storaging: 6696206336.000000---------
+---------------------112---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 113, kl_loss 0.000000, dis_loss-2.099874
+-------------0.207578-----------------2.975129--------------
+------------Time consuming: 1.049652---Storaging: 6696206336.000000---------
+---------------------113---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 114, kl_loss 0.000000, dis_loss-2.155652
+-------------0.209224-----------------2.975256--------------
+------------Time consuming: 1.054970---Storaging: 6696206336.000000---------
+---------------------114---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 115, val_loss 0.274077
+-------------0.209224-----------------2.975256--------------
+Error in translation: median 0.37 m,  mean 0.45 m 
+ Error in rotation: median 12.54 degrees, mean 12.52 degree
+---------------------115---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 115, kl_loss 0.000000, dis_loss-2.147626
+-------------0.210865-----------------2.975393--------------
+------------Time consuming: 1.237290---Storaging: 6696206336.000000---------
+---------------------115---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 116, kl_loss 0.000000, dis_loss-2.183163
+-------------0.212505-----------------2.975513--------------
+------------Time consuming: 1.087086---Storaging: 6696206336.000000---------
+---------------------116---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 117, kl_loss 0.000000, dis_loss-2.223492
+-------------0.214147-----------------2.975689--------------
+------------Time consuming: 1.236054---Storaging: 6696206336.000000---------
+---------------------117---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 118, kl_loss 0.000000, dis_loss-2.264673
+-------------0.215773-----------------2.975977--------------
+------------Time consuming: 1.154578---Storaging: 6696206336.000000---------
+---------------------118---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 119, kl_loss 0.000000, dis_loss-2.138678
+-------------0.217405-----------------2.976151--------------
+------------Time consuming: 1.221132---Storaging: 6696206336.000000---------
+---------------------119---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 120, val_loss 0.292475
+-------------0.217405-----------------2.976151--------------
+Error in translation: median 0.38 m,  mean 0.47 m 
+ Error in rotation: median 14.05 degrees, mean 14.34 degree
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 120, kl_loss 0.000000, dis_loss-2.288128
+-------------0.219047-----------------2.976354--------------
+------------Time consuming: 1.215888---Storaging: 6696206336.000000---------
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 121, kl_loss 0.000000, dis_loss-2.085991
+-------------0.220677-----------------2.976410--------------
+------------Time consuming: 1.218653---Storaging: 6696206336.000000---------
+---------------------121---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 122, kl_loss 0.000000, dis_loss-2.201916
+-------------0.222307-----------------2.976616--------------
+------------Time consuming: 1.064386---Storaging: 6696206336.000000---------
+---------------------122---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 123, kl_loss 0.000000, dis_loss-2.172342
+-------------0.223931-----------------2.976761--------------
+------------Time consuming: 1.076917---Storaging: 6696206336.000000---------
+---------------------123---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 124, kl_loss 0.000000, dis_loss-2.096527
+-------------0.225555-----------------2.976823--------------
+------------Time consuming: 1.125867---Storaging: 6696206336.000000---------
+---------------------124---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 125, val_loss 0.308136
+-------------0.225555-----------------2.976823--------------
+Error in translation: median 0.39 m,  mean 0.48 m 
+ Error in rotation: median 15.20 degrees, mean 15.75 degree
+---------------------125---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 125, kl_loss 0.000000, dis_loss-2.244447
+-------------0.227179-----------------2.977047--------------
+------------Time consuming: 1.224302---Storaging: 6696206336.000000---------
+---------------------125---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 126, kl_loss 0.000000, dis_loss-2.216629
+-------------0.228814-----------------2.977221--------------
+------------Time consuming: 1.188681---Storaging: 6696206336.000000---------
+---------------------126---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 127, kl_loss 0.000000, dis_loss-2.177268
+-------------0.230440-----------------2.977385--------------
+------------Time consuming: 1.223235---Storaging: 6696206336.000000---------
+---------------------127---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 128, kl_loss 0.000000, dis_loss-2.213910
+-------------0.232052-----------------2.977607--------------
+------------Time consuming: 1.147410---Storaging: 6696206336.000000---------
+---------------------128---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 129, kl_loss 0.000000, dis_loss-2.137795
+-------------0.233664-----------------2.977722--------------
+------------Time consuming: 1.252003---Storaging: 6696206336.000000---------
+---------------------129---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 130, val_loss 0.286293
+-------------0.233664-----------------2.977722--------------
+Error in translation: median 0.39 m,  mean 0.46 m 
+ Error in rotation: median 11.94 degrees, mean 12.08 degree
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 130, kl_loss 0.000000, dis_loss-2.189443
+-------------0.235282-----------------2.977909--------------
+------------Time consuming: 1.176669---Storaging: 6696206336.000000---------
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 131, kl_loss 0.000000, dis_loss-2.216225
+-------------0.236909-----------------2.978056--------------
+------------Time consuming: 1.046918---Storaging: 6696206336.000000---------
+---------------------131---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 132, kl_loss 0.000000, dis_loss-2.041582
+-------------0.238532-----------------2.978049--------------
+------------Time consuming: 1.091920---Storaging: 6696206336.000000---------
+---------------------132---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 133, kl_loss 0.000000, dis_loss-2.194942
+-------------0.240149-----------------2.978263--------------
+------------Time consuming: 1.404472---Storaging: 6696206336.000000---------
+---------------------133---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 134, kl_loss 0.000000, dis_loss-2.082326
+-------------0.241760-----------------2.978249--------------
+------------Time consuming: 1.244709---Storaging: 6696206336.000000---------
+---------------------134---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 135, val_loss 0.306682
+-------------0.241760-----------------2.978249--------------
+Error in translation: median 0.45 m,  mean 0.49 m 
+ Error in rotation: median 14.15 degrees, mean 14.26 degree
+---------------------135---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 135, kl_loss 0.000000, dis_loss-2.284140
+-------------0.243369-----------------2.978504--------------
+------------Time consuming: 1.163779---Storaging: 6696206336.000000---------
+---------------------135---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 136, kl_loss 0.000000, dis_loss-2.266667
+-------------0.244988-----------------2.978834--------------
+------------Time consuming: 1.228342---Storaging: 6696206336.000000---------
+---------------------136---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 137, kl_loss 0.000000, dis_loss-2.247533
+-------------0.246612-----------------2.979060--------------
+------------Time consuming: 1.176910---Storaging: 6696206336.000000---------
+---------------------137---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 138, kl_loss 0.000000, dis_loss-2.271362
+-------------0.248241-----------------2.979367--------------
+------------Time consuming: 1.244295---Storaging: 6696206336.000000---------
+---------------------138---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 139, kl_loss 0.000000, dis_loss-2.161451
+-------------0.249868-----------------2.979479--------------
+------------Time consuming: 1.166731---Storaging: 6696206336.000000---------
+---------------------139---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 140, val_loss 0.284911
+-------------0.249868-----------------2.979479--------------
+Error in translation: median 0.40 m,  mean 0.46 m 
+ Error in rotation: median 14.30 degrees, mean 13.65 degree
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 140, kl_loss 0.000000, dis_loss-2.157318
+-------------0.251501-----------------2.979568--------------
+------------Time consuming: 1.036277---Storaging: 6696206336.000000---------
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 141, kl_loss 0.000000, dis_loss-2.279939
+-------------0.253127-----------------2.979945--------------
+------------Time consuming: 1.014858---Storaging: 6696206336.000000---------
+---------------------141---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 142, kl_loss 0.000000, dis_loss-2.290536
+-------------0.254732-----------------2.980240--------------
+------------Time consuming: 1.356103---Storaging: 6696206336.000000---------
+---------------------142---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 143, kl_loss 0.000000, dis_loss-2.291355
+-------------0.256333-----------------2.980584--------------
+------------Time consuming: 1.163462---Storaging: 6696206336.000000---------
+---------------------143---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 144, kl_loss 0.000000, dis_loss-2.399759
+-------------0.257943-----------------2.981127--------------
+------------Time consuming: 1.197622---Storaging: 6696206336.000000---------
+---------------------144---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 145, val_loss 0.282925
+-------------0.257943-----------------2.981127--------------
+Error in translation: median 0.39 m,  mean 0.45 m 
+ Error in rotation: median 13.34 degrees, mean 13.74 degree
+---------------------145---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 145, kl_loss 0.000000, dis_loss-2.369287
+-------------0.259561-----------------2.981602--------------
+------------Time consuming: 1.201710---Storaging: 6696206336.000000---------
+---------------------145---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 146, kl_loss 0.000000, dis_loss-2.370866
+-------------0.261170-----------------2.982143--------------
+------------Time consuming: 1.205144---Storaging: 6696206336.000000---------
+---------------------146---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 147, kl_loss 0.000000, dis_loss-2.296955
+-------------0.262794-----------------2.982514--------------
+------------Time consuming: 1.141026---Storaging: 6696206336.000000---------
+---------------------147---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 148, kl_loss 0.000000, dis_loss-2.351299
+-------------0.264414-----------------2.982962--------------
+------------Time consuming: 1.221497---Storaging: 6696206336.000000---------
+---------------------148---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 149, kl_loss 0.000000, dis_loss-2.251993
+-------------0.266008-----------------2.983329--------------
+------------Time consuming: 1.195098---Storaging: 6696206336.000000---------
+---------------------149---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 150, val_loss 0.295842
+-------------0.266008-----------------2.983329--------------
+Error in translation: median 0.36 m,  mean 0.44 m 
+ Error in rotation: median 18.17 degrees, mean 17.84 degree
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 150, kl_loss 0.000000, dis_loss-2.245077
+-------------0.267625-----------------2.983552--------------
+------------Time consuming: 0.984124---Storaging: 6696206336.000000---------
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 151, kl_loss 0.000000, dis_loss-2.358172
+-------------0.269234-----------------2.984024--------------
+------------Time consuming: 1.246946---Storaging: 6696206336.000000---------
+---------------------151---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 152, kl_loss 0.000000, dis_loss-2.287778
+-------------0.270850-----------------2.984403--------------
+------------Time consuming: 1.177790---Storaging: 6696206336.000000---------
+---------------------152---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 153, kl_loss 0.000000, dis_loss-2.410864
+-------------0.272470-----------------2.984933--------------
+------------Time consuming: 1.223070---Storaging: 6696206336.000000---------
+---------------------153---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 154, kl_loss 0.000000, dis_loss-2.345041
+-------------0.274072-----------------2.985519--------------
+------------Time consuming: 1.149885---Storaging: 6696206336.000000---------
+---------------------154---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 155, val_loss 0.277880
+-------------0.274072-----------------2.985519--------------
+Error in translation: median 0.35 m,  mean 0.44 m 
+ Error in rotation: median 14.29 degrees, mean 14.18 degree
+---------------------155---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 155, kl_loss 0.000000, dis_loss-2.394582
+-------------0.275676-----------------2.986027--------------
+------------Time consuming: 1.129167---Storaging: 6696206336.000000---------
+---------------------155---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 156, kl_loss 0.000000, dis_loss-2.301436
+-------------0.277288-----------------2.986474--------------
+------------Time consuming: 1.202201---Storaging: 6696206336.000000---------
+---------------------156---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 157, kl_loss 0.000000, dis_loss-2.274598
+-------------0.278892-----------------2.986855--------------
+------------Time consuming: 1.145886---Storaging: 6696206336.000000---------
+---------------------157---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 158, kl_loss 0.000000, dis_loss-2.323171
+-------------0.280494-----------------2.987245--------------
+------------Time consuming: 1.227360---Storaging: 6696206336.000000---------
+---------------------158---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 159, kl_loss 0.000000, dis_loss-2.353765
+-------------0.282067-----------------2.987775--------------
+------------Time consuming: 1.051560---Storaging: 6696206336.000000---------
+---------------------159---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 160, val_loss 0.291513
+-------------0.282067-----------------2.987775--------------
+Error in translation: median 0.42 m,  mean 0.46 m 
+ Error in rotation: median 13.90 degrees, mean 14.60 degree
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 160, kl_loss 0.000000, dis_loss-2.277482
+-------------0.283678-----------------2.988239--------------
+------------Time consuming: 1.169033---Storaging: 6696206336.000000---------
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 161, kl_loss 0.000000, dis_loss-2.264254
+-------------0.285275-----------------2.988463--------------
+------------Time consuming: 1.167789---Storaging: 6696206336.000000---------
+---------------------161---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 162, kl_loss 0.000000, dis_loss-2.370720
+-------------0.286876-----------------2.988970--------------
+------------Time consuming: 1.224943---Storaging: 6696206336.000000---------
+---------------------162---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 163, kl_loss 0.000000, dis_loss-2.371390
+-------------0.288478-----------------2.989541--------------
+------------Time consuming: 1.083634---Storaging: 6696206336.000000---------
+---------------------163---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 164, kl_loss 0.000000, dis_loss-2.273496
+-------------0.290086-----------------2.989951--------------
+------------Time consuming: 1.219925---Storaging: 6696206336.000000---------
+---------------------164---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 165, val_loss 0.298796
+-------------0.290086-----------------2.989951--------------
+Error in translation: median 0.40 m,  mean 0.45 m 
+ Error in rotation: median 16.34 degrees, mean 16.72 degree
+---------------------165---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 165, kl_loss 0.000000, dis_loss-2.128472
+-------------0.291660-----------------2.990037--------------
+------------Time consuming: 1.279198---Storaging: 6696206336.000000---------
+---------------------165---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 166, kl_loss 0.000000, dis_loss-2.334799
+-------------0.293266-----------------2.990349--------------
+------------Time consuming: 1.056460---Storaging: 6696206336.000000---------
+---------------------166---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 167, kl_loss 0.000000, dis_loss-2.448512
+-------------0.294875-----------------2.991052--------------
+------------Time consuming: 1.051255---Storaging: 6696206336.000000---------
+---------------------167---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 168, kl_loss 0.000000, dis_loss-2.392374
+-------------0.296483-----------------2.991751--------------
+------------Time consuming: 1.002644---Storaging: 6696206336.000000---------
+---------------------168---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 169, kl_loss 0.000000, dis_loss-2.442133
+-------------0.298099-----------------2.992431--------------
+------------Time consuming: 1.220389---Storaging: 6696206336.000000---------
+---------------------169---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 170, val_loss 0.280961
+-------------0.298099-----------------2.992431--------------
+Error in translation: median 0.37 m,  mean 0.43 m 
+ Error in rotation: median 13.92 degrees, mean 14.30 degree
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 170, kl_loss 0.000000, dis_loss-2.457541
+-------------0.299718-----------------2.993264--------------
+------------Time consuming: 0.705744---Storaging: -1207959552.000000---------
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 171, kl_loss 0.000000, dis_loss-2.409821
+-------------0.301330-----------------2.993933--------------
+------------Time consuming: 0.707827---Storaging: -1207959552.000000---------
+---------------------171---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 172, kl_loss 0.000000, dis_loss-2.293978
+-------------0.302938-----------------2.994403--------------
+------------Time consuming: 0.694903---Storaging: -1207959552.000000---------
+---------------------172---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 173, kl_loss 0.000000, dis_loss-2.416661
+-------------0.304548-----------------2.994969--------------
+------------Time consuming: 0.713386---Storaging: -1207959552.000000---------
+---------------------173---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 174, kl_loss 0.000000, dis_loss-2.404981
+-------------0.306131-----------------2.995724--------------
+------------Time consuming: 0.798492---Storaging: -1207959552.000000---------
+---------------------174---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 175, val_loss 0.292968
+-------------0.306131-----------------2.995724--------------
+Error in translation: median 0.39 m,  mean 0.45 m 
+ Error in rotation: median 14.05 degrees, mean 14.55 degree
+---------------------175---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 175, kl_loss 0.000000, dis_loss-2.417944
+-------------0.307743-----------------2.996400--------------
+------------Time consuming: 0.696417---Storaging: -1207959552.000000---------
+---------------------175---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 176, kl_loss 0.000000, dis_loss-2.438643
+-------------0.309360-----------------2.997144--------------
+------------Time consuming: 0.681722---Storaging: -1207959552.000000---------
+---------------------176---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 177, kl_loss 0.000000, dis_loss-2.437055
+-------------0.310969-----------------2.997913--------------
+------------Time consuming: 0.690466---Storaging: -1207959552.000000---------
+---------------------177---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 178, kl_loss 0.000000, dis_loss-2.437723
+-------------0.312571-----------------2.998707--------------
+------------Time consuming: 0.807834---Storaging: -1207959552.000000---------
+---------------------178---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 179, kl_loss 0.000000, dis_loss-2.460263
+-------------0.314184-----------------2.999569--------------
+------------Time consuming: 0.685816---Storaging: -1207959552.000000---------
+---------------------179---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 180, val_loss 0.294359
+-------------0.314184-----------------2.999569--------------
+Error in translation: median 0.39 m,  mean 0.44 m 
+ Error in rotation: median 15.52 degrees, mean 15.67 degree
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 180, kl_loss 0.000000, dis_loss-2.344051
+-------------0.315785-----------------3.000090--------------
+------------Time consuming: 0.691702---Storaging: -1207959552.000000---------
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 181, kl_loss 0.000000, dis_loss-2.475798
+-------------0.317395-----------------3.000916--------------
+------------Time consuming: 0.799941---Storaging: -1207959552.000000---------
+---------------------181---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 182, kl_loss 0.000000, dis_loss-2.491808
+-------------0.319017-----------------3.001795--------------
+------------Time consuming: 0.680096---Storaging: -1207959552.000000---------
+---------------------182---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 183, kl_loss 0.000000, dis_loss-2.326924
+-------------0.320624-----------------3.002301--------------
+------------Time consuming: 0.692967---Storaging: -1207959552.000000---------
+---------------------183---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 184, kl_loss 0.000000, dis_loss-2.535177
+-------------0.322236-----------------3.003286--------------
+------------Time consuming: 0.802369---Storaging: -1207959552.000000---------
+---------------------184---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 185, val_loss 0.270919
+-------------0.322236-----------------3.003286--------------
+Error in translation: median 0.37 m,  mean 0.43 m 
+ Error in rotation: median 13.24 degrees, mean 13.58 degree
+---------------------185---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 185, kl_loss 0.000000, dis_loss-2.510960
+-------------0.323851-----------------3.004297--------------
+------------Time consuming: 0.687642---Storaging: -1207959552.000000---------
+---------------------185---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 186, kl_loss 0.000000, dis_loss-2.471006
+-------------0.325457-----------------3.005198--------------
+------------Time consuming: 0.693951---Storaging: -1207959552.000000---------
+---------------------186---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 187, kl_loss 0.000000, dis_loss-2.475764
+-------------0.327067-----------------3.006107--------------
+------------Time consuming: 0.696446---Storaging: -1207959552.000000---------
+---------------------187---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 188, kl_loss 0.000000, dis_loss-2.483613
+-------------0.328683-----------------3.007033--------------
+------------Time consuming: 0.693909---Storaging: -1207959552.000000---------
+---------------------188---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 189, kl_loss 0.000000, dis_loss-2.444247
+-------------0.330280-----------------3.007882--------------
+------------Time consuming: 0.686453---Storaging: -1207959552.000000---------
+---------------------189---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 190, val_loss 0.280782
+-------------0.330280-----------------3.007882--------------
+Error in translation: median 0.40 m,  mean 0.44 m 
+ Error in rotation: median 13.08 degrees, mean 14.29 degree
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 190, kl_loss 0.000000, dis_loss-2.424943
+-------------0.331877-----------------3.008564--------------
+------------Time consuming: 0.705352---Storaging: -1207959552.000000---------
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_stairs_concatenate_False_2019_2
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 191, kl_loss 0.000000, dis_loss-2.568115
+-------------0.333492-----------------3.009640--------------
+------------Time consuming: 0.685256---Storaging: -1207959552.000000---------
+---------------------191---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 192, kl_loss 0.000000, dis_loss-2.420734
+-------------0.335098-----------------3.010558--------------
+------------Time consuming: 0.695282---Storaging: -1207959552.000000---------
+---------------------192---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 193, kl_loss 0.000000, dis_loss-2.390387
+-------------0.336682-----------------3.011202--------------
+------------Time consuming: 0.689472---Storaging: -1207959552.000000---------
+---------------------193---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 194, kl_loss 0.000000, dis_loss-2.359600
+-------------0.338275-----------------3.011750--------------
+------------Time consuming: 0.775509---Storaging: -1207959552.000000---------
+---------------------194---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 195, val_loss 0.271833
+-------------0.338275-----------------3.011750--------------
+Error in translation: median 0.38 m,  mean 0.42 m 
+ Error in rotation: median 13.91 degrees, mean 14.22 degree
+---------------------195---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 195, kl_loss 0.000000, dis_loss-2.472210
+-------------0.339883-----------------3.012496--------------
+------------Time consuming: 0.680135---Storaging: -1207959552.000000---------
+---------------------195---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 196, kl_loss 0.000000, dis_loss-2.412908
+-------------0.341474-----------------3.013272--------------
+------------Time consuming: 0.683641---Storaging: -1207959552.000000---------
+---------------------196---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 197, kl_loss 0.000000, dis_loss-2.500161
+-------------0.343074-----------------3.014142--------------
+------------Time consuming: 0.700676---Storaging: -1207959552.000000---------
+---------------------197---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 198, kl_loss 0.000000, dis_loss-2.522696
+-------------0.344672-----------------3.015259--------------
+------------Time consuming: 0.684508---Storaging: -1207959552.000000---------
+---------------------198---------------------
+Val 7Scenes_stairs_concatenate_False_2019_2: Epoch 199, val_loss 0.283469
+-------------0.344672-----------------3.015259--------------
+Error in translation: median 0.39 m,  mean 0.43 m 
+ Error in rotation: median 15.47 degrees, mean 15.96 degree
+---------------------199---------------------
+Training 7Scenes_stairs_concatenate_False_2019_2: Epoch 199, kl_loss 0.000000, dis_loss-2.581694
+-------------0.346280-----------------3.016489--------------
+------------Time consuming: 0.687022---Storaging: -1207959552.000000---------
+---------------------199---------------------

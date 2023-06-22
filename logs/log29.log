@@ -1,0 +1,1632 @@
+nohup: ignoring input
+============= 1 0
+Logging to /mnt/nas/kaichen/eng/LOC/vmloc_git/record/7Scenes_chess_vmloc_False_2019_10/runs/log.txt
+Not Using ColorJitter
+c_nvmlMemory_t(total: 24146608128 B, free: 22464036864 B, used: 1682571264 B)
+/home/kaichen/.conda/envs/rigid/lib/python3.8/site-packages/torch/nn/functional.py:1628: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 0, val_loss 1.983686
+------------0.000000-----------------3.000000--------------
+Error in translation: median 2.70 m,  mean 2.72 m 
+ Error in rotation: median 126.38 degrees, mean 122.17 degree
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 0, kl_loss 0.008774, dis_loss13.690555
+-------------0.001729-----------------2.996928--------------
+------------Time consuming: 0.690002---Storaging: 6769264412.444445---------
+---------------------0---------------------
+Epoch 0 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 1, kl_loss 0.008655, dis_loss11.932440
+-------------0.005369-----------------2.994026--------------
+------------Time consuming: 0.679172---Storaging: 6769606656.000000---------
+---------------------1---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 2, kl_loss 0.008445, dis_loss8.738747
+-------------0.009624-----------------2.991549--------------
+------------Time consuming: 0.660005---Storaging: 6769606656.000000---------
+---------------------2---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 3, kl_loss 0.008312, dis_loss4.217827
+-------------0.014162-----------------2.989975--------------
+------------Time consuming: 0.660412---Storaging: 6769606656.000000---------
+---------------------3---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 4, kl_loss 0.008253, dis_loss2.688516
+-------------0.018488-----------------2.988664--------------
+------------Time consuming: 0.660224---Storaging: 6769606656.000000---------
+---------------------4---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 5, val_loss 0.401272
+-------------0.018488-----------------2.988664--------------
+Error in translation: median 0.67 m,  mean 0.66 m 
+ Error in rotation: median 17.94 degrees, mean 18.97 degree
+---------------------5---------------------
+Epoch 5 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 5, kl_loss 0.008212, dis_loss1.727996
+-------------0.022692-----------------2.987534--------------
+------------Time consuming: 0.669184---Storaging: 6769606656.000000---------
+---------------------5---------------------
+Epoch 5 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 6, kl_loss 0.008184, dis_loss0.973796
+-------------0.026747-----------------2.986567--------------
+------------Time consuming: 0.664854---Storaging: 6769606656.000000---------
+---------------------6---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 7, kl_loss 0.008153, dis_loss0.558520
+-------------0.030708-----------------2.985692--------------
+------------Time consuming: 0.660451---Storaging: 6769606656.000000---------
+---------------------7---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 8, kl_loss 0.008126, dis_loss0.303486
+-------------0.034569-----------------2.984775--------------
+------------Time consuming: 0.650523---Storaging: 6769606656.000000---------
+---------------------8---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 9, kl_loss 0.008110, dis_loss0.071759
+-------------0.038365-----------------2.983939--------------
+------------Time consuming: 0.657717---Storaging: 6769606656.000000---------
+---------------------9---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 10, val_loss 0.375518
+-------------0.038365-----------------2.983939--------------
+Error in translation: median 0.60 m,  mean 0.60 m 
+ Error in rotation: median 19.52 degrees, mean 20.13 degree
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 10, kl_loss 0.008093, dis_loss-0.198210
+-------------0.042140-----------------2.983168--------------
+------------Time consuming: 0.677253---Storaging: 6769606656.000000---------
+---------------------10---------------------
+Epoch 10 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 11, kl_loss 0.008088, dis_loss-0.307571
+-------------0.045888-----------------2.982383--------------
+------------Time consuming: 0.661510---Storaging: 6769606656.000000---------
+---------------------11---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 12, kl_loss 0.008069, dis_loss-0.414885
+-------------0.049582-----------------2.981645--------------
+------------Time consuming: 0.658778---Storaging: 6769606656.000000---------
+---------------------12---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 13, kl_loss 0.008062, dis_loss-0.564794
+-------------0.053250-----------------2.980914--------------
+------------Time consuming: 0.656423---Storaging: 6769606656.000000---------
+---------------------13---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 14, kl_loss 0.008046, dis_loss-0.744816
+-------------0.056868-----------------2.980314--------------
+------------Time consuming: 0.682576---Storaging: 6769606656.000000---------
+---------------------14---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 15, val_loss 0.374682
+-------------0.056868-----------------2.980314--------------
+Error in translation: median 0.57 m,  mean 0.59 m 
+ Error in rotation: median 16.09 degrees, mean 17.73 degree
+---------------------15---------------------
+Epoch 15 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 15, kl_loss 0.008039, dis_loss-0.612246
+-------------0.060458-----------------2.979570--------------
+------------Time consuming: 0.659733---Storaging: 6769606656.000000---------
+---------------------15---------------------
+Epoch 15 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 16, kl_loss 0.008028, dis_loss-0.895607
+-------------0.064069-----------------2.978993--------------
+------------Time consuming: 0.660225---Storaging: 6769606656.000000---------
+---------------------16---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 17, kl_loss 0.008022, dis_loss-0.906253
+-------------0.067635-----------------2.978399--------------
+------------Time consuming: 0.661898---Storaging: 6769606656.000000---------
+---------------------17---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 18, kl_loss 0.008017, dis_loss-0.932859
+-------------0.071177-----------------2.977771--------------
+------------Time consuming: 0.652617---Storaging: 6769606656.000000---------
+---------------------18---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 19, kl_loss 0.008011, dis_loss-1.020318
+-------------0.074719-----------------2.977171--------------
+------------Time consuming: 0.653574---Storaging: 6769606656.000000---------
+---------------------19---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 20, val_loss 0.354335
+-------------0.074719-----------------2.977171--------------
+Error in translation: median 0.53 m,  mean 0.54 m 
+ Error in rotation: median 16.97 degrees, mean 18.31 degree
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 20, kl_loss 0.008010, dis_loss-0.944206
+-------------0.078238-----------------2.976484--------------
+------------Time consuming: 0.665883---Storaging: 6769606656.000000---------
+---------------------20---------------------
+Epoch 20 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 21, kl_loss 0.008004, dis_loss-1.005021
+-------------0.081735-----------------2.975804--------------
+------------Time consuming: 0.658176---Storaging: 6769606656.000000---------
+---------------------21---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 22, kl_loss 0.008003, dis_loss-1.137472
+-------------0.085218-----------------2.975203--------------
+------------Time consuming: 0.651202---Storaging: 6769606656.000000---------
+---------------------22---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 23, kl_loss 0.007996, dis_loss-1.115475
+-------------0.088702-----------------2.974569--------------
+------------Time consuming: 0.648668---Storaging: 6769606656.000000---------
+---------------------23---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 24, kl_loss 0.007990, dis_loss-1.157105
+-------------0.092171-----------------2.973959--------------
+------------Time consuming: 0.648808---Storaging: 6769606656.000000---------
+---------------------24---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 25, val_loss 0.308219
+-------------0.092171-----------------2.973959--------------
+Error in translation: median 0.45 m,  mean 0.47 m 
+ Error in rotation: median 13.27 degrees, mean 15.46 degree
+---------------------25---------------------
+Epoch 25 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 25, kl_loss 0.007991, dis_loss-1.217767
+-------------0.095602-----------------2.973379--------------
+------------Time consuming: 0.675078---Storaging: 6769606656.000000---------
+---------------------25---------------------
+Epoch 25 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 26, kl_loss 0.007985, dis_loss-1.224084
+-------------0.099028-----------------2.972789--------------
+------------Time consuming: 0.658421---Storaging: 6769606656.000000---------
+---------------------26---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 27, kl_loss 0.007979, dis_loss-1.198769
+-------------0.102426-----------------2.972125--------------
+------------Time consuming: 0.667679---Storaging: 6769606656.000000---------
+---------------------27---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 28, kl_loss 0.007971, dis_loss-1.226196
+-------------0.105822-----------------2.971438--------------
+------------Time consuming: 0.663240---Storaging: 6769606656.000000---------
+---------------------28---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 29, kl_loss 0.007967, dis_loss-1.313852
+-------------0.109216-----------------2.970851--------------
+------------Time consuming: 0.649209---Storaging: 6769606656.000000---------
+---------------------29---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 30, val_loss 0.329802
+-------------0.109216-----------------2.970851--------------
+Error in translation: median 0.45 m,  mean 0.48 m 
+ Error in rotation: median 16.85 degrees, mean 18.74 degree
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 30, kl_loss 0.007964, dis_loss-1.410123
+-------------0.112596-----------------2.970393--------------
+------------Time consuming: 0.659953---Storaging: 6769606656.000000---------
+---------------------30---------------------
+Epoch 30 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 31, kl_loss 0.007956, dis_loss-1.322469
+-------------0.115957-----------------2.969760--------------
+------------Time consuming: 0.716039---Storaging: 6769606656.000000---------
+---------------------31---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 32, kl_loss 0.007951, dis_loss-1.347712
+-------------0.119334-----------------2.969113--------------
+------------Time consuming: 0.697483---Storaging: 6769606656.000000---------
+---------------------32---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 33, kl_loss 0.007953, dis_loss-1.404421
+-------------0.122684-----------------2.968530--------------
+------------Time consuming: 0.664401---Storaging: 6769606656.000000---------
+---------------------33---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 34, kl_loss 0.007948, dis_loss-1.455646
+-------------0.126044-----------------2.967968--------------
+------------Time consuming: 0.668401---Storaging: 6769606656.000000---------
+---------------------34---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 35, val_loss 0.300109
+-------------0.126044-----------------2.967968--------------
+Error in translation: median 0.44 m,  mean 0.46 m 
+ Error in rotation: median 13.18 degrees, mean 15.12 degree
+---------------------35---------------------
+Epoch 35 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 35, kl_loss 0.007945, dis_loss-1.534830
+-------------0.129388-----------------2.967558--------------
+------------Time consuming: 0.661662---Storaging: 6769606656.000000---------
+---------------------35---------------------
+Epoch 35 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 36, kl_loss 0.007939, dis_loss-1.530594
+-------------0.132705-----------------2.967130--------------
+------------Time consuming: 0.661534---Storaging: 6769606656.000000---------
+---------------------36---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 37, kl_loss 0.007938, dis_loss-1.499960
+-------------0.136017-----------------2.966635--------------
+------------Time consuming: 0.681841---Storaging: 6769606656.000000---------
+---------------------37---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 38, kl_loss 0.007941, dis_loss-1.564109
+-------------0.139321-----------------2.966219--------------
+------------Time consuming: 0.665285---Storaging: 6769606656.000000---------
+---------------------38---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 39, kl_loss 0.007937, dis_loss-1.565056
+-------------0.142619-----------------2.965774--------------
+------------Time consuming: 0.665458---Storaging: 6769606656.000000---------
+---------------------39---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 40, val_loss 0.297149
+-------------0.142619-----------------2.965774--------------
+Error in translation: median 0.45 m,  mean 0.47 m 
+ Error in rotation: median 11.88 degrees, mean 13.49 degree
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 40, kl_loss 0.007933, dis_loss-1.625283
+-------------0.145906-----------------2.965429--------------
+------------Time consuming: 0.660855---Storaging: 6769606656.000000---------
+---------------------40---------------------
+Epoch 40 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 41, kl_loss 0.007923, dis_loss-1.594106
+-------------0.149186-----------------2.964966--------------
+------------Time consuming: 0.669778---Storaging: 6769606656.000000---------
+---------------------41---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 42, kl_loss 0.007918, dis_loss-1.681617
+-------------0.152478-----------------2.964723--------------
+------------Time consuming: 0.666565---Storaging: 6769606656.000000---------
+---------------------42---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 43, kl_loss 0.007921, dis_loss-1.711912
+-------------0.155754-----------------2.964572--------------
+------------Time consuming: 0.667351---Storaging: 6769606656.000000---------
+---------------------43---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 44, kl_loss 0.007914, dis_loss-1.724641
+-------------0.159023-----------------2.964336--------------
+------------Time consuming: 0.659041---Storaging: 6769606656.000000---------
+---------------------44---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 45, val_loss 0.334959
+-------------0.159023-----------------2.964336--------------
+Error in translation: median 0.46 m,  mean 0.48 m 
+ Error in rotation: median 18.26 degrees, mean 19.50 degree
+---------------------45---------------------
+Epoch 45 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 45, kl_loss 0.007917, dis_loss-1.658318
+-------------0.162284-----------------2.963949--------------
+------------Time consuming: 0.672394---Storaging: 6769606656.000000---------
+---------------------45---------------------
+Epoch 45 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 46, kl_loss 0.007916, dis_loss-1.677326
+-------------0.165537-----------------2.963577--------------
+------------Time consuming: 0.666703---Storaging: 6769606656.000000---------
+---------------------46---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 47, kl_loss 0.007914, dis_loss-1.735167
+-------------0.168782-----------------2.963330--------------
+------------Time consuming: 0.656614---Storaging: 6769606656.000000---------
+---------------------47---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 48, kl_loss 0.007914, dis_loss-1.754706
+-------------0.172021-----------------2.963105--------------
+------------Time consuming: 0.658340---Storaging: 6769606656.000000---------
+---------------------48---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 49, kl_loss 0.007911, dis_loss-1.704710
+-------------0.175255-----------------2.962708--------------
+------------Time consuming: 0.658463---Storaging: 6769606656.000000---------
+---------------------49---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 50, val_loss 0.291258
+-------------0.175255-----------------2.962708--------------
+Error in translation: median 0.43 m,  mean 0.45 m 
+ Error in rotation: median 12.61 degrees, mean 14.82 degree
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 50, kl_loss 0.007929, dis_loss-2.145993
+-------------0.178673-----------------2.963498--------------
+------------Time consuming: 0.658822---Storaging: 6769606656.000000---------
+---------------------50---------------------
+Epoch 50 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 51, kl_loss 0.007929, dis_loss-2.129821
+-------------0.182088-----------------2.964370--------------
+------------Time consuming: 0.657195---Storaging: 6769606656.000000---------
+---------------------51---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 52, kl_loss 0.007931, dis_loss-2.214329
+-------------0.185503-----------------2.965495--------------
+------------Time consuming: 0.659532---Storaging: 6769606656.000000---------
+---------------------52---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 53, kl_loss 0.007926, dis_loss-2.237188
+-------------0.188890-----------------2.966712--------------
+------------Time consuming: 0.657293---Storaging: 6769606656.000000---------
+---------------------53---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 54, kl_loss 0.007925, dis_loss-2.265345
+-------------0.192258-----------------2.967998--------------
+------------Time consuming: 0.655059---Storaging: 6769606656.000000---------
+---------------------54---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 55, val_loss 0.140743
+-------------0.192258-----------------2.967998--------------
+Error in translation: median 0.17 m,  mean 0.22 m 
+ Error in rotation: median 6.16 degrees, mean 7.86 degree
+---------------------55---------------------
+Epoch 55 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 55, kl_loss 0.007924, dis_loss-2.241764
+-------------0.195606-----------------2.969311--------------
+------------Time consuming: 0.654119---Storaging: 6769606656.000000---------
+---------------------55---------------------
+Epoch 55 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 56, kl_loss 0.007925, dis_loss-2.251057
+-------------0.198945-----------------2.970585--------------
+------------Time consuming: 0.665042---Storaging: 6769606656.000000---------
+---------------------56---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 57, kl_loss 0.007927, dis_loss-2.311245
+-------------0.202299-----------------2.972160--------------
+------------Time consuming: 0.658058---Storaging: 6769606656.000000---------
+---------------------57---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 58, kl_loss 0.007924, dis_loss-2.301709
+-------------0.205635-----------------2.973677--------------
+------------Time consuming: 0.656702---Storaging: 6769606656.000000---------
+---------------------58---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 59, kl_loss 0.007926, dis_loss-2.332666
+-------------0.208961-----------------2.975367--------------
+------------Time consuming: 0.660927---Storaging: 6769606656.000000---------
+---------------------59---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 60, val_loss 0.135727
+-------------0.208961-----------------2.975367--------------
+Error in translation: median 0.15 m,  mean 0.21 m 
+ Error in rotation: median 6.66 degrees, mean 8.03 degree
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 60, kl_loss 0.007926, dis_loss-2.329010
+-------------0.212269-----------------2.976989--------------
+------------Time consuming: 0.662754---Storaging: 6769606656.000000---------
+---------------------60---------------------
+Epoch 60 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 61, kl_loss 0.007923, dis_loss-2.269898
+-------------0.215541-----------------2.978536--------------
+------------Time consuming: 0.668805---Storaging: 6769606656.000000---------
+---------------------61---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 62, kl_loss 0.007918, dis_loss-2.158740
+-------------0.218807-----------------2.979647--------------
+------------Time consuming: 0.662940---Storaging: 6769606656.000000---------
+---------------------62---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 63, kl_loss 0.007914, dis_loss-2.167845
+-------------0.222054-----------------2.980603--------------
+------------Time consuming: 0.653463---Storaging: 6769606656.000000---------
+---------------------63---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 64, kl_loss 0.007917, dis_loss-2.285783
+-------------0.225301-----------------2.982214--------------
+------------Time consuming: 0.655279---Storaging: 6769606656.000000---------
+---------------------64---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 65, val_loss 0.155754
+-------------0.225301-----------------2.982214--------------
+Error in translation: median 0.18 m,  mean 0.23 m 
+ Error in rotation: median 7.94 degrees, mean 9.55 degree
+---------------------65---------------------
+Epoch 65 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 65, kl_loss 0.007911, dis_loss-2.211969
+-------------0.228540-----------------2.983552--------------
+------------Time consuming: 0.661789---Storaging: 6769606656.000000---------
+---------------------65---------------------
+Epoch 65 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 66, kl_loss 0.007914, dis_loss-2.214766
+-------------0.231780-----------------2.984740--------------
+------------Time consuming: 0.667084---Storaging: 6769606656.000000---------
+---------------------66---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 67, kl_loss 0.007901, dis_loss-2.320869
+-------------0.235025-----------------2.986561--------------
+------------Time consuming: 0.658926---Storaging: 6769606656.000000---------
+---------------------67---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 68, kl_loss 0.007905, dis_loss-2.320574
+-------------0.238260-----------------2.988369--------------
+------------Time consuming: 0.672117---Storaging: 6769606656.000000---------
+---------------------68---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 69, kl_loss 0.007906, dis_loss-2.341750
+-------------0.241487-----------------2.990263--------------
+------------Time consuming: 0.663603---Storaging: 6769606656.000000---------
+---------------------69---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 70, val_loss 0.143624
+-------------0.241487-----------------2.990263--------------
+Error in translation: median 0.17 m,  mean 0.20 m 
+ Error in rotation: median 8.46 degrees, mean 10.33 degree
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 70, kl_loss 0.007905, dis_loss-2.293013
+-------------0.244707-----------------2.991842--------------
+------------Time consuming: 0.666543---Storaging: 6769606656.000000---------
+---------------------70---------------------
+Epoch 70 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 71, kl_loss 0.007908, dis_loss-2.364219
+-------------0.247934-----------------2.993884--------------
+------------Time consuming: 0.689931---Storaging: 6769606656.000000---------
+---------------------71---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 72, kl_loss 0.007903, dis_loss-2.377397
+-------------0.251137-----------------2.996028--------------
+------------Time consuming: 0.664184---Storaging: 6769606656.000000---------
+---------------------72---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 73, kl_loss 0.007901, dis_loss-2.399410
+-------------0.254348-----------------2.998228--------------
+------------Time consuming: 0.664259---Storaging: 6769606656.000000---------
+---------------------73---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 74, kl_loss 0.007895, dis_loss-2.386351
+-------------0.257554-----------------3.000397--------------
+------------Time consuming: 0.665940---Storaging: 6769606656.000000---------
+---------------------74---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 75, val_loss 0.122897
+-------------0.257554-----------------3.000397--------------
+Error in translation: median 0.16 m,  mean 0.19 m 
+ Error in rotation: median 5.16 degrees, mean 6.80 degree
+---------------------75---------------------
+Epoch 75 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 75, kl_loss 0.007894, dis_loss-2.475673
+-------------0.260766-----------------3.002948--------------
+------------Time consuming: 0.674500---Storaging: 6769606656.000000---------
+---------------------75---------------------
+Epoch 75 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 76, kl_loss 0.007893, dis_loss-2.449384
+-------------0.263968-----------------3.005399--------------
+------------Time consuming: 0.674393---Storaging: 6769606656.000000---------
+---------------------76---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 77, kl_loss 0.007891, dis_loss-2.486017
+-------------0.267172-----------------3.007984--------------
+------------Time consuming: 0.672486---Storaging: 6769606656.000000---------
+---------------------77---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 78, kl_loss 0.007893, dis_loss-2.520942
+-------------0.270387-----------------3.010721--------------
+------------Time consuming: 0.667182---Storaging: 6769606656.000000---------
+---------------------78---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 79, kl_loss 0.007890, dis_loss-2.528911
+-------------0.273594-----------------3.013568--------------
+------------Time consuming: 0.667793---Storaging: 6769606656.000000---------
+---------------------79---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 80, val_loss 0.130156
+-------------0.273594-----------------3.013568--------------
+Error in translation: median 0.15 m,  mean 0.20 m 
+ Error in rotation: median 6.22 degrees, mean 7.73 degree
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 80, kl_loss 0.007889, dis_loss-2.481428
+-------------0.276781-----------------3.016107--------------
+------------Time consuming: 0.671645---Storaging: 6769606656.000000---------
+---------------------80---------------------
+Epoch 80 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 81, kl_loss 0.007891, dis_loss-2.557646
+-------------0.279993-----------------3.019024--------------
+------------Time consuming: 0.664982---Storaging: 6769606656.000000---------
+---------------------81---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 82, kl_loss 0.007890, dis_loss-2.512409
+-------------0.283186-----------------3.021747--------------
+------------Time consuming: 0.665012---Storaging: 6769606656.000000---------
+---------------------82---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 83, kl_loss 0.007893, dis_loss-2.545442
+-------------0.286380-----------------3.024555--------------
+------------Time consuming: 0.668426---Storaging: 6769606656.000000---------
+---------------------83---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 84, kl_loss 0.007892, dis_loss-2.574165
+-------------0.289564-----------------3.027495--------------
+------------Time consuming: 0.662176---Storaging: 6769606656.000000---------
+---------------------84---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 85, val_loss 0.126858
+-------------0.289564-----------------3.027495--------------
+Error in translation: median 0.15 m,  mean 0.19 m 
+ Error in rotation: median 6.19 degrees, mean 7.51 degree
+---------------------85---------------------
+Epoch 85 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 85, kl_loss 0.007892, dis_loss-2.601923
+-------------0.292754-----------------3.030631--------------
+------------Time consuming: 0.667973---Storaging: 6769606656.000000---------
+---------------------85---------------------
+Epoch 85 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 86, kl_loss 0.007892, dis_loss-2.623578
+-------------0.295942-----------------3.033784--------------
+------------Time consuming: 0.662637---Storaging: 6769606656.000000---------
+---------------------86---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 87, kl_loss 0.007889, dis_loss-2.608411
+-------------0.299106-----------------3.036880--------------
+------------Time consuming: 0.656875---Storaging: 6769606656.000000---------
+---------------------87---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 88, kl_loss 0.007886, dis_loss-2.645173
+-------------0.302290-----------------3.040087--------------
+------------Time consuming: 0.653929---Storaging: 6769606656.000000---------
+---------------------88---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 89, kl_loss 0.007886, dis_loss-2.649715
+-------------0.305468-----------------3.043325--------------
+------------Time consuming: 0.662468---Storaging: 6769606656.000000---------
+---------------------89---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 90, val_loss 0.111813
+-------------0.305468-----------------3.043325--------------
+Error in translation: median 0.13 m,  mean 0.17 m 
+ Error in rotation: median 4.84 degrees, mean 6.28 degree
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 90, kl_loss 0.007888, dis_loss-2.623281
+-------------0.308646-----------------3.046332--------------
+------------Time consuming: 0.664285---Storaging: 6769606656.000000---------
+---------------------90---------------------
+Epoch 90 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 91, kl_loss 0.007887, dis_loss-2.659147
+-------------0.311814-----------------3.049563--------------
+------------Time consuming: 0.653299---Storaging: 6769606656.000000---------
+---------------------91---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 92, kl_loss 0.007886, dis_loss-2.656863
+-------------0.314988-----------------3.052652--------------
+------------Time consuming: 0.661146---Storaging: 6769606656.000000---------
+---------------------92---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 93, kl_loss 0.007885, dis_loss-2.672369
+-------------0.318168-----------------3.055816--------------
+------------Time consuming: 0.674557---Storaging: 6769606656.000000---------
+---------------------93---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 94, kl_loss 0.007885, dis_loss-2.737829
+-------------0.321345-----------------3.059233--------------
+------------Time consuming: 0.661178---Storaging: 6769606656.000000---------
+---------------------94---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 95, val_loss 0.119270
+-------------0.321345-----------------3.059233--------------
+Error in translation: median 0.14 m,  mean 0.19 m 
+ Error in rotation: median 5.02 degrees, mean 6.69 degree
+---------------------95---------------------
+Epoch 95 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 95, kl_loss 0.007883, dis_loss-2.735213
+-------------0.324516-----------------3.062639--------------
+------------Time consuming: 0.708233---Storaging: 6769606656.000000---------
+---------------------95---------------------
+Epoch 95 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 96, kl_loss 0.007882, dis_loss-2.750099
+-------------0.327690-----------------3.066028--------------
+------------Time consuming: 0.665716---Storaging: 6769606656.000000---------
+---------------------96---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 97, kl_loss 0.007881, dis_loss-2.736805
+-------------0.330867-----------------3.069374--------------
+------------Time consuming: 0.666804---Storaging: 6769606656.000000---------
+---------------------97---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 98, kl_loss 0.007882, dis_loss-2.727093
+-------------0.334020-----------------3.072611--------------
+------------Time consuming: 0.667061---Storaging: 6769606656.000000---------
+---------------------98---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 99, kl_loss 0.007879, dis_loss-2.747244
+-------------0.337192-----------------3.075794--------------
+------------Time consuming: 0.660771---Storaging: 6769606656.000000---------
+---------------------99---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 100, val_loss 0.113259
+-------------0.337192-----------------3.075794--------------
+Error in translation: median 0.14 m,  mean 0.18 m 
+ Error in rotation: median 5.11 degrees, mean 6.65 degree
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 100, kl_loss 0.007878, dis_loss-2.768538
+-------------0.340361-----------------3.079170--------------
+------------Time consuming: 0.668260---Storaging: 6769606656.000000---------
+---------------------100---------------------
+Epoch 100 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 101, kl_loss 0.007878, dis_loss-2.801185
+-------------0.343527-----------------3.082600--------------
+------------Time consuming: 0.661369---Storaging: 6769606656.000000---------
+---------------------101---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 102, kl_loss 0.007881, dis_loss-2.780694
+-------------0.346689-----------------3.085874--------------
+------------Time consuming: 0.663434---Storaging: 6769606656.000000---------
+---------------------102---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 103, kl_loss 0.007877, dis_loss-2.754386
+-------------0.349832-----------------3.089073--------------
+------------Time consuming: 0.667995---Storaging: 6769606656.000000---------
+---------------------103---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 104, kl_loss 0.007875, dis_loss-2.777552
+-------------0.352978-----------------3.092273--------------
+------------Time consuming: 0.657705---Storaging: 6769606656.000000---------
+---------------------104---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 105, val_loss 0.117407
+-------------0.352978-----------------3.092273--------------
+Error in translation: median 0.13 m,  mean 0.18 m 
+ Error in rotation: median 6.22 degrees, mean 7.50 degree
+---------------------105---------------------
+Epoch 105 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 105, kl_loss 0.007875, dis_loss-2.810017
+-------------0.356150-----------------3.095593--------------
+------------Time consuming: 0.661532---Storaging: 6769606656.000000---------
+---------------------105---------------------
+Epoch 105 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 106, kl_loss 0.007874, dis_loss-2.779275
+-------------0.359304-----------------3.098685--------------
+------------Time consuming: 0.660106---Storaging: 6769606656.000000---------
+---------------------106---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 107, kl_loss 0.007873, dis_loss-2.849133
+-------------0.362463-----------------3.102134--------------
+------------Time consuming: 0.649448---Storaging: 6769606656.000000---------
+---------------------107---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 108, kl_loss 0.007872, dis_loss-2.869402
+-------------0.365632-----------------3.105575--------------
+------------Time consuming: 0.659055---Storaging: 6769606656.000000---------
+---------------------108---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 109, kl_loss 0.007868, dis_loss-2.837715
+-------------0.368788-----------------3.108820--------------
+------------Time consuming: 0.660174---Storaging: 6769606656.000000---------
+---------------------109---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 110, val_loss 0.115694
+-------------0.368788-----------------3.108820--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.65 degrees, mean 7.29 degree
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 110, kl_loss 0.007865, dis_loss-2.852650
+-------------0.371945-----------------3.112121--------------
+------------Time consuming: 0.674921---Storaging: 6769606656.000000---------
+---------------------110---------------------
+Epoch 110 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 111, kl_loss 0.007861, dis_loss-2.880706
+-------------0.375098-----------------3.115485--------------
+------------Time consuming: 0.661829---Storaging: 6769606656.000000---------
+---------------------111---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 112, kl_loss 0.007864, dis_loss-2.903326
+-------------0.378265-----------------3.118915--------------
+------------Time consuming: 0.654202---Storaging: 6769606656.000000---------
+---------------------112---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 113, kl_loss 0.007861, dis_loss-2.912786
+-------------0.381422-----------------3.122389--------------
+------------Time consuming: 0.651334---Storaging: 6769606656.000000---------
+---------------------113---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 114, kl_loss 0.007858, dis_loss-2.925859
+-------------0.384579-----------------3.125841--------------
+------------Time consuming: 0.663679---Storaging: 6769606656.000000---------
+---------------------114---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 115, val_loss 0.113915
+-------------0.384579-----------------3.125841--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.98 degrees, mean 7.47 degree
+---------------------115---------------------
+Epoch 115 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 115, kl_loss 0.007857, dis_loss-2.876159
+-------------0.387726-----------------3.129038--------------
+------------Time consuming: 0.653120---Storaging: 6769606656.000000---------
+---------------------115---------------------
+Epoch 115 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 116, kl_loss 0.007856, dis_loss-2.930784
+-------------0.390866-----------------3.132348--------------
+------------Time consuming: 0.654203---Storaging: 6769606656.000000---------
+---------------------116---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 117, kl_loss 0.007855, dis_loss-2.937741
+-------------0.394014-----------------3.135706--------------
+------------Time consuming: 0.654945---Storaging: 6769606656.000000---------
+---------------------117---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 118, kl_loss 0.007857, dis_loss-2.964217
+-------------0.397168-----------------3.139146--------------
+------------Time consuming: 0.652409---Storaging: 6769606656.000000---------
+---------------------118---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 119, kl_loss 0.007857, dis_loss-2.973016
+-------------0.400335-----------------3.142548--------------
+------------Time consuming: 0.658140---Storaging: 6769606656.000000---------
+---------------------119---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 120, val_loss 0.125260
+-------------0.400335-----------------3.142548--------------
+Error in translation: median 0.16 m,  mean 0.19 m 
+ Error in rotation: median 5.32 degrees, mean 6.97 degree
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 120, kl_loss 0.007855, dis_loss-2.985031
+-------------0.403499-----------------3.145961--------------
+------------Time consuming: 0.654129---Storaging: 6769606656.000000---------
+---------------------120---------------------
+Epoch 120 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 121, kl_loss 0.007854, dis_loss-3.005074
+-------------0.406660-----------------3.149443--------------
+------------Time consuming: 0.649568---Storaging: 6769606656.000000---------
+---------------------121---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 122, kl_loss 0.007855, dis_loss-2.995131
+-------------0.409821-----------------3.152808--------------
+------------Time consuming: 0.652813---Storaging: 6769606656.000000---------
+---------------------122---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 123, kl_loss 0.007855, dis_loss-3.012723
+-------------0.412973-----------------3.156192--------------
+------------Time consuming: 0.655276---Storaging: 6769606656.000000---------
+---------------------123---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 124, kl_loss 0.007854, dis_loss-3.014163
+-------------0.416121-----------------3.159560--------------
+------------Time consuming: 0.660343---Storaging: 6769606656.000000---------
+---------------------124---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 125, val_loss 0.121131
+-------------0.416121-----------------3.159560--------------
+Error in translation: median 0.14 m,  mean 0.18 m 
+ Error in rotation: median 6.15 degrees, mean 7.39 degree
+---------------------125---------------------
+Epoch 125 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 125, kl_loss 0.007856, dis_loss-2.992876
+-------------0.419254-----------------3.162796--------------
+------------Time consuming: 0.649317---Storaging: 6769606656.000000---------
+---------------------125---------------------
+Epoch 125 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 126, kl_loss 0.007855, dis_loss-3.020927
+-------------0.422398-----------------3.166136--------------
+------------Time consuming: 0.650338---Storaging: 6769606656.000000---------
+---------------------126---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 127, kl_loss 0.007855, dis_loss-3.044129
+-------------0.425549-----------------3.169503--------------
+------------Time consuming: 0.637873---Storaging: 6769606656.000000---------
+---------------------127---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 128, kl_loss 0.007854, dis_loss-3.052232
+-------------0.428712-----------------3.172849--------------
+------------Time consuming: 0.651920---Storaging: 6769606656.000000---------
+---------------------128---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 129, kl_loss 0.007852, dis_loss-3.063876
+-------------0.431871-----------------3.176204--------------
+------------Time consuming: 0.661401---Storaging: 6769606656.000000---------
+---------------------129---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 130, val_loss 0.107789
+-------------0.431871-----------------3.176204--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.30 degrees, mean 6.68 degree
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 130, kl_loss 0.007851, dis_loss-3.079677
+-------------0.435025-----------------3.179552--------------
+------------Time consuming: 0.663713---Storaging: 6769606656.000000---------
+---------------------130---------------------
+Epoch 130 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 131, kl_loss 0.007851, dis_loss-3.073929
+-------------0.438169-----------------3.182880--------------
+------------Time consuming: 0.657439---Storaging: 6769606656.000000---------
+---------------------131---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 132, kl_loss 0.007851, dis_loss-3.106807
+-------------0.441315-----------------3.186301--------------
+------------Time consuming: 0.658878---Storaging: 6769606656.000000---------
+---------------------132---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 133, kl_loss 0.007851, dis_loss-3.112432
+-------------0.444458-----------------3.189727--------------
+------------Time consuming: 0.660087---Storaging: 6769606656.000000---------
+---------------------133---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 134, kl_loss 0.007850, dis_loss-3.106454
+-------------0.447613-----------------3.193060--------------
+------------Time consuming: 0.661604---Storaging: 6769606656.000000---------
+---------------------134---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 135, val_loss 0.116409
+-------------0.447613-----------------3.193060--------------
+Error in translation: median 0.13 m,  mean 0.18 m 
+ Error in rotation: median 5.98 degrees, mean 7.31 degree
+---------------------135---------------------
+Epoch 135 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 135, kl_loss 0.007849, dis_loss-3.112316
+-------------0.450760-----------------3.196357--------------
+------------Time consuming: 0.662492---Storaging: 6769606656.000000---------
+---------------------135---------------------
+Epoch 135 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 136, kl_loss 0.007848, dis_loss-3.124951
+-------------0.453911-----------------3.199691--------------
+------------Time consuming: 0.663295---Storaging: 6769606656.000000---------
+---------------------136---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 137, kl_loss 0.007848, dis_loss-3.139115
+-------------0.457061-----------------3.203028--------------
+------------Time consuming: 0.653274---Storaging: 6769606656.000000---------
+---------------------137---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 138, kl_loss 0.007848, dis_loss-3.142570
+-------------0.460206-----------------3.206337--------------
+------------Time consuming: 0.647319---Storaging: 6769606656.000000---------
+---------------------138---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 139, kl_loss 0.007846, dis_loss-3.154261
+-------------0.463350-----------------3.209688--------------
+------------Time consuming: 0.653800---Storaging: 6769606656.000000---------
+---------------------139---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 140, val_loss 0.111725
+-------------0.463350-----------------3.209688--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.73 degrees, mean 7.39 degree
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 140, kl_loss 0.007847, dis_loss-3.148011
+-------------0.466499-----------------3.212939--------------
+------------Time consuming: 0.654180---Storaging: 6769606656.000000---------
+---------------------140---------------------
+Epoch 140 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 141, kl_loss 0.007845, dis_loss-3.172720
+-------------0.469635-----------------3.216269--------------
+------------Time consuming: 0.656562---Storaging: 6769606656.000000---------
+---------------------141---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 142, kl_loss 0.007842, dis_loss-3.160459
+-------------0.472780-----------------3.219500--------------
+------------Time consuming: 0.653380---Storaging: 6769606656.000000---------
+---------------------142---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 143, kl_loss 0.007842, dis_loss-3.183894
+-------------0.475926-----------------3.222791--------------
+------------Time consuming: 0.664250---Storaging: 6769606656.000000---------
+---------------------143---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 144, kl_loss 0.007842, dis_loss-3.176888
+-------------0.479067-----------------3.226036--------------
+------------Time consuming: 0.657656---Storaging: 6769606656.000000---------
+---------------------144---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 145, val_loss 0.116072
+-------------0.479067-----------------3.226036--------------
+Error in translation: median 0.14 m,  mean 0.18 m 
+ Error in rotation: median 5.29 degrees, mean 6.94 degree
+---------------------145---------------------
+Epoch 145 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 145, kl_loss 0.007841, dis_loss-3.192109
+-------------0.482217-----------------3.229289--------------
+------------Time consuming: 0.670646---Storaging: 6769606656.000000---------
+---------------------145---------------------
+Epoch 145 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 146, kl_loss 0.007839, dis_loss-3.206679
+-------------0.485368-----------------3.232568--------------
+------------Time consuming: 0.659492---Storaging: 6769606656.000000---------
+---------------------146---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 147, kl_loss 0.007840, dis_loss-3.207815
+-------------0.488515-----------------3.235808--------------
+------------Time consuming: 0.651722---Storaging: 6769606656.000000---------
+---------------------147---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 148, kl_loss 0.007840, dis_loss-3.221774
+-------------0.491669-----------------3.239091--------------
+------------Time consuming: 0.657328---Storaging: 6769606656.000000---------
+---------------------148---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 149, kl_loss 0.007839, dis_loss-3.214730
+-------------0.494815-----------------3.242311--------------
+------------Time consuming: 0.656163---Storaging: 6769606656.000000---------
+---------------------149---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 150, val_loss 0.112964
+-------------0.494815-----------------3.242311--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.53 degrees, mean 7.07 degree
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 150, kl_loss 0.007838, dis_loss-3.197126
+-------------0.497955-----------------3.245403--------------
+------------Time consuming: 0.654699---Storaging: 6769606656.000000---------
+---------------------150---------------------
+Epoch 150 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 151, kl_loss 0.007836, dis_loss-3.255182
+-------------0.501108-----------------3.248708--------------
+------------Time consuming: 0.656308---Storaging: 6769606656.000000---------
+---------------------151---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 152, kl_loss 0.007837, dis_loss-3.249728
+-------------0.504267-----------------3.251952--------------
+------------Time consuming: 0.654055---Storaging: 6769606656.000000---------
+---------------------152---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 153, kl_loss 0.007837, dis_loss-3.281568
+-------------0.507411-----------------3.255307--------------
+------------Time consuming: 0.651550---Storaging: 6769606656.000000---------
+---------------------153---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 154, kl_loss 0.007836, dis_loss-3.275486
+-------------0.510569-----------------3.258586--------------
+------------Time consuming: 0.658615---Storaging: 6769606656.000000---------
+---------------------154---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 155, val_loss 0.112563
+-------------0.510569-----------------3.258586--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 6.16 degrees, mean 7.46 degree
+---------------------155---------------------
+Epoch 155 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 155, kl_loss 0.007835, dis_loss-3.285489
+-------------0.513716-----------------3.261891--------------
+------------Time consuming: 0.656538---Storaging: 6769606656.000000---------
+---------------------155---------------------
+Epoch 155 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 156, kl_loss 0.007834, dis_loss-3.295583
+-------------0.516863-----------------3.265207--------------
+------------Time consuming: 0.654914---Storaging: 6769606656.000000---------
+---------------------156---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 157, kl_loss 0.007834, dis_loss-3.276603
+-------------0.519994-----------------3.268416--------------
+------------Time consuming: 0.660666---Storaging: 6769606656.000000---------
+---------------------157---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 158, kl_loss 0.007833, dis_loss-3.290181
+-------------0.523122-----------------3.271648--------------
+------------Time consuming: 0.658900---Storaging: 6769606656.000000---------
+---------------------158---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 159, kl_loss 0.007833, dis_loss-3.284308
+-------------0.526271-----------------3.274786--------------
+------------Time consuming: 0.659013---Storaging: 6769606656.000000---------
+---------------------159---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 160, val_loss 0.106221
+-------------0.526271-----------------3.274786--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.48 degrees, mean 6.80 degree
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 160, kl_loss 0.007832, dis_loss-3.325802
+-------------0.529416-----------------3.278090--------------
+------------Time consuming: 0.655662---Storaging: 6769606656.000000---------
+---------------------160---------------------
+Epoch 160 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 161, kl_loss 0.007832, dis_loss-3.331361
+-------------0.532567-----------------3.281381--------------
+------------Time consuming: 0.645494---Storaging: 6769606656.000000---------
+---------------------161---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 162, kl_loss 0.007832, dis_loss-3.305451
+-------------0.535703-----------------3.284549--------------
+------------Time consuming: 0.652276---Storaging: 6769606656.000000---------
+---------------------162---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 163, kl_loss 0.007832, dis_loss-3.291933
+-------------0.538841-----------------3.287617--------------
+------------Time consuming: 0.655127---Storaging: 6769606656.000000---------
+---------------------163---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 164, kl_loss 0.007830, dis_loss-3.316354
+-------------0.541987-----------------3.290741--------------
+------------Time consuming: 0.661278---Storaging: 6769606656.000000---------
+---------------------164---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 165, val_loss 0.106712
+-------------0.541987-----------------3.290741--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 4.80 degrees, mean 6.53 degree
+---------------------165---------------------
+Epoch 165 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 165, kl_loss 0.007829, dis_loss-3.340793
+-------------0.545136-----------------3.293937--------------
+------------Time consuming: 0.656482---Storaging: 6769606656.000000---------
+---------------------165---------------------
+Epoch 165 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 166, kl_loss 0.007830, dis_loss-3.351130
+-------------0.548287-----------------3.297158--------------
+------------Time consuming: 0.654674---Storaging: 6769606656.000000---------
+---------------------166---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 167, kl_loss 0.007830, dis_loss-3.369865
+-------------0.551420-----------------3.300435--------------
+------------Time consuming: 0.651100---Storaging: 6769606656.000000---------
+---------------------167---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 168, kl_loss 0.007830, dis_loss-3.368716
+-------------0.554567-----------------3.303682--------------
+------------Time consuming: 0.658611---Storaging: 6769606656.000000---------
+---------------------168---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 169, kl_loss 0.007829, dis_loss-3.391004
+-------------0.557719-----------------3.306961--------------
+------------Time consuming: 0.663060---Storaging: 6769606656.000000---------
+---------------------169---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 170, val_loss 0.111199
+-------------0.557719-----------------3.306961--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.40 degrees, mean 6.83 degree
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 170, kl_loss 0.007829, dis_loss-3.398056
+-------------0.560866-----------------3.310252--------------
+------------Time consuming: 0.661245---Storaging: 6769606656.000000---------
+---------------------170---------------------
+Epoch 170 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 171, kl_loss 0.007829, dis_loss-3.379536
+-------------0.564021-----------------3.313423--------------
+------------Time consuming: 0.668591---Storaging: 6769606656.000000---------
+---------------------171---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 172, kl_loss 0.007828, dis_loss-3.402098
+-------------0.567174-----------------3.316625--------------
+------------Time consuming: 0.662824---Storaging: 6769568166.603174---------
+---------------------172---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 173, kl_loss 0.007828, dis_loss-3.402693
+-------------0.570308-----------------3.319871--------------
+------------Time consuming: 0.676245---Storaging: 6769541120.000000---------
+---------------------173---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 174, kl_loss 0.007827, dis_loss-3.432871
+-------------0.573453-----------------3.323148--------------
+------------Time consuming: 0.682867---Storaging: 6769541120.000000---------
+---------------------174---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 175, val_loss 0.109105
+-------------0.573453-----------------3.323148--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.03 degrees, mean 6.47 degree
+---------------------175---------------------
+Epoch 175 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 175, kl_loss 0.007827, dis_loss-3.435794
+-------------0.576597-----------------3.326436--------------
+------------Time consuming: 0.705380---Storaging: 6769541120.000000---------
+---------------------175---------------------
+Epoch 175 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 176, kl_loss 0.007826, dis_loss-3.431242
+-------------0.579747-----------------3.329650--------------
+------------Time consuming: 0.668946---Storaging: 6769541120.000000---------
+---------------------176---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 177, kl_loss 0.007826, dis_loss-3.444136
+-------------0.582887-----------------3.332903--------------
+------------Time consuming: 0.666104---Storaging: 6769541120.000000---------
+---------------------177---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 178, kl_loss 0.007826, dis_loss-3.431497
+-------------0.586025-----------------3.336085--------------
+------------Time consuming: 0.676368---Storaging: 6769541120.000000---------
+---------------------178---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 179, kl_loss 0.007824, dis_loss-3.416103
+-------------0.589158-----------------3.339154--------------
+------------Time consuming: 0.675194---Storaging: 6769541120.000000---------
+---------------------179---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 180, val_loss 0.117346
+-------------0.589158-----------------3.339154--------------
+Error in translation: median 0.15 m,  mean 0.18 m 
+ Error in rotation: median 5.48 degrees, mean 6.88 degree
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 180, kl_loss 0.007823, dis_loss-3.431162
+-------------0.592292-----------------3.342299--------------
+------------Time consuming: 0.664309---Storaging: 6769541120.000000---------
+---------------------180---------------------
+Epoch 180 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 181, kl_loss 0.007822, dis_loss-3.445677
+-------------0.595405-----------------3.345478--------------
+------------Time consuming: 0.666888---Storaging: 6769541120.000000---------
+---------------------181---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 182, kl_loss 0.007821, dis_loss-3.460895
+-------------0.598545-----------------3.348660--------------
+------------Time consuming: 0.646142---Storaging: 6769541120.000000---------
+---------------------182---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 183, kl_loss 0.007822, dis_loss-3.481904
+-------------0.601685-----------------3.351890--------------
+------------Time consuming: 0.664606---Storaging: 6769541120.000000---------
+---------------------183---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 184, kl_loss 0.007822, dis_loss-3.488807
+-------------0.604840-----------------3.355117--------------
+------------Time consuming: 0.712880---Storaging: 6769541120.000000---------
+---------------------184---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 185, val_loss 0.105020
+-------------0.604840-----------------3.355117--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.07 degrees, mean 6.52 degree
+---------------------185---------------------
+Epoch 185 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 185, kl_loss 0.007821, dis_loss-3.477551
+-------------0.607985-----------------3.358285--------------
+------------Time consuming: 0.654885---Storaging: 6769541120.000000---------
+---------------------185---------------------
+Epoch 185 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 186, kl_loss 0.007819, dis_loss-3.468342
+-------------0.611102-----------------3.361424--------------
+------------Time consuming: 0.708376---Storaging: 6769541120.000000---------
+---------------------186---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 187, kl_loss 0.007818, dis_loss-3.465815
+-------------0.614234-----------------3.364485--------------
+------------Time consuming: 0.658206---Storaging: 6769541120.000000---------
+---------------------187---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 188, kl_loss 0.007819, dis_loss-3.501089
+-------------0.617378-----------------3.367669--------------
+------------Time consuming: 0.661660---Storaging: 6769541120.000000---------
+---------------------188---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 189, kl_loss 0.007818, dis_loss-3.507070
+-------------0.620519-----------------3.370867--------------
+------------Time consuming: 0.675435---Storaging: 6769541120.000000---------
+---------------------189---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 190, val_loss 0.107545
+-------------0.620519-----------------3.370867--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.35 degrees, mean 6.71 degree
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 190, kl_loss 0.007817, dis_loss-3.501484
+-------------0.623660-----------------3.373993--------------
+------------Time consuming: 0.664434---Storaging: 6769541120.000000---------
+---------------------190---------------------
+Epoch 190 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 191, kl_loss 0.007816, dis_loss-3.528472
+-------------0.626803-----------------3.377199--------------
+------------Time consuming: 0.655019---Storaging: 6769541120.000000---------
+---------------------191---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 192, kl_loss 0.007816, dis_loss-3.543252
+-------------0.629947-----------------3.380437--------------
+------------Time consuming: 0.666320---Storaging: 6769541120.000000---------
+---------------------192---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 193, kl_loss 0.007817, dis_loss-3.548035
+-------------0.633094-----------------3.383674--------------
+------------Time consuming: 0.657874---Storaging: 6769541120.000000---------
+---------------------193---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 194, kl_loss 0.007816, dis_loss-3.555409
+-------------0.636240-----------------3.386895--------------
+------------Time consuming: 0.662112---Storaging: 6769541120.000000---------
+---------------------194---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 195, val_loss 0.107957
+-------------0.636240-----------------3.386895--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.40 degrees, mean 6.65 degree
+---------------------195---------------------
+Epoch 195 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 195, kl_loss 0.007815, dis_loss-3.554055
+-------------0.639374-----------------3.390108--------------
+------------Time consuming: 0.662456---Storaging: 6769541120.000000---------
+---------------------195---------------------
+Epoch 195 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 196, kl_loss 0.007814, dis_loss-3.556475
+-------------0.642518-----------------3.393273--------------
+------------Time consuming: 0.655425---Storaging: 6769541120.000000---------
+---------------------196---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 197, kl_loss 0.007815, dis_loss-3.579665
+-------------0.645665-----------------3.396514--------------
+------------Time consuming: 0.691625---Storaging: 6769541120.000000---------
+---------------------197---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 198, kl_loss 0.007814, dis_loss-3.581226
+-------------0.648815-----------------3.399719--------------
+------------Time consuming: 0.669023---Storaging: 6769541120.000000---------
+---------------------198---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 199, kl_loss 0.007814, dis_loss-3.575409
+-------------0.651962-----------------3.402876--------------
+------------Time consuming: 0.660953---Storaging: 6769541120.000000---------
+---------------------199---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 200, val_loss 0.109216
+-------------0.651962-----------------3.402876--------------
+Error in translation: median 0.13 m,  mean 0.17 m 
+ Error in rotation: median 5.13 degrees, mean 6.34 degree
+---------------------200---------------------
+Epoch 200 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 200, kl_loss 0.007813, dis_loss-3.581562
+-------------0.655104-----------------3.406054--------------
+------------Time consuming: 0.668728---Storaging: 6769541120.000000---------
+---------------------200---------------------
+Epoch 200 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 201, kl_loss 0.007813, dis_loss-3.575656
+-------------0.658232-----------------3.409178--------------
+------------Time consuming: 0.655452---Storaging: 6769541120.000000---------
+---------------------201---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 202, kl_loss 0.007812, dis_loss-3.565337
+-------------0.661359-----------------3.412240--------------
+------------Time consuming: 0.668555---Storaging: 6769541120.000000---------
+---------------------202---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 203, kl_loss 0.007811, dis_loss-3.613455
+-------------0.664502-----------------3.415443--------------
+------------Time consuming: 0.724401---Storaging: 6769541120.000000---------
+---------------------203---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 204, kl_loss 0.007811, dis_loss-3.612975
+-------------0.667643-----------------3.418643--------------
+------------Time consuming: 0.730007---Storaging: 6769541120.000000---------
+---------------------204---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 205, val_loss 0.110745
+-------------0.667643-----------------3.418643--------------
+Error in translation: median 0.11 m,  mean 0.17 m 
+ Error in rotation: median 5.59 degrees, mean 6.87 degree
+---------------------205---------------------
+Epoch 205 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 205, kl_loss 0.007811, dis_loss-3.604725
+-------------0.670789-----------------3.421775--------------
+------------Time consuming: 0.670532---Storaging: 6769541120.000000---------
+---------------------205---------------------
+Epoch 205 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 206, kl_loss 0.007810, dis_loss-3.618882
+-------------0.673931-----------------3.424919--------------
+------------Time consuming: 0.656200---Storaging: 6769541120.000000---------
+---------------------206---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 207, kl_loss 0.007809, dis_loss-3.596138
+-------------0.677062-----------------3.428017--------------
+------------Time consuming: 0.658790---Storaging: 6769541120.000000---------
+---------------------207---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 208, kl_loss 0.007805, dis_loss-3.594212
+-------------0.680181-----------------3.431044--------------
+------------Time consuming: 0.681845---Storaging: 6769541120.000000---------
+---------------------208---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 209, kl_loss 0.007805, dis_loss-3.612947
+-------------0.683313-----------------3.434101--------------
+------------Time consuming: 0.731912---Storaging: 6769541120.000000---------
+---------------------209---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 210, val_loss 0.106880
+-------------0.683313-----------------3.434101--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.02 degrees, mean 6.55 degree
+---------------------210---------------------
+Epoch 210 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 210, kl_loss 0.007804, dis_loss-3.614851
+-------------0.686443-----------------3.437179--------------
+------------Time consuming: 0.719451---Storaging: 6769541120.000000---------
+---------------------210---------------------
+Epoch 210 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 211, kl_loss 0.007805, dis_loss-3.635125
+-------------0.689583-----------------3.440293--------------
+------------Time consuming: 0.661519---Storaging: 6769541120.000000---------
+---------------------211---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 212, kl_loss 0.007805, dis_loss-3.647092
+-------------0.692715-----------------3.443452--------------
+------------Time consuming: 0.664435---Storaging: 6769541120.000000---------
+---------------------212---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 213, kl_loss 0.007805, dis_loss-3.638053
+-------------0.695856-----------------3.446550--------------
+------------Time consuming: 0.715338---Storaging: 6769541120.000000---------
+---------------------213---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 214, kl_loss 0.007804, dis_loss-3.649718
+-------------0.698990-----------------3.449664--------------
+------------Time consuming: 0.673683---Storaging: 6769541120.000000---------
+---------------------214---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 215, val_loss 0.117917
+-------------0.698990-----------------3.449664--------------
+Error in translation: median 0.14 m,  mean 0.18 m 
+ Error in rotation: median 5.43 degrees, mean 6.81 degree
+---------------------215---------------------
+Epoch 215 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 215, kl_loss 0.007803, dis_loss-3.642090
+-------------0.702111-----------------3.452745--------------
+------------Time consuming: 0.676810---Storaging: 6769541120.000000---------
+---------------------215---------------------
+Epoch 215 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 216, kl_loss 0.007802, dis_loss-3.661578
+-------------0.705245-----------------3.455850--------------
+------------Time consuming: 0.667483---Storaging: 6769541120.000000---------
+---------------------216---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 217, kl_loss 0.007801, dis_loss-3.675147
+-------------0.708378-----------------3.459002--------------
+------------Time consuming: 0.663683---Storaging: 6769541120.000000---------
+---------------------217---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 218, kl_loss 0.007801, dis_loss-3.673369
+-------------0.711514-----------------3.462117--------------
+------------Time consuming: 0.716328---Storaging: 6769541120.000000---------
+---------------------218---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 219, kl_loss 0.007801, dis_loss-3.696519
+-------------0.714648-----------------3.465305--------------
+------------Time consuming: 0.683038---Storaging: 6769541120.000000---------
+---------------------219---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 220, val_loss 0.106420
+-------------0.714648-----------------3.465305--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 4.94 degrees, mean 6.33 degree
+---------------------220---------------------
+Epoch 220 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 220, kl_loss 0.007801, dis_loss-3.700168
+-------------0.717777-----------------3.468497--------------
+------------Time consuming: 0.656911---Storaging: 6769541120.000000---------
+---------------------220---------------------
+Epoch 220 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 221, kl_loss 0.007800, dis_loss-3.700865
+-------------0.720911-----------------3.471651--------------
+------------Time consuming: 0.713261---Storaging: 6769541120.000000---------
+---------------------221---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 222, kl_loss 0.007800, dis_loss-3.716026
+-------------0.724047-----------------3.474849--------------
+------------Time consuming: 0.665352---Storaging: 6769541120.000000---------
+---------------------222---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 223, kl_loss 0.007800, dis_loss-3.703681
+-------------0.727191-----------------3.477945--------------
+------------Time consuming: 0.666663---Storaging: 6769541120.000000---------
+---------------------223---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 224, kl_loss 0.007799, dis_loss-3.724404
+-------------0.730333-----------------3.481114--------------
+------------Time consuming: 0.680398---Storaging: 6769541120.000000---------
+---------------------224---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 225, val_loss 0.104087
+-------------0.730333-----------------3.481114--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 4.93 degrees, mean 6.52 degree
+---------------------225---------------------
+Epoch 225 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 225, kl_loss 0.007797, dis_loss-3.724007
+-------------0.733471-----------------3.484238--------------
+------------Time consuming: 0.654363---Storaging: 6769541120.000000---------
+---------------------225---------------------
+Epoch 225 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 226, kl_loss 0.007797, dis_loss-3.747509
+-------------0.736611-----------------3.487447--------------
+------------Time consuming: 0.661889---Storaging: 6769541120.000000---------
+---------------------226---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 227, kl_loss 0.007797, dis_loss-3.734344
+-------------0.739747-----------------3.490598--------------
+------------Time consuming: 0.670458---Storaging: 6769541120.000000---------
+---------------------227---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 228, kl_loss 0.007797, dis_loss-3.742985
+-------------0.742884-----------------3.493724--------------
+------------Time consuming: 0.661458---Storaging: 6769541120.000000---------
+---------------------228---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 229, kl_loss 0.007796, dis_loss-3.744141
+-------------0.746025-----------------3.496843--------------
+------------Time consuming: 0.659641---Storaging: 6769541120.000000---------
+---------------------229---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 230, val_loss 0.103195
+-------------0.746025-----------------3.496843--------------
+Error in translation: median 0.11 m,  mean 0.15 m 
+ Error in rotation: median 5.28 degrees, mean 6.59 degree
+---------------------230---------------------
+Epoch 230 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 230, kl_loss 0.007795, dis_loss-3.739008
+-------------0.749154-----------------3.499941--------------
+------------Time consuming: 0.668410---Storaging: 6769541120.000000---------
+---------------------230---------------------
+Epoch 230 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 231, kl_loss 0.007795, dis_loss-3.761637
+-------------0.752292-----------------3.503081--------------
+------------Time consuming: 0.659396---Storaging: 6769541120.000000---------
+---------------------231---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 232, kl_loss 0.007795, dis_loss-3.759749
+-------------0.755425-----------------3.506203--------------
+------------Time consuming: 0.668699---Storaging: 6769541120.000000---------
+---------------------232---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 233, kl_loss 0.007794, dis_loss-3.732879
+-------------0.758549-----------------3.509220--------------
+------------Time consuming: 0.705705---Storaging: 6769541120.000000---------
+---------------------233---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 234, kl_loss 0.007794, dis_loss-3.762582
+-------------0.761680-----------------3.512284--------------
+------------Time consuming: 0.670364---Storaging: 6769541120.000000---------
+---------------------234---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 235, val_loss 0.105241
+-------------0.761680-----------------3.512284--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.16 degrees, mean 6.59 degree
+---------------------235---------------------
+Epoch 235 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 235, kl_loss 0.007793, dis_loss-3.779171
+-------------0.764808-----------------3.515443--------------
+------------Time consuming: 0.674620---Storaging: 6769541120.000000---------
+---------------------235---------------------
+Epoch 235 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 236, kl_loss 0.007794, dis_loss-3.787600
+-------------0.767940-----------------3.518592--------------
+------------Time consuming: 0.660477---Storaging: 6769541120.000000---------
+---------------------236---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 237, kl_loss 0.007793, dis_loss-3.787462
+-------------0.771072-----------------3.521724--------------
+------------Time consuming: 0.668068---Storaging: 6769541120.000000---------
+---------------------237---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 238, kl_loss 0.007792, dis_loss-3.778606
+-------------0.774194-----------------3.524789--------------
+------------Time consuming: 0.736609---Storaging: 6769541120.000000---------
+---------------------238---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 239, kl_loss 0.007790, dis_loss-3.792325
+-------------0.777324-----------------3.527883--------------
+------------Time consuming: 0.686960---Storaging: 6769541120.000000---------
+---------------------239---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 240, val_loss 0.106177
+-------------0.777324-----------------3.527883--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.58 degrees, mean 7.01 degree
+---------------------240---------------------
+Epoch 240 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 240, kl_loss 0.007790, dis_loss-3.778765
+-------------0.780451-----------------3.530914--------------
+------------Time consuming: 0.709804---Storaging: 6769541120.000000---------
+---------------------240---------------------
+Epoch 240 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 241, kl_loss 0.007790, dis_loss-3.814296
+-------------0.783578-----------------3.534057--------------
+------------Time consuming: 0.667573---Storaging: 6769541120.000000---------
+---------------------241---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 242, kl_loss 0.007789, dis_loss-3.800172
+-------------0.786708-----------------3.537127--------------
+------------Time consuming: 0.665089---Storaging: 6769541120.000000---------
+---------------------242---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 243, kl_loss 0.007789, dis_loss-3.817551
+-------------0.789845-----------------3.540243--------------
+------------Time consuming: 0.679889---Storaging: 6769541120.000000---------
+---------------------243---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 244, kl_loss 0.007788, dis_loss-3.828044
+-------------0.792971-----------------3.543372--------------
+------------Time consuming: 0.775139---Storaging: 6769541120.000000---------
+---------------------244---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 245, val_loss 0.104506
+-------------0.792971-----------------3.543372--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 4.99 degrees, mean 6.20 degree
+---------------------245---------------------
+Epoch 245 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 245, kl_loss 0.007788, dis_loss-3.838906
+-------------0.796105-----------------3.546535--------------
+------------Time consuming: 0.680623---Storaging: 6769541120.000000---------
+---------------------245---------------------
+Epoch 245 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 246, kl_loss 0.007787, dis_loss-3.847278
+-------------0.799235-----------------3.549707--------------
+------------Time consuming: 0.684801---Storaging: 6769541120.000000---------
+---------------------246---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 247, kl_loss 0.007787, dis_loss-3.845366
+-------------0.802371-----------------3.552832--------------
+------------Time consuming: 0.679631---Storaging: 6769541120.000000---------
+---------------------247---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 248, kl_loss 0.007787, dis_loss-3.852694
+-------------0.805509-----------------3.555954--------------
+------------Time consuming: 0.662129---Storaging: 6769541120.000000---------
+---------------------248---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 249, kl_loss 0.007786, dis_loss-3.868410
+-------------0.808646-----------------3.559126--------------
+------------Time consuming: 0.719679---Storaging: 6769541120.000000---------
+---------------------249---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 250, val_loss 0.105370
+-------------0.808646-----------------3.559126--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 4.87 degrees, mean 6.44 degree
+---------------------250---------------------
+Epoch 250 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 250, kl_loss 0.007785, dis_loss-3.859437
+-------------0.811774-----------------3.562265--------------
+------------Time consuming: 0.671390---Storaging: 6769541120.000000---------
+---------------------250---------------------
+Epoch 250 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 251, kl_loss 0.007785, dis_loss-3.870727
+-------------0.814907-----------------3.565396--------------
+------------Time consuming: 0.668071---Storaging: 6769541120.000000---------
+---------------------251---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 252, kl_loss 0.007784, dis_loss-3.893659
+-------------0.818045-----------------3.568580--------------
+------------Time consuming: 0.726516---Storaging: 6769541120.000000---------
+---------------------252---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 253, kl_loss 0.007784, dis_loss-3.891986
+-------------0.821188-----------------3.571751--------------
+------------Time consuming: 0.679769---Storaging: 6769541120.000000---------
+---------------------253---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 254, kl_loss 0.007782, dis_loss-3.870495
+-------------0.824313-----------------3.574831--------------
+------------Time consuming: 0.694494---Storaging: 6769541120.000000---------
+---------------------254---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 255, val_loss 0.106016
+-------------0.824313-----------------3.574831--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.05 degrees, mean 6.39 degree
+---------------------255---------------------
+Epoch 255 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 255, kl_loss 0.007782, dis_loss-3.881326
+-------------0.827438-----------------3.577924--------------
+------------Time consuming: 0.674564---Storaging: 6769541120.000000---------
+---------------------255---------------------
+Epoch 255 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 256, kl_loss 0.007781, dis_loss-3.872597
+-------------0.830564-----------------3.580977--------------
+------------Time consuming: 0.681571---Storaging: 6769541120.000000---------
+---------------------256---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 257, kl_loss 0.007781, dis_loss-3.879482
+-------------0.833687-----------------3.584003--------------
+------------Time consuming: 0.665879---Storaging: 6769541120.000000---------
+---------------------257---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 258, kl_loss 0.007780, dis_loss-3.893667
+-------------0.836821-----------------3.587084--------------
+------------Time consuming: 0.727221---Storaging: 6769541120.000000---------
+---------------------258---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 259, kl_loss 0.007781, dis_loss-3.883517
+-------------0.839941-----------------3.590115--------------
+------------Time consuming: 0.673131---Storaging: 6769541120.000000---------
+---------------------259---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 260, val_loss 0.106416
+-------------0.839941-----------------3.590115--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.52 degrees, mean 6.70 degree
+---------------------260---------------------
+Epoch 260 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 260, kl_loss 0.007779, dis_loss-3.918870
+-------------0.843074-----------------3.593231--------------
+------------Time consuming: 0.657414---Storaging: 6769541120.000000---------
+---------------------260---------------------
+Epoch 260 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 261, kl_loss 0.007779, dis_loss-3.932870
+-------------0.846212-----------------3.596411--------------
+------------Time consuming: 0.677338---Storaging: 6769541120.000000---------
+---------------------261---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 262, kl_loss 0.007777, dis_loss-3.925405
+-------------0.849346-----------------3.599524--------------
+------------Time consuming: 0.665720---Storaging: 6769541120.000000---------
+---------------------262---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 263, kl_loss 0.007778, dis_loss-3.934936
+-------------0.852487-----------------3.602655--------------
+------------Time consuming: 0.708215---Storaging: 6769541120.000000---------
+---------------------263---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 264, kl_loss 0.007779, dis_loss-3.949577
+-------------0.855628-----------------3.605794--------------
+------------Time consuming: 0.677488---Storaging: 6769541120.000000---------
+---------------------264---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 265, val_loss 0.109132
+-------------0.855628-----------------3.605794--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.78 degrees, mean 7.36 degree
+---------------------265---------------------
+Epoch 265 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 265, kl_loss 0.007778, dis_loss-3.927158
+-------------0.858758-----------------3.608851--------------
+------------Time consuming: 0.656991---Storaging: 6769541120.000000---------
+---------------------265---------------------
+Epoch 265 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 266, kl_loss 0.007777, dis_loss-3.953447
+-------------0.861894-----------------3.611984--------------
+------------Time consuming: 0.716029---Storaging: 6769541120.000000---------
+---------------------266---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 267, kl_loss 0.007777, dis_loss-3.950293
+-------------0.865026-----------------3.615085--------------
+------------Time consuming: 0.701559---Storaging: 6769541120.000000---------
+---------------------267---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 268, kl_loss 0.007776, dis_loss-3.966217
+-------------0.868156-----------------3.618236--------------
+------------Time consuming: 0.711232---Storaging: 6769541120.000000---------
+---------------------268---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 269, kl_loss 0.007776, dis_loss-3.937551
+-------------0.871286-----------------3.621256--------------
+------------Time consuming: 0.728195---Storaging: 6769541120.000000---------
+---------------------269---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 270, val_loss 0.103694
+-------------0.871286-----------------3.621256--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.20 degrees, mean 6.48 degree
+---------------------270---------------------
+Epoch 270 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 270, kl_loss 0.007776, dis_loss-3.977504
+-------------0.874414-----------------3.624401--------------
+------------Time consuming: 0.653249---Storaging: 6769541120.000000---------
+---------------------270---------------------
+Epoch 270 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 271, kl_loss 0.007776, dis_loss-3.958936
+-------------0.877545-----------------3.627480--------------
+------------Time consuming: 0.669272---Storaging: 6769541120.000000---------
+---------------------271---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 272, kl_loss 0.007772, dis_loss-3.954935
+-------------0.880666-----------------3.630486--------------
+------------Time consuming: 0.679680---Storaging: 6769541120.000000---------
+---------------------272---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 273, kl_loss 0.007773, dis_loss-3.979816
+-------------0.883795-----------------3.633575--------------
+------------Time consuming: 0.679218---Storaging: 6769541120.000000---------
+---------------------273---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 274, kl_loss 0.007774, dis_loss-3.990981
+-------------0.886932-----------------3.636696--------------
+------------Time consuming: 0.675823---Storaging: 6769541120.000000---------
+---------------------274---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 275, val_loss 0.100986
+-------------0.886932-----------------3.636696--------------
+Error in translation: median 0.11 m,  mean 0.15 m 
+ Error in rotation: median 4.87 degrees, mean 6.32 degree
+---------------------275---------------------
+Epoch 275 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 275, kl_loss 0.007772, dis_loss-4.002134
+-------------0.890068-----------------3.639821--------------
+------------Time consuming: 0.664515---Storaging: 6769541120.000000---------
+---------------------275---------------------
+Epoch 275 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 276, kl_loss 0.007773, dis_loss-3.999940
+-------------0.893194-----------------3.642945--------------
+------------Time consuming: 0.670363---Storaging: 6769541120.000000---------
+---------------------276---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 277, kl_loss 0.007772, dis_loss-3.983431
+-------------0.896325-----------------3.645961--------------
+------------Time consuming: 0.726102---Storaging: 6769541120.000000---------
+---------------------277---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 278, kl_loss 0.007770, dis_loss-4.006989
+-------------0.899454-----------------3.649064--------------
+------------Time consuming: 0.658544---Storaging: 6769541120.000000---------
+---------------------278---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 279, kl_loss 0.007770, dis_loss-4.018370
+-------------0.902583-----------------3.652184--------------
+------------Time consuming: 0.659909---Storaging: 6769541120.000000---------
+---------------------279---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 280, val_loss 0.103080
+-------------0.902583-----------------3.652184--------------
+Error in translation: median 0.11 m,  mean 0.15 m 
+ Error in rotation: median 5.13 degrees, mean 6.55 degree
+---------------------280---------------------
+Epoch 280 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 280, kl_loss 0.007770, dis_loss-4.035130
+-------------0.905719-----------------3.655354--------------
+------------Time consuming: 0.661708---Storaging: 6769541120.000000---------
+---------------------280---------------------
+Epoch 280 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 281, kl_loss 0.007770, dis_loss-4.026293
+-------------0.908853-----------------3.658468--------------
+------------Time consuming: 0.674393---Storaging: 6769541120.000000---------
+---------------------281---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 282, kl_loss 0.007769, dis_loss-4.009599
+-------------0.911974-----------------3.661488--------------
+------------Time consuming: 0.675852---Storaging: 6769541120.000000---------
+---------------------282---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 283, kl_loss 0.007769, dis_loss-4.043650
+-------------0.915103-----------------3.664632--------------
+------------Time consuming: 0.688689---Storaging: 6769541120.000000---------
+---------------------283---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 284, kl_loss 0.007765, dis_loss-4.012818
+-------------0.918227-----------------3.667653--------------
+------------Time consuming: 0.661407---Storaging: 6769541120.000000---------
+---------------------284---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 285, val_loss 0.107070
+-------------0.918227-----------------3.667653--------------
+Error in translation: median 0.11 m,  mean 0.16 m 
+ Error in rotation: median 5.34 degrees, mean 6.50 degree
+---------------------285---------------------
+Epoch 285 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 285, kl_loss 0.007762, dis_loss-4.040436
+-------------0.921352-----------------3.670741--------------
+------------Time consuming: 0.662425---Storaging: 6769541120.000000---------
+---------------------285---------------------
+Epoch 285 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 286, kl_loss 0.007764, dis_loss-4.021738
+-------------0.924463-----------------3.673749--------------
+------------Time consuming: 0.669097---Storaging: 6769541120.000000---------
+---------------------286---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 287, kl_loss 0.007763, dis_loss-4.038066
+-------------0.927592-----------------3.676769--------------
+------------Time consuming: 0.677230---Storaging: 6769541120.000000---------
+---------------------287---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 288, kl_loss 0.007764, dis_loss-4.041148
+-------------0.930715-----------------3.679802--------------
+------------Time consuming: 0.678209---Storaging: 6769541120.000000---------
+---------------------288---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 289, kl_loss 0.007764, dis_loss-4.045601
+-------------0.933840-----------------3.682847--------------
+------------Time consuming: 0.661425---Storaging: 6769541120.000000---------
+---------------------289---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 290, val_loss 0.108777
+-------------0.933840-----------------3.682847--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.44 degrees, mean 6.72 degree
+---------------------290---------------------
+Epoch 290 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 290, kl_loss 0.007763, dis_loss-4.047407
+-------------0.936966-----------------3.685845--------------
+------------Time consuming: 0.662954---Storaging: 6769541120.000000---------
+---------------------290---------------------
+Epoch 290 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 291, kl_loss 0.007762, dis_loss-4.075828
+-------------0.940091-----------------3.688986--------------
+------------Time consuming: 0.658146---Storaging: 6769541120.000000---------
+---------------------291---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 292, kl_loss 0.007763, dis_loss-4.073890
+-------------0.943214-----------------3.692100--------------
+------------Time consuming: 0.669324---Storaging: 6769541120.000000---------
+---------------------292---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 293, kl_loss 0.007762, dis_loss-4.075829
+-------------0.946342-----------------3.695156--------------
+------------Time consuming: 0.687427---Storaging: 6769541120.000000---------
+---------------------293---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 294, kl_loss 0.007759, dis_loss-4.086218
+-------------0.949471-----------------3.698257--------------
+------------Time consuming: 0.667443---Storaging: 6769541120.000000---------
+---------------------294---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 295, val_loss 0.107513
+-------------0.949471-----------------3.698257--------------
+Error in translation: median 0.12 m,  mean 0.16 m 
+ Error in rotation: median 5.13 degrees, mean 6.41 degree
+---------------------295---------------------
+Epoch 295 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 295, kl_loss 0.007760, dis_loss-4.083570
+-------------0.952595-----------------3.701330--------------
+------------Time consuming: 0.664597---Storaging: 6769541120.000000---------
+---------------------295---------------------
+Epoch 295 checkpoint saved for 7Scenes_chess_vmloc_False_2019_10
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 296, kl_loss 0.007760, dis_loss-4.102985
+-------------0.955727-----------------3.704451--------------
+------------Time consuming: 0.667117---Storaging: 6769541120.000000---------
+---------------------296---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 297, kl_loss 0.007759, dis_loss-4.107650
+-------------0.958857-----------------3.707572--------------
+------------Time consuming: 0.677202---Storaging: 6769541120.000000---------
+---------------------297---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 298, kl_loss 0.007759, dis_loss-4.077647
+-------------0.961980-----------------3.710574--------------
+------------Time consuming: 0.714758---Storaging: 6769541120.000000---------
+---------------------298---------------------
+Val 7Scenes_chess_vmloc_False_2019_10: Epoch 299, val_loss 0.111791
+-------------0.961980-----------------3.710574--------------
+Error in translation: median 0.12 m,  mean 0.17 m 
+ Error in rotation: median 5.44 degrees, mean 6.69 degree
+---------------------299---------------------
+Training 7Scenes_chess_vmloc_False_2019_10: Epoch 299, kl_loss 0.007759, dis_loss-4.060507
+-------------0.965097-----------------3.713459--------------
+------------Time consuming: 0.669152---Storaging: 6769541120.000000---------
+---------------------299---------------------
