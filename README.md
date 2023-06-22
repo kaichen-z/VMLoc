@@ -1,6 +1,6 @@
 ## Introduction 
 
-This is the PyTorch implementation of **VMLoc**, a simple and efficient neural architecture for Multimodal Camera Localization.
+This is the PyTorch implementation of **VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization**, a simple and efficient neural architecture for Multimodal Camera Localization.
 
 ## Setup
 
