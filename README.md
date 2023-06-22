@@ -59,7 +59,7 @@ python -u -m training --dataset RobotCar --scene loop --mode vmloc \
 The meanings of various command-line parameters are documented in train.py. The values of various hyperparameters are defined in `tools/options.py`.
 
 ### Inference
-The trained models for partial experiments presented in the paper could be found in `record`. The inference script is `testing.py`. Here are some examples, assuming the models are downloaded in `logs`.
+The trained models for partial experiments presented in the paper could be found here [Weights](https://drive.google.com/drive/folders/1QsdVHYKsPNeLRgOxYKDBGKeOTUJocK0A?usp=drive_link). The inference script is `testing.py`. Here are some examples, assuming the models are downloaded in `logs`.
 
 - VMLoc on `redkitchen` from `7Scenes`: 
 ```
