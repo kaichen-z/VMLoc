@@ -1,3 +1,5 @@
+# [VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://arxiv.org/pdf/2003.07289.pdf) - AAAI 2021.
+
 ## Introduction 
 
 This is the PyTorch implementation of **VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization**, a simple and efficient neural architecture for Multimodal Camera Localization.
